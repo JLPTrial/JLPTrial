@@ -1,6 +1,6 @@
 name: Nova funcionalidade
 description: Pedido de funcionalidade nova
-title: "<Seu Titulo>"
+title: "<Seu Título>"
 labels: ["Demanda", "status: Aguardando revisão"]
 body:
   - type: markdown

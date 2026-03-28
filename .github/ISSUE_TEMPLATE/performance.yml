@@ -1,6 +1,6 @@
 name: Performance
-description: Lentidao, travamentos ou consumo alto de recursos
-title: "<Seu Titulo>"
+description: Lentidão, travamentos ou consumo alto de recursos
+title: "<Seu Título>"
 labels: ["Performance", "status: Aguardando revisão"]
 body:
   - type: markdown
@@ -9,7 +9,7 @@ body:
   - type: textarea
     id: descricao
     attributes:
-      label: Descricao
+      label: Descrição
     validations:
       required: true
   - type: dropdown
@@ -60,7 +60,7 @@ body:
   - type: dropdown
     id: browser
     attributes:
-      label: Browser
+      label: Navegador
       description: Qual o navegador que você usou para acessar a versão WEB (se usou a versão WEB)
       options:
         - Google Chrome

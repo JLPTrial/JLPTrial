@@ -1,11 +1,11 @@
 name: Interface
 description: Problemas de interface, layout ou fluxo
-title: "<Seu Titulo>"
+title: "<Seu Título>"
 labels: ["Interface", "status: Aguardando revisão"]
 body:
   - type: markdown
     attributes:
-      value: "Inclua capturas de tela quando possivel. NÃO ESQUEÇA DE TROCAR O TÍTULO"
+      value: "Inclua capturas de tela quando possível. NÃO ESQUEÇA DE TROCAR O TÍTULO"
   - type: input
     id: tela
     attributes:
@@ -44,7 +44,7 @@ body:
   - type: dropdown
     id: browser
     attributes:
-      label: Browser
+      label: Navegador
       description: Qual o navegador que você usou para acessar a versão WEB (se usou a versão WEB)
       options:
         - Google Chrome

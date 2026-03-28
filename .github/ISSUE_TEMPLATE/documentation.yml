@@ -1,6 +1,6 @@
 name: Documentação
 description: Erros, falta de clareza ou ausência de informação
-title: "<Seu Titulo>"
+title: "<Seu Título>"
 labels: ["Documentação", "status: Aguardando revisão"]
 body:
   - type: markdown

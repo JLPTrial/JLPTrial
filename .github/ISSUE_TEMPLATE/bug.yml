@@ -1,15 +1,15 @@
 name: Bug
 description: Relate um comportamento inesperado
-title: "<Seu Titulo>"
+title: "<Seu Título>"
 labels: ["Bug", "status: Aguardando revisão"]
 body:
   - type: markdown
     attributes:
-      value: "Preencha o maximo de detalhes possivel. NÃO ESQUEÇA DE TROCAR O TÍTULO"
+      value: "Preencha o máximo de detalhes possível. NÃO ESQUEÇA DE TROCAR O TÍTULO"
   - type: textarea
     id: descricao
     attributes:
-      label: Descricao
+      label: Descrição
       description: Qual o bug observado?
     validations:
       required: true
@@ -51,7 +51,7 @@ body:
   - type: dropdown
     id: browser
     attributes:
-      label: Browser
+      label: Navegador
       description: Qual o navegador que você usou para acessar a versão WEB (se usou a versão WEB)
       options:
         - Google Chrome

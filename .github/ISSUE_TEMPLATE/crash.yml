@@ -1,6 +1,6 @@
 name: Crash
-description: Relate um fechamento inesperado ou travamento critico
-title: "<Seu Titulo>"
+description: Relate um fechamento inesperado ou travamento crítico
+title: "<Seu Título>"
 labels: ["Crash", "status: Aguardando revisão"]
 body:
   - type: markdown
@@ -9,7 +9,7 @@ body:
   - type: textarea
     id: descricao
     attributes:
-      label: Descricao
+      label: Descrição
     validations:
       required: true
   - type: textarea
@@ -28,10 +28,10 @@ body:
   - type: dropdown
     id: frequencia
     attributes:
-      label: Frequencia
+      label: Frequência
       options:
         - Sempre
-        - As vezes
+        - Às vezes
         - Raro
     validations:
       required: true
@@ -64,7 +64,7 @@ body:
   - type: dropdown
     id: browser
     attributes:
-      label: Browser
+      label: Navegador
       description: Qual o navegador que você usou para acessar a versão WEB (se usou a versão WEB)
       options:
         - Google Chrome
