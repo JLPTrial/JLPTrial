@@ -1,0 +1,1641 @@
+[
+  {
+    "id": 1,
+    "question_type": "reading",
+    "question_text": "きのう買ったかさはどんなかさですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "高くておもいです。",
+      "alternative_2": "安いですが、おもいです。",
+      "alternative_3": "かるくてきれいです。",
+      "alternative_4": "きれいですが、高いです。",
+      "correct_alternative": 3
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "Ａ：きのうかさを買いました。\nＢ：あ、そのかさですか。きれいなかさですね。高かったですか。\nＡ：いいえ。きょねん買ったのは高くておもかったですが、このかさはかるくていいです。"
+    },
+    "tags": null
+  },
+  {
+    "id": 2,
+    "question_type": "reading",
+    "question_text": "ただしいものはどれですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "れんしゅうを休んだ人は３人です。",
+      "alternative_2": "れんしゅうは９時２０分から１時までです。",
+      "alternative_3": "高木さんは１時間れんしゅうしました。",
+      "alternative_4": "高木さんは９時５０分にれんしゅうに来ました。",
+      "correct_alternative": 4
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "わたしたちはまいあさうたのれんしゅうをします。けさのれんしゅうは９時２０分から１時間でした。山川さんと大山さんは来ませんでした。高木さんは３０分おそく来ました。"
+    },
+    "tags": null
+  },
+  {
+    "id": 3,
+    "question_type": "reading",
+    "question_text": "（ア）には何を入れますか。",
+    "statement": {
+      "statement_text": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "とりますか",
+      "alternative_2": "とりましょうか",
+      "alternative_3": "とっていますか",
+      "alternative_4": "とってくださいませんか",
+      "correct_alternative": 4
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "パク：すみません、あの上にある本を見たいです。（ ア ）。\n店の人：はい、わかりました。（ イ ）。\nパク：あれです。あの『にほんご』と書いてある本です。\n店の人：これですか。\nパク：いいえ、かんじじゃなくてひらがなで『にほんご』と書いてある本です。\n店の人：ああ、これですか。\nパク：はい、それです。それはいくらですか。\n店の人：３０００円です。\nパク：３０００円ですか。ちょっと高いですね。（ウ）すみません。\n店の人：いいえ。またどうぞ。"
+    },
+    "tags": null
+  },
+  {
+    "id": 4,
+    "question_type": "reading",
+    "question_text": "（イ）には何を入れますか。",
+    "statement": {
+      "statement_text": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "どの本ですか",
+      "alternative_2": "どれが本ですか",
+      "alternative_3": "これは本ですか",
+      "alternative_4": "この本はありませんか",
+      "correct_alternative": 1
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "パク：すみません、あの上にある本を見たいです。（ ア ）。\n店の人：はい、わかりました。（ イ ）。\nパク：あれです。あの『にほんご』と書いてある本です。\n店の人：これですか。\nパク：いいえ、かんじじゃなくてひらがなで『にほんご』と書いてある本です。\n店の人：ああ、これですか。\nパク：はい、それです。それはいくらですか。\n店の人：３０００円です。\nパク：３０００円ですか。ちょっと高いですね。（ウ）すみません。\n店の人：いいえ。またどうぞ。"
+    },
+    "tags": null
+  },
+  {
+    "id": 5,
+    "question_type": "reading",
+    "question_text": "（ウ）には何を入れますか。",
+    "statement": {
+      "statement_text": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "じゃ、それです",
+      "alternative_2": "じゃ、いいです",
+      "alternative_3": "じゃ、それにします",
+      "alternative_4": "じゃ、そうしましょう",
+      "correct_alternative": 2
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "パク：すみません、あの上にある本を見たいです。（ ア ）。\n店の人：はい、わかりました。（ イ ）。\nパク：あれです。あの『にほんご』と書いてある本です。\n店の人：これですか。\nパク：いいえ、かんじじゃなくてひらがなで『にほんご』と書いてある本です。\n店の人：ああ、これですか。\nパク：はい、それです。それはいくらですか。\n店の人：３０００円です。\nパク：３０００円ですか。ちょっと高いですね。（ウ）すみません。\n店の人：いいえ。またどうぞ。"
+    },
+    "tags": null
+  },
+  {
+    "id": 6,
+    "question_type": "reading",
+    "question_text": "ただしいものはどれですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "くすりは３日飲みます。１日３かいごはんの前に飲みます。",
+      "alternative_2": "くすりは３日飲みます。１日３かいごはんの後で飲みます。",
+      "alternative_3": "くすりは１日４かい、ごはんの前とよるねる前に飲みます。",
+      "alternative_4": "くすりは１日４かい、ごはんの後とよるねる前に飲みます。",
+      "correct_alternative": 4
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "かぜですね。くすりを出しますから、きょうから３日飲んでください。あさ、ひる、ばんのごはんの後とねる前に飲んでください。"
+    },
+    "tags": null
+  },
+  {
+    "id": 7,
+    "question_type": "reading",
+    "question_text": "ただしいいものはどれですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "学校は駅から歩いて５分です。",
+      "alternative_2": "学校は橋から歩いて１０分です。",
+      "alternative_3": "学校は駅の横の建物です。",
+      "alternative_4": "学校は病院の横の建物です。",
+      "correct_alternative": 4
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "駅の前の道をまっすぐ行って橋を渡ります。そこから５分歩きます。右に病院があります。学校は病院のとなりです。駅から学校まで１０分ぐらいです。"
+    },
+    "tags": null
+  },
+  {
+    "id": 8,
+    "question_type": "reading",
+    "question_text": "（ア）には何を入れますか。",
+    "statement": {
+      "statement_text": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "しつれいします",
+      "alternative_2": "ごめんください",
+      "alternative_3": "ごぶさたしています",
+      "alternative_4": "ようこそ",
+      "correct_alternative": 3
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "しずかさん、お元気ですか。（ア）。この前の同窓会で会ってから（イ）会っていませんね。\n（ウ）６月１８日金曜日は、わたしの誕生日なんです。みんなに会いたいので、誕生パーティーをひらくことにしました。わたしの家はアパートだし、せまいので、近くのお店をよやくしました。しょうたいした人は、なおみさんやひろみさんなど、しずかさんが知っている人ばかりです。かいひを２千５百円いただきますから、プレゼントなどのご心配はいりません。場所は地図を入れておいたので、来てください。\nつごうがわるいばあいは、おてすうですが、前の日までにわたしのところにお電話をお願いします。それでは、ぜひ来てください。待っています。\n明子より"
+    },
+    "tags": null
+  },
+  {
+    "id": 9,
+    "question_type": "reading",
+    "question_text": "（イ）には何を入れますか。",
+    "statement": {
+      "statement_text": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "あまり",
+      "alternative_2": "ほとんど",
+      "alternative_3": "よくは",
+      "alternative_4": "たくさん",
+      "correct_alternative": 2
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "しずかさん、お元気ですか。（ア）。この前の同窓会で会ってから（イ）会っていませんね。\n（ウ）６月１８日金曜日は、わたしの誕生日なんです。みんなに会いたいので、誕生パーティーをひらくことにしました。わたしの家はアパートだし、せまいので、近くのお店をよやくしました。しょうたいした人は、なおみさんやひろみさんなど、しずかさんが知っている人ばかりです。かいひを２千５百円いただきますから、プレゼントなどのご心配はいりません。場所は地図を入れておいたので、来てください。\nつごうがわるいばあいは、おてすうですが、前の日までにわたしのところにお電話をお願いします。それでは、ぜひ来てください。待っています。\n明子より"
+    },
+    "tags": null
+  },
+  {
+    "id": 10,
+    "question_type": "reading",
+    "question_text": "（ウ）には何を入れますか。",
+    "statement": {
+      "statement_text": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "ところが",
+      "alternative_2": "ところで",
+      "alternative_3": "じつは",
+      "alternative_4": "これは",
+      "correct_alternative": 3
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "しずかさん、お元気ですか。（ア）。この前の同窓会で会ってから（イ）会っていませんね。\n（ウ）６月１８日金曜日は、わたしの誕生日なんです。みんなに会いたいので、誕生パーティーをひらくことにしました。わたしの家はアパートだし、せまいので、近くのお店をよやくしました。しょうたいした人は、なおみさんやひろみさんなど、しずかさんが知っている人ばかりです。かいひを２千５百円いただきますから、プレゼントなどのご心配はいりません。場所は地図を入れておいたので、来てください。\nつごうがわるいばあいは、おてすうですが、前の日までにわたしのところにお電話をお願いします。それでは、ぜひ来てください。待っています。\n明子より"
+    },
+    "tags": null
+  },
+  {
+    "id": 11,
+    "question_type": "reading",
+    "question_text": "『しつもん』 ただしいものはどれですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "はしはこうばんの左にあります。",
+      "alternative_2": "こうばんははしのよこにあります。",
+      "alternative_3": "こうばんははしのむこうにあります。",
+      "alternative_4": "はしはここから５分ぐらいかかります。",
+      
+      "correct_alternative": 3
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "ａ：すみません、こうばんはどこですか。\nｂ：こうばんですか。そこにはしがありますね。そのはしをわたってまっすぐ行ってください。左側にありますよ。\nａ：そうですか。ここからどれぐらいかかりますか。\nｂ：そうですね。５分ぐらいでしょう。"
+    },
+    "tags": null
+  },
+  {
+    "id": 12,
+    "question_type": "reading",
+    "question_text": "『しつもん』 テストのとき本はどこにおきますか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "かばんの中です。",
+      "alternative_2": "つくえの中です。",
+      "alternative_3": "つくえの上です。",
+      "alternative_4": "かばんの上です。",
+      "correct_alternative": 1
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "先生：つくえの上に本をおかないでください。\n学生：あ、すみません。つくえの中に入れますか。\n先生：いいえ、本はかばんの中に入れてください。つくえの上にはえんぴつだけおいてください。では、テストをします。"
+    },
+    "tags": null
+  },
+  {
+    "id": 13,
+    "question_type": "reading",
+    "question_text": "『しつもん』 （ア）には何を入れますか。",
+    "statement": {
+      "statement_text": "（ア） から （イ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "そうでした",
+      "alternative_2": "そうですか",
+      "alternative_3": "そうしましょう",
+      "alternative_4": "そうします",
+      "correct_alternative": 2
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "ヤン：もそもし、大山さんですか。ヤンです。\n大山：アメリカにいるヤンさん？おげんきですか。\nヤン：はい。げんきです。大山さん、おたんじょうび、おめでとうございます。\n大山：ああ、ヤンさん、わたしのたんじょうびをまだおぼえていましたか。ありがとうございます。\nヤン：もちろんです。でもことしはいっしょにたんじょうびのパーティーができませんでしたね。もうパーティーをしましたか。\n大山：ええ。きのうかいしゃのともだちとケーキを食べたり、ダンスをしたりしてたのしかったですよ。あしたはかぞくとレストランへ行きます。\nヤン：（ア）\n大山：来月しごとでアメリカへ行きますからヤンさんにもいちどあいたいですね。\nヤン：ほんとうですか。（イ）そのときは電話をください。"
+    },
+    "tags": null
+  },
+  {
+    "id": 14,
+    "question_type": "reading",
+    "question_text": "『しつもん』 （イ）には何を入れますか。",
+    "statement": {
+      "statement_text": "（ア） から （イ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "じゃあ",
+      "alternative_2": "たぶん",
+      "alternative_3": "どうも",
+      "alternative_4": "あれから",
+      "correct_alternative": 1
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "ヤン：もそもし、大山さんですか。ヤンです。\n大山：アメリカにいるヤンさん？おげんきですか。\nヤン：はい。げんきです。大山さん、おたんじょうび、おめでとうございます。\n大山：ああ、ヤンさん、わたしのたんじょうびをまだおぼえていましたか。ありがとうございます。\nヤン：もちろんです。でもことしはいっしょにたんじょうびのパーティーができませんでしたね。もうパーティーをしましたか。\n大山：ええ。きのうかいしゃのともだちとケーキを食べたり、ダンスをしたりしてたのしかったですよ。あしたはかぞくとレストランへ行きます。\nヤン：（ア）\n大山：来月しごとでアメリカへ行きますからヤンさんにもいちどあいたいですね。\nヤン：ほんとうですか。（イ）そのときは電話をください。"
+    },
+    "tags": null
+  },
+  {
+    "id": 15,
+    "question_type": "reading",
+    "question_text": "『しつもん』 ヤンさんはどうして大山に電話をしましたか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "大山さんにあいたいから電話しまあした",
+      "alternative_2": "大山さんがアメリカに行くから電話しました",
+      "alternative_3": "大山さんがパーティーをするから電話しました",
+      "alternative_4": "大山さんのたんじょうびから電話しました",
+      "correct_alternative": 4
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "ヤン：もそもし、大山さんですか。ヤンです。\n大山：アメリカにいるヤンさん？おげんきですか。\nヤン：はい。げんきです。大山さん、おたんじょうび、おめでとうございます。\n大山：ああ、ヤンさん、わたしのたんじょうびをまだおぼえていましたか。ありがとうございます。\nヤン：もちろんです。でもことしはいっしょにたんじょうびのパーティーができませんでしたね。もうパーティーをしましたか。\n大山：ええ。きのうかいしゃのともだちとケーキを食べたり、ダンスをしたりしてたのしかったですよ。あしたはかぞくとレストランへ行きます。\nヤン：（ア）\n大山：来月しごとでアメリカへ行きますからヤンさんにもいちどあいたいですね。\nヤン：ほんとうですか。（イ）そのときは電話をください。"
+    },
+    "tags": null
+  },
+  {
+    "id": 16,
+    "question_type": "reading",
+    "question_text": "『しつもん』 ただしいものはどれですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "大山さんはあしたかいしゃのともだちとパーティーをします。",
+      "alternative_2": "大山さんはきのうかいしゃのともだちとパーティーをしました。",
+      "alternative_3": "大山さんはあしたたんじょうびからともだちとレストランへ行きます。",
+      "alternative_4": "大山さんはきのうたんじょうびだったからかぞくとパーティーをしました。",
+      "correct_alternative": 2
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "ヤン：もそもし、大山さんですか。ヤンです。\n大山：アメリカにいるヤンさん？おげんきですか。\nヤン：はい。げんきです。大山さん、おたんじょうび、おめでとうございます。\n大山：ああ、ヤンさん、わたしのたんじょうびをまだおぼえていましたか。ありがとうございます。\nヤン：もちろんです。でもことしはいっしょにたんじょうびのパーティーができませんでしたね。もうパーティーをしましたか。\n大山：ええ。きのうかいしゃのともだちとケーキを食べたり、ダンスをしたりしてたのしかったですよ。あしたはかぞくとレストランへ行きます。\nヤン：（ア）\n大山：来月しごとでアメリカへ行きますからヤンさんにもいちどあいたいですね。\nヤン：ほんとうですか。（イ）そのときは電話をください。"
+    },
+    "tags": null
+  },
+  {
+    "id": 17,
+    "question_type": "reading",
+    "question_text": "「１」にはなにをいれますか。",
+    "statement": {
+      "statement_text": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "おもしろい",
+      "alternative_2": "つまらない",
+      "alternative_3": "やさしい",
+      "alternative_4": "むずかしい",
+      "correct_alternative": 1
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "「うちでこの本をよんでください。すこしむずかしいですが、とても「１」ですから、がんばってください。知らない「２」がはいっていますが、はじめはじしょをひかないでぜんぶ「３」ください。つぎにじしょをひきながらもう「４」よんでください。いいですか。２かいよむんですよ。」"
+    },
+    "tags": null
+  },
+  {
+    "id": 18,
+    "question_type": "reading",
+    "question_text": "「２」にはなにをいれますか。",
+    "statement": {
+      "statement_text": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "本",
+      "alternative_2": "ことば",
+      "alternative_3": "じしょ",
+      "alternative_4": "人",
+      "correct_alternative": 2
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "「うちでこの本をよんでください。すこしむずかしいですが、とても「１」ですから、がんばってください。知らない「２」がはいっていますが、はじめはじしょをひかないでぜんぶ「３」ください。つぎにじしょをひきながらもう「４」よんでください。いいですか。２かいよむんですよ。」"
+    },
+    "tags": null
+  },
+  {
+    "id": 19,
+    "question_type": "reading",
+    "question_text": "「３」にはなにをいれますか。",
+    "statement": {
+      "statement_text": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "はなして",
+      "alternative_2": "よんで",
+      "alternative_3": "ひいて",
+      "alternative_4": "はいって",
+      "correct_alternative": 2
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "「うちでこの本をよんでください。すこしむずかしいですが、とても「１」ですから、がんばってください。知らない「２」がはいっていますが、はじめはじしょをひかないでぜんぶ「３」ください。つぎにじしょをひきながらもう「４」よんでください。いいですか。２かいよむんですよ。」"
+    },
+    "tags": null
+  },
+  {
+    "id": 20,
+    "question_type": "reading",
+    "question_text": "「４」にはなにをいれますか。",
+    "statement": {
+      "statement_text": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "いっさつ",
+      "alternative_2": "ひとり",
+      "alternative_3": "いっぽん",
+      "alternative_4": "いちど",
+      "correct_alternative": 4
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "「うちでこの本をよんでください。すこしむずかしいですが、とても「１」ですから、がんばってください。知らない「２」がはいっていますが、はじめはじしょをひかないでぜんぶ「３」ください。つぎにじしょをひきながらもう「４」よんでください。いいですか。２かいよむんですよ。」"
+    },
+    "tags": null
+  },
+  {
+    "id": 21,
+    "question_type": "reading",
+    "question_text": "この人がサングラスをかけるのはどうしてですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "風がつよいからです",
+      "alternative_2": "さむいからです",
+      "alternative_3": "てんきがいいからです",
+      "alternative_4": "あついからです",
+      "correct_alternative": 1
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "サングラスというのはふつうなつのてんきのいい日にかけるめがねだが、わたしはふゆによくつかう。日本ではふゆによくつよい風がふくからだ。"
+    },
+    "tags": null
+  },
+  {
+    "id": 22,
+    "question_type": "reading",
+    "question_text": "「しつもん」リンさんはおかねをはらいましたが、パーティーに行きませんでした。キムさんはリンさんにいついくらかえしますか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "もくよう日に６００円かえします",
+      "alternative_2": "もくよう日に３００円かえします",
+      "alternative_3": "きんよう日に６００円かえします",
+      "alternative_4": "きんよう日に３００円かえします",
+      "correct_alternative": 4
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "こんしゅうのもくよう日のパーティーに出る人は、まえの日にキムさんに６００円はらってください。おかねをはらってパーティーに来なかった人には、つぎの日にキムさんがはんぶんかえします。"
+    },
+    "tags": null
+  },
+  {
+    "id": 23,
+    "question_type": "reading",
+    "question_text": "「１」にはなにをいれますか。",
+    "statement": {
+      "statement_text": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "ふたり",
+      "alternative_2": "ににん",
+      "alternative_3": "ににち",
+      "alternative_4": "にかい",
+      "correct_alternative": 1
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "きのうはともだちと「１」でえいがに行きました。えいがは２じかんぐらいでおわりました。ひるごはんのじかんに「２」のでしょくどうにはいってごはんをたべました。「３」デパートでかいものをしました。すこしつかれたけれど、「４」いちにちでした。"
+    },
+    "tags": null
+  },
+  {
+    "id": 24,
+    "question_type": "reading",
+    "question_text": "「２」にはなにをいれますか。",
+    "statement": {
+      "statement_text": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "いた",
+      "alternative_2": "した",
+      "alternative_3": "なった",
+      "alternative_4": "たべた",
+      "correct_alternative": 3
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "きのうはともだちと「１」でえいがに行きました。えいがは２じかんぐらいでおわりました。ひるごはんのじかんに「２」のでしょくどうにはいってごはんをたべました。「３」デパートでかいものをしました。すこしつかれたけれど、「４」いちにちでした。"
+    },
+    "tags": null
+  },
+  {
+    "id": 25,
+    "question_type": "reading",
+    "question_text": "「３」にはなにをいれますか。",
+    "statement": {
+      "statement_text": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "それでは",
+      "alternative_2": "そのまえ",
+      "alternative_3": "そのうち",
+      "alternative_4": "それから",
+      "correct_alternative": 4
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "きのうはともだちと「１」でえいがに行きました。えいがは２じかんぐらいでおわりました。ひるごはんのじかんに「２」のでしょくどうにはいってごはんをたべました。「３」デパートでかいものをしました。すこしつかれたけれど、「４」いちにちでした。"
+    },
+    "tags": null
+  },
+  {
+    "id": 26,
+    "question_type": "reading",
+    "question_text": "「４」にはなにをいれますか。",
+    "statement": {
+      "statement_text": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "わるい",
+      "alternative_2": "たのしい",
+      "alternative_3": "きたない",
+      "alternative_4": "むずかしい",
+      "correct_alternative": 2
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "きのうはともだちと「１」でえいがに行きました。えいがは２じかんぐらいでおわりました。ひるごはんのじかんに「２」のでしょくどうにはいってごはんをたべました。「３」デパートでかいものをしました。すこしつかれたけれど、「４」いちにちでした。"
+    },
+    "tags": null
+  },
+  {
+    "id": 27,
+    "question_type": "reading",
+    "question_text": "アパートの人は、来週の月曜日と火曜日には、外に出る時、どうしますか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "来週の月曜日の午前１１時には、階段を使います。",
+      "alternative_2": "来週の月曜日の午後３時には、エレベーターを使います。",
+      "alternative_3": "来週の火曜日の午前１１時には、エレベーターを使います。",
+      "alternative_4": "来週の火曜日の午後３時には、階段を使いません。",
+      "correct_alternative": 1
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "アパートの皆さんへ\n来週の月曜日と火曜日の午前１０時から午後５時までエレベーターを使わないでください。階段を使ってください。"
+    },
+    "tags": null
+  },
+  {
+    "id": 28,
+    "question_type": "reading",
+    "question_text": "Question 2",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "わたしはきのうのよる友だちと話したあとでねました。",
+      "alternative_2": "わたしはきのうのよる友だちに１かいしか電話しませんでした。",
+      "alternative_3": "わたしはきのうのよる友だちと２かい電話で話しました。",
+      "alternative_4": "わたしはきのうのよる友だちと電話で話しませんでした。",
+      "correct_alternative": 4
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "きのうのよる１０時に友だちのうちに電話をしましたが、友だちはいませんでした。１時間あとでもういちどかけました。でも友だちはまだかえっていませんでした。わたしは１１時ごろねました。"
+    },
+    "tags": null
+  },
+  {
+    "id": 29,
+    "question_type": "reading",
+    "question_text": "（ア）には何を入れますか。",
+    "statement": {
+      "statement_text": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "話しました",
+      "alternative_2": "答えました",
+      "alternative_3": "呼びました",
+      "alternative_4": "聞きました",
+      "correct_alternative": 4
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "先月わたしは学校の友達といっしょに、おきなわへ旅行に行きました。わたしたちは、旅行の前に、おきなわから来た日本人の友達にいろいろ（ア）。友達は、「おきなわはとうきょうよりずっと南だから、とても暑いよ。（イ）、夏の服をたくさん持っていったほうがいい」と言いました。そのころとうきょうはまだ４月だったので、きおんが１４どぐらいでした。（ウ）、わたしはおしいれのおくから、夏の洋服を出して、かばんにいっぱい入れて出かけることにしました。２はく３日の旅行ですが、一日中、おきなわの町をけんぶつしたり、海で泳いだりするので、ようふくはたくさんあったほうがいいと思ったのです。"
+    },
+    "tags": null
+  },
+  {
+    "id": 30,
+    "question_type": "reading",
+    "question_text": "（イ）には何を入れますか。",
+    "statement": {
+      "statement_text": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "だから",
+      "alternative_2": "それから",
+      "alternative_3": "すると",
+      "alternative_4": "だけど",
+      "correct_alternative": 1
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "先月わたしは学校の友達といっしょに、おきなわへ旅行に行きました。わたしたちは、旅行の前に、おきなわから来た日本人の友達にいろいろ（ア）。友達は、「おきなわはとうきょうよりずっと南だから、とても暑いよ。（イ）、夏の服をたくさん持っていったほうがいい」と言いました。そのころとうきょうはまだ４月だったので、きおんが１４どぐらいでした。（ウ）、わたしはおしいれのおくから、夏の洋服を出して、かばんにいっぱい入れて出かけることにしました。２はく３日の旅行ですが、一日中、おきなわの町をけんぶつしたり、海で泳いだりするので、ようふくはたくさんあったほうがいいと思ったのです。"
+    },
+    "tags": null
+  },
+  {
+    "id": 31,
+    "question_type": "reading",
+    "question_text": "（ウ）には何を入れますか。",
+    "statement": {
+      "statement_text": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "そうすると",
+      "alternative_2": "ところが",
+      "alternative_3": "それで",
+      "alternative_4": "それに",
+      "correct_alternative": 3
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "先月わたしは学校の友達といっしょに、おきなわへ旅行に行きました。わたしたちは、旅行の前に、おきなわから来た日本人の友達にいろいろ（ア）。友達は、「おきなわはとうきょうよりずっと南だから、とても暑いよ。（イ）、夏の服をたくさん持っていったほうがいい」と言いました。そのころとうきょうはまだ４月だったので、きおんが１４どぐらいでした。（ウ）、わたしはおしいれのおくから、夏の洋服を出して、かばんにいっぱい入れて出かけることにしました。２はく３日の旅行ですが、一日中、おきなわの町をけんぶつしたり、海で泳いだりするので、ようふくはたくさんあったほうがいいと思ったのです。"
+    },
+    "tags": null
+  },
+  {
+    "id": 32,
+    "question_type": "reading",
+    "question_text": "([blank]) には何を入れますか。",
+    "statement": {
+      "statement_text": "([blank]) に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "本は２９日、ざっしは２２日です。",
+      "alternative_2": "本は２２日、ざっしは２９日です。",
+      "alternative_3": "本もざっしも２９日です。",
+      "alternative_4": "本もざっしも２２日です。",
+      "correct_alternative": 1
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "学生：すみません。この本をかりたいです。\nとしょかんの人：この学校の学生ですか。\n学生：はい。\nとしょかんの人：では、はじめにこのかみに名前とじゅうしょと電話ばんごうを書いてぐださい。\n学生：はい。\nとしょかんの人：書きましたか。\n学生：はい。\nとしょかんの人：これはじしょですね。としょかんの中でつかってぐださい。\n学生：はい、わかりました。では、この７さつをかしてぐださい。\nとしょかんの人：ああ、学生は４さつまでです。\n学生：そうですか。では、この３さつはかりません。\nとしょかんの人：わかりました。では、こちらの本は２しゅうかん、ざっしは1しゅうかんでかえしてぐださい。きょうは１５日ですから、([blank])\n学生：はい、わかりました。"
+    },
+    "tags": null
+  },
+  {
+    "id": 33,
+    "question_type": "reading",
+    "question_text": "この学生は何さつかりましたか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "３さつ",
+      "alternative_2": "４さつ",
+      "alternative_3": "５さつ",
+      "alternative_4": "６さつ",
+      "correct_alternative": 2
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "学生：すみません。この本をかりたいです。\nとしょかんの人：この学校の学生ですか。\n学生：はい。\nとしょかんの人：では、はじめにこのかみに名前とじゅうしょと電話ばんごうを書いてぐださい。\n学生：はい。\nとしょかんの人：書きましたか。\n学生：はい。\nとしょかんの人：これはじしょですね。としょかんの中でつかってぐださい。\n学生：はい、わかりました。では、この７さつをかしてぐださい。\nとしょかんの人：ああ、学生は４さつまでです。\n学生：そうですか。では、この３さつはかりません。\nとしょかんの人：わかりました。では、こちらの本は２しゅうかん、ざっしは1しゅうかんでかえしてぐださい。きょうは１５日ですから、([blank])\n学生：はい、わかりました。"
+    },
+    "tags": null
+  },
+  {
+    "id": 34,
+    "question_type": "reading",
+    "question_text": "この学生はとしょかんで何をしましたか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "本に名前を書きました。",
+      "alternative_2": "かみに本の名前を書きました。",
+      "alternative_3": "じしょをかりました。",
+      "alternative_4": "本とざっしをかりました。",
+      "correct_alternative": 4
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "学生：すみません。この本をかりたいです。\nとしょかんの人：この学校の学生ですか。\n学生：はい。\nとしょかんの人：では、はじめにこのかみに名前とじゅうしょと電話ばんごうを書いてぐださい。\n学生：はい。\nとしょかんの人：書きましたか。\n学生：はい。\nとしょかんの人：これはじしょですね。としょかんの中でつかってぐださい。\n学生：はい、わかりました。では、この７さつをかしてぐださい。\nとしょかんの人：ああ、学生は４さつまでです。\n学生：そうですか。では、この３さつはかりません。\nとしょかんの人：わかりました。では、こちらの本は２しゅうかん、ざっしは1しゅうかんでかえしてぐださい。きょうは１５日ですから、([blank])\n学生：はい、わかりました。"
+    },
+    "tags": null
+  },
+  {
+    "id": 35,
+    "question_type": "reading",
+    "question_text": "このとしょかんで学生ができることは何ですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "ざっしを２しゅうかんかりること",
+      "alternative_2": "本を５さつかりること",
+      "alternative_3": "本やざっしを４さつまでかりること",
+      "alternative_4": "本とじしょを１しゅうかんかりること",
+      "correct_alternative": 3
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "学生：すみません。この本をかりたいです。\nとしょかんの人：この学校の学生ですか。\n学生：はい。\nとしょかんの人：では、はじめにこのかみに名前とじゅうしょと電話ばんごうを書いてぐださい。\n学生：はい。\nとしょかんの人：書きましたか。\n学生：はい。\nとしょかんの人：これはじしょですね。としょかんの中でつかってぐださい。\n学生：はい、わかりました。では、この７さつをかしてぐださい。\nとしょかんの人：ああ、学生は４さつまでです。\n学生：そうですか。では、この３さつはかりません。\nとしょかんの人：わかりました。では、こちらの本は２しゅうかん、ざっしは1しゅうかんでかえしてぐださい。きょうは１５日ですから、([blank])\n学生：はい、わかりました。"
+    },
+    "tags": null
+  },
+  {
+    "id": 36,
+    "question_type": "reading",
+    "question_text": "ただしいものはどれですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "むらたさんはきょうしゅくだいをおしえます。",
+      "alternative_2": "りんさんはきょうじゅぎょうを休みます。",
+      "alternative_3": "むらたさんはあしたびょういんへ行きます。",
+      "alternative_4": "りんさんはむらたさんに電話します。",
+      "correct_alternative": 4
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "リン：むらたさん、ちょっといいですか。\nむらた：はい、なんですか。\nリン：明日病院へ行きますから、じゅぎょうに出ません。明日の夜電話しますから、宿題をおしえてください。\nむらた：はい、わかりました。"
+    },
+    "tags": null
+  },
+  {
+    "id": 37,
+    "question_type": "reading",
+    "question_text": "ただしいものはどれですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "毎週月曜日はパンが安いです。",
+      "alternative_2": "パンはまいばん店で作ります。",
+      "alternative_3": "１０月３日からいろいろなパンを売ります。",
+      "alternative_4": "野菜が入っているパンは甘いです。",
+      "correct_alternative": 3
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "新しいパン屋です！\n私たちがまいあさこの店でパンを作ります。野菜は入っているパンもあります。ほかに、甘いパンもあります。\n１０月３日の月曜日からです。\n１０月５日まで甘いパンを安く売ります。\n皆さん、どうぞ来てください。"
+    },
+    "tags": null
+  },
+  {
+    "id": 38,
+    "question_type": "reading",
+    "question_text": "ただしいものはどれですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "ねこもいぬもくろいです。",
+      "alternative_2": "ねこもいぬもかわいいです。",
+      "alternative_3": "ねこは外であそびますが、いぬはあそびません。",
+      "alternative_4": "ねこはくろくないですが、いぬはくろいです。",
+      "correct_alternative": 2
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "わたしのうちにくろいねことちゃいろのいぬがいます。どちらもとてもかわいいです。いつも外であそんでいます。"
+    },
+    "tags": null
+  },
+  {
+    "id": 39,
+    "question_type": "reading",
+    "question_text": "田中さんはどんなことが好きですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "友達と美術館に行くこと",
+      "alternative_2": "一人でゆっくり絵を見ること",
+      "alternative_3": "５月の休みに旅行に行くこと",
+      "alternative_4": "外国に行って友達に手紙を書くこと",
+      "correct_alternative": 2
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "田中さんは絵を見るのが好きです。一人でゆっくりと好きな絵を見るために、今年は５月の休みに外国へ行くことにしました。でも、一人で飛行機に乗るのははじめてで、少し心配でした。旅行した国では、日本と時間が違うので、はじめは少しねむくなりました。また食べ物もからかったので、水をたくさん飲みすぎて、お腹が痛くなってしまいました。でも、見たかった絵をゆっくり見ることができたので、そんなことはすぐ忘れてしまいました。田中さんは、旅行中に友達になった人は、今でも手紙を書いています。"
+    },
+    "tags": null
+  },
+  {
+    "id": 40,
+    "question_type": "reading",
+    "question_text": "田中さんは旅行に行く前にどんなことが心配でしたか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "はじめて一人で飛行機に乗ること",
+      "alternative_2": "食べ物がからくて水を飲みすぎること",
+      "alternative_3": "旅行した国でねむくなってしまうこと",
+      "alternative_4": "水を飲みすぎてお腹が痛くなること",
+      "correct_alternative": 1
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "田中さんは絵を見るのが好きです。一人でゆっくりと好きな絵を見るために、今年は５月の休みに外国へ行くことにしました。でも、一人で飛行機に乗るのははじめてで、少し心配でした。旅行した国では、日本と時間が違うので、はじめは少しねむくなりました。また食べ物もからかったので、水をたくさん飲みすぎて、お腹が痛くなってしまいました。でも、見たかった絵をゆっくり見ることができたので、そんなことはすぐ忘れてしまいました。田中さんは、旅行中に友達になった人は、今でも手紙を書いています。"
+    },
+    "tags": null
+  },
+  {
+    "id": 41,
+    "question_type": "reading",
+    "question_text": "ただしいものはどれですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "この人はいつもバスに乗る",
+      "alternative_2": "この人はいつもちかてつに乗る",
+      "alternative_3": "この人は雨の日はバスに乗る",
+      "alternative_4": "この人は雨の日はちかてつに乗る",
+      "correct_alternative": 4
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "わたしの家から会社までちかてつでもバスでも行ける。バスはやすいが、乗るところまで遠いし、長い時間待たなければならない。ちかてつはバスにくらべると高いが、駅は近い。さいきんは運動のために天気のいい日だけは遠くまで歩いてバスに乗ることにしている。"
+    },
+    "tags": null
+  },
+  {
+    "id": 42,
+    "question_type": "reading",
+    "question_text": "([blank])　には何を入れますか。",
+    "statement": {
+      "statement_text": "([blank]) に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "けっこうです",
+      "alternative_2": "こちらこそ",
+      "alternative_3": "いいですね",
+      "alternative_4": "よかった",
+      "correct_alternative": 4
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "すずき：あのう、すみません。きのう電車にかさをわすれました。\n駅の人：どこに行く電車ですか。\nすずき：さくら駅に行く電車です。９時１５分につばき駅でのって、あやめ駅でおりました。\n駅の人：そうですか。どんなかさですか。\nすずき：長くて大きいかさです。いろはくろです。\n駅の人：長くてくろいかさですね。\nすずき：はい。」駅の人「ちょっとまってください…これはみじかいですね…あ、ありました。え-、２本あります。かさには名前が書いてありますか。\nすずき：はい、すずきと書いてあります。\n駅の人：すずき……。ああ、こちらですね。\nすずき：そうです。([blank])！ありがとうございました。"
+    },
+    "tags": null
+  },
+  {
+    "id": 43,
+    "question_type": "reading",
+    "question_text": "今日すずきさんはどうして駅の人と話しましたか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "かさに名前を書いたから",
+      "alternative_2": "かさをわすれたから",
+      "alternative_3": "電車にのりたかったから",
+      "alternative_4": "さくら駅に行きたかったから",
+      "correct_alternative": 2
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "すずき：あのう、すみません。きのう電車にかさをわすれました。\n駅の人：どこに行く電車ですか。\nすずき：さくら駅に行く電車です。９時１５分につばき駅でのって、あやめ駅でおりました。\n駅の人：そうですか。どんなかさですか。\nすずき：長くて大きいかさです。いろはくろです。\n駅の人：長くてくろいかさですね。\nすずき：はい。」駅の人「ちょっとまってください…これはみじかいですね…あ、ありました。え-、２本あります。かさには名前が書いてありますか。\nすずき：はい、すずきと書いてあります。\n駅の人：すずき……。ああ、こちらですね。\nすずき：そうです。([blank])！ありがとうございました。"
+    },
+    "tags": null
+  },
+  {
+    "id": 44,
+    "question_type": "reading",
+    "question_text": "すずきさんのかさはつぎのどれですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "みじかいかさで、名前が書いてあります。",
+      "alternative_2": "くろいかさで、名前が書いてあります。",
+      "alternative_3": "長いかさで、名前は書いてありません。",
+      "alternative_4": "大きいかさで、名前は書いてありません。",
+      "correct_alternative": 2
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "すずき：あのう、すみません。きのう電車にかさをわすれました。\n駅の人：どこに行く電車ですか。\nすずき：さくら駅に行く電車です。９時１５分につばき駅でのって、あやめ駅でおりました。\n駅の人：そうですか。どんなかさですか。\nすずき：長くて大きいかさです。いろはくろです。\n駅の人：長くてくろいかさですね。\nすずき：はい。」駅の人「ちょっとまってください…これはみじかいですね…あ、ありました。え-、２本あります。かさには名前が書いてありますか。\nすずき：はい、すずきと書いてあります。\n駅の人：すずき……。ああ、こちらですね。\nすずき：そうです。([blank])！ありがとうございました。"
+    },
+    "tags": null
+  },
+  {
+    "id": 45,
+    "question_type": "reading",
+    "question_text": "王さんはどうしてなおこさんと１０時に会うことができなかったのですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "王さんが西口と東口をまちがえていたからです。",
+      "alternative_2": "王さんが１０時と１１時をまちがえていたからです。",
+      "alternative_3": "なおこさんが西口と東口をまちがえていたからです。",
+      "alternative_4": "なおこさんが１０時と１２時をまちがえていたからです。",
+      "correct_alternative": 4
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "王さんの日記\n昨日なおこさんと銀座のデパートに行った。なおこさんと１０時に駅の西口で会う約束をしていたが、１０時半になっても、なおこさんは来なかった。東口とまちがえたかもしれないと思って、東口のほうへ行ってみたが、やはりなおこさんはいなかった。おかしいと思ってなおこさんの家に電話をしたら、なおこさんはまだ家にいて、１２時の約束だと思っていたと言った。なおこさんがすぐ出てきてくれたので、１１時には会うことができた。"
+    },
+    "tags": null
+  },
+  {
+    "id": 46,
+    "question_type": "reading",
+    "question_text": "まち子さんは今何をしていますか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "日本でぎんこうにつとめています。",
+      "alternative_2": "外国でぎんこうにつとめています。",
+      "alternative_3": "日本でギタ－をおしえています。",
+      "alternative_4": "外国でギタ－をおしえています。",
+      "correct_alternative": 3
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "まち子さんは４年前におんがくをべんきょうしに外国へ行きました。それまでぎんこうにつとめていました。２年前に日本にかえってきました。それからずっとギタ－をおしえています。"
+    },
+    "tags": null
+  },
+  {
+    "id": 47,
+    "question_type": "reading",
+    "question_text": "この人のせいかつとあわないものはどれですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "しゅうまつはひまではありません。",
+      "alternative_2": "朝ごはんを食べたあと、うんどうをします。",
+      "alternative_3": "ちかくのスーパーでやさいやミルクなどを買います。",
+      "alternative_4": "友達といっしょに料理を作ったり、宿題をしたりします。",
+      "correct_alternative": 1
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "一週間はとてもはやいです。毎日同じせいかつです。しかし、このせいかつはたのしいです。"
+    },
+    "tags": null
+  },
+  {
+    "id": 48,
+    "question_type": "reading",
+    "question_text": "（ア）には何を入れますか。",
+    "statement": {
+      "statement_text": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "なぜ",
+      "alternative_2": "どう",
+      "alternative_3": "どんなに",
+      "alternative_4": "なにが",
+      "correct_alternative": 2
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "Ａ：このおんがくはとてもいいですよ。いっしょに聞きましょう。テープレコーダーはありますか。\nＢ：ええ。後ろに ありますよ。\nＡ：これは（ ア ）つかいますか。おしえてください。\nＢ：はじめに、そのボタンをおしてください。\nＡ：（ イ ）。\nＢ：いいえ、あおいボタンです。\nＡ：ああ、わかりました。（ ウ ）白いボタンですか。\nＢ：いいえ、その前に、ここにテープを入れてください。\nＡ：はい、入れました。これでいいですか。"
+    },
+    "tags": null
+  },
+  {
+    "id": 49,
+    "question_type": "reading",
+    "question_text": "（イ）には何を入れますか。",
+    "statement": {
+      "statement_text": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "これですね",
+      "alternative_2": "どれですか",
+      "alternative_3": "あおいボタンですね",
+      "alternative_4": "ええ、そうです",
+      "correct_alternative": 1
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "Ａ：このおんがくはとてもいいですよ。いっしょに聞きましょう。テープレコーダーはありますか。\nＢ：ええ。後ろに ありますよ。\nＡ：これは（ ア ）つかいますか。おしえてください。\nＢ：はじめに、そのボタンをおしてください。\nＡ：（ イ ）。\nＢ：いいえ、あおいボタンです。\nＡ：ああ、わかりました。（ ウ ）白いボタンですか。\nＢ：いいえ、その前に、ここにテープを入れてください。\nＡ：はい、入れました。これでいいですか。"
+    },
+    "tags": null
+  },
+  {
+    "id": 50,
+    "question_type": "reading",
+    "question_text": "（ウ）には何を入れますか。",
+    "statement": {
+      "statement_text": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "それは",
+      "alternative_2": "つぎから",
+      "alternative_3": "つぎに",
+      "alternative_4": "それでは",
+      "correct_alternative": 3
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "Ａ：このおんがくはとてもいいですよ。いっしょに聞きましょう。テープレコーダーはありますか。\nＢ：ええ。後ろに ありますよ。\nＡ：これは（ ア ）つかいますか。おしえてください。\nＢ：はじめに、そのボタンをおしてください。\nＡ：（ イ ）。\nＢ：いいえ、あおいボタンです。\nＡ：ああ、わかりました。（ ウ ）白いボタンですか。\nＢ：いいえ、その前に、ここにテープを入れてください。\nＡ：はい、入れました。これでいいですか。"
+    },
+    "tags": null
+  },
+  {
+    "id": 51,
+    "question_type": "reading",
+    "question_text": "ただしいものはどれですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "白いボタンをおしてから、テープを入れます。",
+      "alternative_2": "白いボタンをおしてから、あおいボタンをおします。",
+      "alternative_3": "テープを入れてから、あおいボタンをおします。",
+      "alternative_4": "あおいボタンをおしてから、テープを入れます。",
+      "correct_alternative": 4
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "Ａ：このおんがくはとてもいいですよ。いっしょに聞きましょう。テープレコーダーはありますか。\nＢ：ええ。後ろに ありますよ。\nＡ：これは（ ア ）つかいますか。おしえてください。\nＢ：はじめに、そのボタンをおしてください。\nＡ：（ イ ）。\nＢ：いいえ、あおいボタンです。\nＡ：ああ、わかりました。（ ウ ）白いボタンですか。\nＢ：いいえ、その前に、ここにテープを入れてください。\nＡ：はい、入れました。これでいいですか。"
+    },
+    "tags": null
+  },
+  {
+    "id": 52,
+    "question_type": "reading",
+    "question_text": "ただしいものはどれですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "はしはこうばんの左にあります。",
+      "alternative_2": "こうばんははしのよこにあります。",
+      "alternative_3": "こうばんははしのむこうにあります。",
+      "alternative_4": "はしはここから５分ぐらいかかります。",
+      "correct_alternative": 3
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "ａ：すみません、こうばんはどこですか。\nｂ：こうばんですか。そこにはしがありますね。そのはしをわたってまっすぐ行ってください。左側にありますよ。\nａ：そうですか。ここからどれぐらいかかりますか。\nｂ：そうですね。５分ぐらいでしょう。"
+    },
+    "tags": null
+  },
+  {
+    "id": 53,
+    "question_type": "reading",
+    "question_text": "やんさんとすずきさんははじめて東山こうえんへ行きますか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "ヤンさんもすずきさんもはじめてです。",
+      "alternative_2": "ヤンさんもすずきさんも前に行きました。",
+      "alternative_3": "ヤンさんははじめてですが、すずきさんは前に行きました。",
+      "alternative_4": "すずきさんははじめてですが、やんさんは前に行きました。",
+      "correct_alternative": 3
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "すずき：もしもす、ヤンさんですか。すずきです。あした、いっしょに東山こうえんへ行きませんか。わたしはよくさんぽをしますが、ひろくてきれいですよ。\nヤン：いいですね。でも、東山こうえんへどう行きますか。わたしはわかりません。\nすずき：じゃ、あした東山駅で会いましょう。\nヤン：何時にしますか。\nすずき：１０時はどうですか。\nヤン：（ ア ）。９時半はどうですか。\nすずき：いいですよ。駅の前にきっさてんがあるから、その前で（ イ ）。\nヤン：わかりました。ひるごはんをもって行きますか。\nすずき：こうえんのちかくにいいレストランがあるから、そこでいっしょに食べませんが。駅の前のきっさてんは高いですが、こうえんのちかくのレスロランは安くておいしいですよ。\nヤン：それはいいですね。じゃ、そうしましょう。"
+    },
+    "tags": null
+  },
+  {
+    "id": 54,
+    "question_type": "reading",
+    "question_text": "（ ア ）には何を入れますか。",
+    "statement": {
+      "statement_text": "（ア） から （イ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "１０時に行きましょう。",
+      "alternative_2": "１０時はちょっと・・・",
+      "alternative_3": "１０時がいいですね。",
+      "alternative_4": "１０時はおそいです。",
+      "correct_alternative": 2
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "すずき：もしもす、ヤンさんですか。すずきです。あした、いっしょに東山こうえんへ行きませんか。わたしはよくさんぽをしますが、ひろくてきれいですよ。\nヤン：いいですね。でも、東山こうえんへどう行きますか。わたしはわかりません。\nすずき：じゃ、あした東山駅で会いましょう。\nヤン：何時にしますか。\nすずき：１０時はどうですか。\nヤン：（ ア ）。９時半はどうですか。\nすずき：いいですよ。駅の前にきっさてんがあるから、その前で（ イ ）。\nヤン：わかりました。ひるごはんをもって行きますか。\nすずき：こうえんのちかくにいいレストランがあるから、そこでいっしょに食べませんが。駅の前のきっさてんは高いですが、こうえんのちかくのレスロランは安くておいしいですよ。\nヤン：それはいいですね。じゃ、そうしましょう。"
+    },
+    "tags": null
+  },
+  {
+    "id": 55,
+    "question_type": "reading",
+    "question_text": "（ イ ）には何を入れますか。",
+    "statement": {
+      "statement_text": "（ア） から （イ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "まっています",
+      "alternative_2": "まつでしょう",
+      "alternative_3": "まちました",
+      "alternative_4": "まちません",
+      "correct_alternative": 1
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "すずき：もしもす、ヤンさんですか。すずきです。あした、いっしょに東山こうえんへ行きませんか。わたしはよくさんぽをしますが、ひろくてきれいですよ。\nヤン：いいですね。でも、東山こうえんへどう行きますか。わたしはわかりません。\nすずき：じゃ、あした東山駅で会いましょう。\nヤン：何時にしますか。\nすずき：１０時はどうですか。\nヤン：（ ア ）。９時半はどうですか。\nすずき：いいですよ。駅の前にきっさてんがあるから、その前で（ イ ）。\nヤン：わかりました。ひるごはんをもって行きますか。\nすずき：こうえんのちかくにいいレストランがあるから、そこでいっしょに食べませんが。駅の前のきっさてんは高いですが、こうえんのちかくのレスロランは安くておいしいですよ。\nヤン：それはいいですね。じゃ、そうしましょう。"
+    },
+    "tags": null
+  },
+  {
+    "id": 56,
+    "question_type": "reading",
+    "question_text": "ひるごはんはどこで食べますか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "駅の前のきっさてんで食べます。",
+      "alternative_2": "こうえんの中のきっさてんで食べます。",
+      "alternative_3": "駅のちかくのレストランで食べます。",
+      "alternative_4": "こうえんのちかくのレストランで食べます。",
+      "correct_alternative": 4
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "すずき：もしもす、ヤンさんですか。すずきです。あした、いっしょに東山こうえんへ行きませんか。わたしはよくさんぽをしますが、ひろくてきれいですよ。\nヤン：いいですね。でも、東山こうえんへどう行きますか。わたしはわかりません。\nすずき：じゃ、あした東山駅で会いましょう。\nヤン：何時にしますか。\nすずき：１０時はどうですか。\nヤン：（ ア ）。９時半はどうですか。\nすずき：いいですよ。駅の前にきっさてんがあるから、その前で（ イ ）。\nヤン：わかりました。ひるごはんをもって行きますか。\nすずき：こうえんのちかくにいいレストランがあるから、そこでいっしょに食べませんが。駅の前のきっさてんは高いですが、こうえんのちかくのレスロランは安くておいしいですよ。\nヤン：それはいいですね。じゃ、そうしましょう。"
+    },
+    "tags": null
+  },
+  {
+    "id": 57,
+    "question_type": "reading",
+    "question_text": "ただしいものはどれですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "山の上まで２時間あるきました。",
+      "alternative_2": "ひるごはんをつくってつかれました。",
+      "alternative_3": "２時間休んでひるごはんを食べました。",
+      "alternative_4": "つかれたからもう山へ行きたくないです。",
+      "correct_alternative": 1
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "土よう日に会社の人と山へあそびに行きました。２時間あるいて山の上につきました。そこでひるごはんを食べて１時間休みました。ちょっとつかれましたが、たのしかったです。山で食べたごはんはとてもおいしかったです。また行きたいです。"
+    },
+    "tags": null
+  },
+  {
+    "id": 58,
+    "question_type": "reading",
+    "question_text": "ただしいものはどれですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "わたしのへやは駅からとおいですが、ひろいです。",
+      "alternative_2": "わたしのへやは駅にちかいですが、少し高いです。",
+      "alternative_3": "わたしのへやは駅にちかいですが、ひとくありません。",
+      "alternative_4": "わたしのへやは駅から少しとおいですが、べんりです。",
+      "correct_alternative": 1
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "わたしはきょねんの１０月に日本へ来ました。今、とうきょうのアパートにひとりですんでいます。へやはひろいですが、駅からとおいからべんりじゃありません。もっと駅にちかいへやにすみたいです。でも、駅にちかいへやは高いです。"
+    },
+    "tags": null
+  },
+  {
+    "id": 59,
+    "question_type": "reading",
+    "question_text": "明日この人はどうして早く出かけますか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "土曜日で車が多いから",
+      "alternative_2": "美しい湖があるから",
+      "alternative_3": "めずらしい花や鳥がいるから",
+      "alternative_4": "あまり天気がよくないから",
+      "correct_alternative": 1
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "湖のそばににんぎょうの美術館がある。日本のだけでなく、世界中のにんぎょうがかざってあるらしい。時間があったら、見てみたい。帰りにいなかの家によって、両親と一緒に晩ご飯を食べるつもりだ。母の料理はひさしぶりなので、とてもたのしみだ。"
+    },
+    "tags": null
+  },
+  {
+    "id": 60,
+    "question_type": "reading",
+    "question_text": "この人は明日天気がよかったら、何をしますか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "花や鳥を見ます",
+      "alternative_2": "湖で泳ぎます",
+      "alternative_3": "ふねに乗ります",
+      "alternative_4": "魚をつります",
+      "correct_alternative": 4
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "湖のそばににんぎょうの美術館がある。日本のだけでなく、世界中のにんぎょうがかざってあるらしい。時間があったら、見てみたい。帰りにいなかの家によって、両親と一緒に晩ご飯を食べるつもりだ。母の料理はひさしぶりなので、とてもたのしみだ。"
+    },
+    "tags": null
+  },
+  {
+    "id": 61,
+    "question_type": "reading",
+    "question_text": "この人は美術館に行きますか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "行かないつもりです",
+      "alternative_2": "行くかもしれません",
+      "alternative_3": "行きません",
+      "alternative_4": "行きたくないです",
+      "correct_alternative": 2
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "湖のそばににんぎょうの美術館がある。日本のだけでなく、世界中のにんぎょうがかざってあるらしい。時間があったら、見てみたい。帰りにいなかの家によって、両親と一緒に晩ご飯を食べるつもりだ。母の料理はひさしぶりなので、とてもたのしみだ。"
+    },
+    "tags": null
+  },
+  {
+    "id": 62,
+    "question_type": "reading",
+    "question_text": "ただしいものはどれですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "わたしはりょうりをつくりました。",
+      "alternative_2": "友だちはりょうりがじょうずです。",
+      "alternative_3": "りょうりはおいしくありませんでした。",
+      "alternative_4": "友だちはあまり食べませんでした。",
+      "correct_alternative": 2
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "きのうは友だちのいえへ行って、友だちがつくったりょうりを食べました。すこしからかったです。でも、とてもおいしかったです。わたしも友だちもたくさん食べました。また食べたいです。"
+    },
+    "tags": null
+  },
+  {
+    "id": 63,
+    "question_type": "reading",
+    "question_text": "鈴木さんは９月１０日に何をしましたか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "お菓子を買いました。",
+      "alternative_2": "傘を借りました。",
+      "alternative_3": "傘を返しました。",
+      "alternative_4": "お菓子を作りました。",
+      "correct_alternative": 3
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "田中さんへ\nおとといはどうもありがとう。雨がたくさん降りましたから、田中さんに傘を借りてよかったです。借りた傘はドアのところに置きます。それから昨日作ったお菓子も置きます。どうぞ食べてください。\n９月１０日　午後７時　鈴木より"
+    },
+    "tags": null
+  },
+  {
+    "id": 64,
+    "question_type": "reading",
+    "question_text": "あなたはこのたてものの中で何をしますか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "えを見ます。",
+      "alternative_2": "たばこをすいます。",
+      "alternative_3": "ごはんを食べます。",
+      "alternative_4": "しゃしんをとります。",
+      "correct_alternative": 1
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "このたてものの中ではしずかにえを見てください。しゃしんをとらないでください。たばこもこまります。たばこは外ですってください。えを見ながら食べたり飲んだりしないでください。"
+    },
+    "tags": null
+  },
+  {
+    "id": 65,
+    "question_type": "reading",
+    "question_text": "ただしいものはどれですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "あさごはんのあとでテレビを見ました。",
+      "alternative_2": "あさごはんをたべながら新聞を読みました。",
+      "alternative_3": "テレビを見る前にあさごはんを食べました。",
+      "alternative_4": "シャワーをあびたあとであさごはんを食べました。",
+      "correct_alternative": 4
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "けさ、山川さんは７時におきました。あさごはんを食べる前にシャワーをあびました。あさごはんを食べながらテレビを見ました。あさごはんを食べたあとで、新聞を読みました。それから会社へ行きました。"
+    },
+    "tags": null
+  },
+  {
+    "id": 66,
+    "question_type": "reading",
+    "question_text": "さくらさんは明日何をすると書いてありますか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "本を読みます。",
+      "alternative_2": "ノートを借ります。",
+      "alternative_3": "ノートを返します。",
+      "alternative_4": "本とノートを使います。",
+      "correct_alternative": 3
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "リンさんへ\n今日は先に帰ります。リンさんに借りたノートは明日持ってきます。\nそれから私の本は、まだ使いませんから、どうぞゆっくり読んでください。\nさくらより"
+    },
+    "tags": null
+  },
+  {
+    "id": 67,
+    "question_type": "reading",
+    "question_text": "ねこは、いまどこにいますか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "１",
+      "alternative_2": "２",
+      "alternative_3": "３",
+      "alternative_4": "４",
+      "correct_alternative": 1
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": "reading/JT4Y/R12-Q1",
+      "text_content": "Ａ：ねこは、どこへ行きましたか。\nＢ：ねこ…。あ、いすの上でねていますよ。\nＡ：ほんとだ。すこしまえはつくえの下でねていましたが…。"
+    },
+    "tags": null
+  },
+  {
+    "id": 68,
+    "question_type": "reading",
+    "question_text": "どのえがいいですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "１",
+      "alternative_2": "２",
+      "alternative_3": "３",
+      "alternative_4": "４",
+      "correct_alternative": 3
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": "reading/JT4Y/R12-Q2",
+      "text_content": "Ａ：このくつはいくらですか。\nＢ：３５００円です。\nＡ：そのとなりのくろいくつは。\nＢ：３２００円ですが、きょうは２００円やすくなっています。"
+    },
+    "tags": null
+  },
+  {
+    "id": 69,
+    "question_type": "reading",
+    "question_text": "どのグラフがいいですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "１",
+      "alternative_2": "２",
+      "alternative_3": "３",
+      "alternative_4": "４",
+      "correct_alternative": 4
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": "reading/JT4Y/R12-Q3",
+      "text_content": "かんじのしけんをしました。Ａ（１００てん～８０てん）は１０人で、Ｂ（７９てん～７０てん）は１５人で、Ｃ（６９てん～６０てん）は２０人、Ｄ（５９てん～０てん）は５人でした。"
+    },
+    "tags": null
+  },
+  {
+    "id": 70,
+    "question_type": "reading",
+    "question_text": "どのえがいいですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "１",
+      "alternative_2": "２",
+      "alternative_3": "３",
+      "alternative_4": "４",
+      "correct_alternative": 1
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": "reading/JT4Y/R12-Q4",
+      "text_content": "このみちをまっすぐ行って、右にまがって、すこしあるいて、もういちど右にまがると、左がわにぎんこうがあります。"
+    },
+    "tags": null
+  },
+  {
+    "id": 71,
+    "question_type": "reading",
+    "question_text": "どのえがいいですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "１",
+      "alternative_2": "２",
+      "alternative_3": "３",
+      "alternative_4": "４",
+      "correct_alternative": 3
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": "reading/JT4Y/R12-Q5",
+      "text_content": "Ａ：この女の人はおかあさんですか。\nＢ：ええ、ははです。\nＡ：おかあさんのとなりはおとうさんですか。\nＢ：いいえ、おじいさんですよ。ちちはははのうしろです。"
+    },
+    "tags": null
+  },
+  {
+    "id": 72,
+    "question_type": "reading",
+    "question_text": "「１」には、なにをいれますか。",
+    "statement": {
+      "statement_text": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "きのう",
+      "alternative_2": "よる",
+      "alternative_3": "かいしゃ",
+      "alternative_4": "日よう日",
+      "correct_alternative": 4
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "わたしはかいしゃにつとめています。かいしゃの休みは、日よう日だけですから「１」は、することがたくさんあります。そうじやせんたくやかいものです。そうじとせんたくは、すぐにおわります。「２」、かいものは、時間がかかります。たいていあさ１１時ごろから２時ごろまでかかります。かうものがたくさんある「３」です。はじめに、ちかくのみせに行って、やさいやくだものなど、おもいものをかいます。それからいちどいえにかえって、つぎにかるいものをかいに「カネヤ」というみせに行きます。「カネヤ」は、「４」けれどもやすいのです。"
+    },
+    "tags": null
+  },
+  {
+    "id": 73,
+    "question_type": "reading",
+    "question_text": "「２」には、なにをいれますか。",
+    "statement": {
+      "statement_text": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "しかし",
+      "alternative_2": "それでは",
+      "alternative_3": "ちょうど",
+      "alternative_4": "じゃあ",
+      "correct_alternative": 1
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "わたしはかいしゃにつとめています。かいしゃの休みは、日よう日だけですから「１」は、することがたくさんあります。そうじやせんたくやかいものです。そうじとせんたくは、すぐにおわります。「２」、かいものは、時間がかかります。たいていあさ１１時ごろから２時ごろまでかかります。かうものがたくさんある「３」です。はじめに、ちかくのみせに行って、やさいやくだものなど、おもいものをかいます。それからいちどいえにかえって、つぎにかるいものをかいに「カネヤ」というみせに行きます。「カネヤ」は、「４」けれどもやすいのです。"
+    },
+    "tags": null
+  },
+  {
+    "id": 74,
+    "question_type": "reading",
+    "question_text": "「３」には、なにをいれますか。",
+    "statement": {
+      "statement_text": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "まで",
+      "alternative_2": "から",
+      "alternative_3": "でも",
+      "alternative_4": "ながら",
+      "correct_alternative": 2
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "わたしはかいしゃにつとめています。かいしゃの休みは、日よう日だけですから「１」は、することがたくさんあります。そうじやせんたくやかいものです。そうじとせんたくは、すぐにおわります。「２」、かいものは、時間がかかります。たいていあさ１１時ごろから２時ごろまでかかります。かうものがたくさんある「３」です。はじめに、ちかくのみせに行って、やさいやくだものなど、おもいものをかいます。それからいちどいえにかえって、つぎにかるいものをかいに「カネヤ」というみせに行きます。「カネヤ」は、「４」けれどもやすいのです。"
+    },
+    "tags": null
+  },
+  {
+    "id": 75,
+    "question_type": "reading",
+    "question_text": "「４」には、なにをいれますか。",
+    "statement": {
+      "statement_text": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    },
+    "alternatives": {
+      "alternative_1": "とおく",
+      "alternative_2": "ちかく",
+      "alternative_3": "とおい",
+      "alternative_4": "ちかい",
+      "correct_alternative": 3
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "わたしはかいしゃにつとめています。かいしゃの休みは、日よう日だけですから「１」は、することがたくさんあります。そうじやせんたくやかいものです。そうじとせんたくは、すぐにおわります。「２」、かいものは、時間がかかります。たいていあさ１１時ごろから２時ごろまでかかります。かうものがたくさんある「３」です。はじめに、ちかくのみせに行って、やさいやくだものなど、おもいものをかいます。それからいちどいえにかえって、つぎにかるいものをかいに「カネヤ」というみせに行きます。「カネヤ」は、「４」けれどもやすいのです。"
+    },
+    "tags": null
+  },
+  {
+    "id": 76,
+    "question_type": "reading",
+    "question_text": "この人は、何ページ読みましたか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "５０ページぐらい",
+      "alternative_2": "１５０ページぐらい",
+      "alternative_3": "２００ページぐらい",
+      "alternative_4": "２５０ページぐらい",
+      "correct_alternative": 2
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "きのう、本をかって、よる３時間ぐらい読みました。２５０ページの本ですが、まだ１００ページぐらいあります。"
+    },
+    "tags": null
+  },
+  {
+    "id": 77,
+    "question_type": "reading",
+    "question_text": "ケーキはいまいくつありますか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "２こ",
+      "alternative_2": "４こ",
+      "alternative_3": "６こ",
+      "alternative_4": "８こ",
+      "correct_alternative": 3
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": null,
+      "text_content": "きのうケーキを１０こかった。ばんごはんのあといもうととふたりで２こずつたべた。おいしかった。"
+    },
+    "tags": null
+  },
+  {
+    "id": 78,
+    "question_type": "reading",
+    "question_text": "この人のアパートはどれですか。",
+    "statement": {
+      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    },
+    "alternatives": {
+      "alternative_1": "１",
+      "alternative_2": "２",
+      "alternative_3": "３",
+      "alternative_4": "４",
+      "correct_alternative": 4
+    },
+    "media": {
+      "audio_file_path": null,
+      "image_file_path": "reading/JT4Y/R13-Q7",
+      "text_content": "せんしゅう、あたらしいアパートにはいりました。わたしのへやは２かいです。となりには、今だれもすんでいません。１かいには、おばあさんとおとこの大学生がすんでいます。３かいにもだれかいますが、まだどんな人かしりません。"
+    },
+    "tags": null
+  }
+]

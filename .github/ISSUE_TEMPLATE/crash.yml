@@ -1,0 +1,87 @@
+name: Crash
+description: Relate um fechamento inesperado ou travamento critico
+title: "<Seu Titulo>"
+labels: ["Crash", "status: Aguardando revisão"]
+body:
+  - type: markdown
+    attributes:
+      value: "Se puder, inclua logs ou capturas."
+  - type: textarea
+    id: descricao
+    attributes:
+      label: Descricao
+    validations:
+      required: true
+  - type: textarea
+    id: passos
+    attributes:
+      label: Passos para reproduzir
+      placeholder: "1.\n2.\n3."
+    validations:
+      required: true
+  - type: textarea
+    id: atual
+    attributes:
+      label: Resultado atual
+    validations:
+      required: true
+  - type: dropdown
+    id: frequencia
+    attributes:
+      label: Frequencia
+      options:
+        - Sempre
+        - As vezes
+        - Raro
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs
+      render: shell
+      description: Cole aqui qualquer log relevante.
+  - type: dropdown
+    id: plataforma
+    attributes:
+      label: Plataforma
+      description: Selecione a plataforma onde o Crash foi encontrado
+      options:
+        - Android
+        - WEB
+    validations:
+      required: true
+  - type: input
+    id: dispositivo_android
+    attributes:
+      label: Qual o seu dispositivo Android? (Se usou o aplicativo)
+      placeholder: "ex: Samsung Galaxy S21, Realme C75, Motorola Moto G9, etc."
+  - type: input
+    id: versao_android
+    attributes:
+      label: Qual a versão do Android do aparelho? (Se usou o aplicativo)
+      placeholder: "ex: Android 9.0, Android 14, etc..."
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Browser
+      description: Qual o navegador que você usou para acessar a versão WEB (se usou a versão WEB)
+      options:
+        - Google Chrome
+        - Microsoft Edge
+        - Firefox
+        - Opera
+        - Safari
+        - Outros
+        - N/A
+  - type: input
+    id: versao_app
+    attributes:
+      label: Versão do app (Você pode ver ela no canto inferior esquerdo do menu principal)
+    validations:
+      required: true
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto adicional
+      description: Insira qualquer outra informação extra que julgar relevante

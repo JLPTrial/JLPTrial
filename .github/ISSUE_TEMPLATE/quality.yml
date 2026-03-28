@@ -1,0 +1,56 @@
+name: Qualidade de código
+description: Relate alguma parte do código que está confusa ou que poderia ser melhorada.
+title: "<Seu Titulo>"
+labels: ["Qualidade de código", "status: Aguardando revisão"]
+body:
+  - type: markdown
+    attributes:
+      value: "# Por favor, preencha com o máximo de detalhes possível. NÃO ESQUEÇA DE TROCAR O TÍTULO"
+  - type: textarea
+    id: arquivos_problematicos
+    attributes:
+      label: Arquivos com problemas
+      description: Liste os arquivos e as linhas onde o problema foi observado
+      placeholder: "arquivo.tsx (linhas 10-15)\narquivo2.ts (linhas 45-50)"
+    validations:
+      required: true
+  - type: textarea
+    id: descricao_problema
+    attributes:
+      label: Descrição do problema
+      description: Descreva o problema de qualidade identificado
+    validations:
+      required: true
+  - type: textarea
+    id: solucao_proposta
+    attributes:
+      label: Solução proposta
+      description: Sugira uma possível solução para o problema
+    validations:
+      required: true
+  - type: dropdown
+    id: ferramenta_deteccao
+    attributes:
+      label: Ferramenta de detecção
+      description: Qual ferramenta foi usada para identificar este problema?
+      options:
+        - SonarQube
+        - CodeQL
+        - Codacy
+        - DeepSource
+        - DeSmell
+        - ESLint
+        - Outras
+        - N/A
+    validations:
+      required: true
+  - type: input
+    id: outras
+    attributes:
+      label: Outra Ferramenta
+      description: Caso a resposta para a pergunta anterior tenha sido "Outras", informe o nome desta outra ferramenta.
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto adicional
+      description: Insira qualquer outra informação extra que julgar relevante

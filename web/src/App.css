@@ -1,0 +1,167 @@
+:root {
+  --bg: #fff;
+  --text: #111;
+  --muted: #555;
+  --line: #e8e8e8;
+}
+
+#root {
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  border: 0;
+}
+
+.app-shell {
+  min-height: 100vh;
+  background: var(--bg);
+  color: var(--text);
+  text-align: left;
+}
+
+.top-nav {
+  height: 64px;
+  padding: 0 28px;
+  border-bottom: 1px solid #ececec;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.brand {
+  color: #d00;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.top-links {
+  display: flex;
+  gap: 18px;
+}
+
+.top-links a {
+  color: #4a4a4a;
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+.top-links a:hover {
+  color: var(--text);
+}
+
+.web-home {
+  min-height: calc(100vh - 64px);
+  padding: 24px;
+  display: grid;
+  place-items: center;
+}
+
+.jlpt-card {
+  width: min(640px, 100%);
+  padding: clamp(20px, 3vw, 28px);
+  border: 1px solid var(--line);
+  border-radius: 20px;
+  background: var(--bg);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.06);
+}
+
+.web-home h1 {
+  margin: 10px 0 8px;
+  font-size: clamp(1.7rem, 2.5vw, 2.2rem);
+  color: var(--text);
+}
+
+.jlpt-subtitle {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.98rem;
+}
+
+.status-pill {
+  margin: 16px 0 14px;
+  padding: 7px 14px;
+  border: 1px solid #e6e6e6;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+
+.status-pill .dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 999px;
+}
+
+.status-pill.ok {
+  color: #1f5130;
+  background: #f6fbf7;
+  border-color: #d7eadc;
+}
+
+.status-pill.ok .dot {
+  background: #176e3b;
+}
+
+.status-pill.error {
+  color: #7a1022;
+  background: #fdf5f6;
+  border-color: #f0d8dc;
+}
+
+.status-pill.error .dot {
+  background: #c42333;
+}
+
+.response-label {
+  margin: 0 0 8px;
+  color: #222;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.web-home pre {
+  margin: 0;
+  padding: 14px 16px;
+  border: 1px solid #e7e7e7;
+  border-radius: 14px;
+  background: #fafafa;
+  color: #222;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.web-home small {
+  margin-top: 10px;
+  display: block;
+  color: #7a1022;
+  font-size: 0.82rem;
+}
+
+@media (max-width: 640px) {
+  .top-nav {
+    height: auto;
+    padding: 12px 14px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+
+  .top-links {
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 8px;
+  }
+
+  .web-home {
+    padding: 14px;
+  }
+
+  .jlpt-card {
+    padding: 18px;
+    border-radius: 16px;
+  }
+}

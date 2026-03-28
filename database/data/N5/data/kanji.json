@@ -1,0 +1,3166 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_type": "kanji",
+      "question_text": "しけんは{来月}の七月八日、木よう日、九時からです。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "くげつ",
+        "alternative_2": "らいがつ",
+        "alternative_3": "くがつ",
+        "alternative_4": "らいげつ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 2,
+      "question_type": "kanji",
+      "question_text": "しけんは来月の{七月}八日、木よう日、九時からです。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "しちがつ",
+        "alternative_2": "しちげつ",
+        "alternative_3": "なのがつ",
+        "alternative_4": "なのげつ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 3,
+      "question_type": "kanji",
+      "question_text": "しけんは来月の七月八日、{木よう日}、九時からです。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "きにょうび",
+        "alternative_2": "すいようび",
+        "alternative_3": "かようび",
+        "alternative_4": "もくようび",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 4,
+      "question_type": "kanji",
+      "question_text": "しけんは来月の七月八日、木よう日、{九時}からです。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "くうじ",
+        "alternative_2": "きゅじ",
+        "alternative_3": "くじ",
+        "alternative_4": "きゅうじ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 5,
+      "question_type": "kanji",
+      "question_text": "ふうとうに{お金}が八万円入っていました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "おちゃ",
+        "alternative_2": "おかし",
+        "alternative_3": "おさら",
+        "alternative_4": "おかね",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 6,
+      "question_type": "kanji",
+      "question_text": "ふうとうにお金が{八万円}入っていました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "はちまんえん",
+        "alternative_2": "はっせんえん",
+        "alternative_3": "はちばんえん",
+        "alternative_4": "はっけんえん",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 7,
+      "question_type": "kanji",
+      "question_text": "ふうとうにお金が八万円{入って}いました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "いれって",
+        "alternative_2": "いって",
+        "alternative_3": "はって",
+        "alternative_4": "はいって",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 8,
+      "question_type": "kanji",
+      "question_text": "きょうは{天気}がいいです。がっこうの5かいのまどから、北に白い山がよく見えます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "げんき",
+        "alternative_2": "けんき",
+        "alternative_3": "てんき",
+        "alternative_4": "でんき",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 9,
+      "question_type": "kanji",
+      "question_text": "きょうは天気がいいです。がっこうの5かいのまどから、{北}に白い山がよく見えます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "みなみ",
+        "alternative_2": "きた",
+        "alternative_3": "ひがし",
+        "alternative_4": "にし",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 10,
+      "question_type": "kanji",
+      "question_text": "きょうは天気がいいです。がっこうの5かいのまどから、北に{白い}山がよく見えます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "たかい",
+        "alternative_2": "ひろい",
+        "alternative_3": "しろい",
+        "alternative_4": "おかい",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 11,
+      "question_type": "kanji",
+      "question_text": "この{山}には百本のさくらがあります。春にはおおぜいの人が花見にきます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "まち",
+        "alternative_2": "むら",
+        "alternative_3": "かわ",
+        "alternative_4": "やま",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 12,
+      "question_type": "kanji",
+      "question_text": "この山には{百本}のさくらがあります。春にはおおぜいの人が花見にきます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ひゃくぼん",
+        "alternative_2": "ひゃっぽん",
+        "alternative_3": "ひゃっぷん",
+        "alternative_4": "ひゃくふん",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 13,
+      "question_type": "kanji",
+      "question_text": "この山には百本のさくらがあります。{春}にはおおぜいの人が花見にきます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "はる",
+        "alternative_2": "なつ",
+        "alternative_3": "あき",
+        "alternative_4": "ふゆ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 14,
+      "question_type": "kanji",
+      "question_text": "この山には百本のさくらがあります。春にはおおぜいの人が{花見}にきます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "つきみ",
+        "alternative_2": "はなみ",
+        "alternative_3": "かぜみ",
+        "alternative_4": "ゆきみ",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 15,
+      "question_type": "kanji",
+      "question_text": "{はは}はまいにち、だいがくのとしょかんではたらいています。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "父",
+        "alternative_2": "火",
+        "alternative_3": "花",
+        "alternative_4": "母",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 16,
+      "question_type": "kanji",
+      "question_text": "ははは{まいにち}、だいがくのとしょかんではたらいています。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "宙日",
+        "alternative_2": "週日",
+        "alternative_3": "中日",
+        "alternative_4": "毎日",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 17,
+      "question_type": "kanji",
+      "question_text": "はははまいにち、{だいがく}のとしょかんではたらいています。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "大核",
+        "alternative_2": "退学",
+        "alternative_3": "大学",
+        "alternative_4": "最核",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 18,
+      "question_type": "kanji",
+      "question_text": "はははまいにち、だいがくの{としょかん}ではたらいています。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "図書館",
+        "alternative_2": "図所館",
+        "alternative_3": "読所管",
+        "alternative_4": "読書館",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 19,
+      "question_type": "kanji",
+      "question_text": "はははまいにち、だいがくのとしょかんで{はたらいて}います。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "動いて",
+        "alternative_2": "隠いて",
+        "alternative_3": "働いて",
+        "alternative_4": "行いて",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 20,
+      "question_type": "kanji",
+      "question_text": "あには、{ちいさい}らじおをぽけっとにいれてでかけます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "中さい",
+        "alternative_2": "少さい",
+        "alternative_3": "小さい",
+        "alternative_4": "大さい",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 21,
+      "question_type": "kanji",
+      "question_text": "あには、ちいさい{らじお}をぽけっとにいれてでかけます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ラゾオ",
+        "alternative_2": "ラジオ",
+        "alternative_3": "ウゾオ",
+        "alternative_4": "ウジオ",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 22,
+      "question_type": "kanji",
+      "question_text": "あには、ちいさいらじおを{ぽけっと}にいれてでかけます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ポケット",
+        "alternative_2": "パクット",
+        "alternative_3": "ポクット",
+        "alternative_4": "パケット",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 23,
+      "question_type": "kanji",
+      "question_text": "あには、ちいさいらじおをぽけっとにいれて{でかけ}ます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "外かけ",
+        "alternative_2": "行かけ",
+        "alternative_3": "来かけ",
+        "alternative_4": "出かけ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 24,
+      "question_type": "kanji",
+      "question_text": "そして、{でんしゃ}のなかでききながらかいしゃにいきます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "電車",
+        "alternative_2": "雷車",
+        "alternative_3": "電東",
+        "alternative_4": "雷東",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 25,
+      "question_type": "kanji",
+      "question_text": "そして、でんしゃのなかで{きき}ながらかいしゃにいきます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "聞き",
+        "alternative_2": "開き",
+        "alternative_3": "閉き",
+        "alternative_4": "間き",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 26,
+      "question_type": "kanji",
+      "question_text": "そして、でんしゃのなかでききながら{かいしゃ}にいきます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "社員",
+        "alternative_2": "社会",
+        "alternative_3": "会計",
+        "alternative_4": "会社",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 27,
+      "question_type": "kanji",
+      "question_text": "{先}に食べてください。わたしは後で食べます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "せん",
+        "alternative_2": "つぎ",
+        "alternative_3": "すぐ",
+        "alternative_4": "さき",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 28,
+      "question_type": "kanji",
+      "question_text": "先に{食べて}ください。わたしは後で食べます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "とべて",
+        "alternative_2": "のべて",
+        "alternative_3": "たべて",
+        "alternative_4": "くべて",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 29,
+      "question_type": "kanji",
+      "question_text": "先に食べてください。わたしは{後で}食べます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "あとで",
+        "alternative_2": "のちで",
+        "alternative_3": "ごで",
+        "alternative_4": "こうで",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 30,
+      "question_type": "kanji",
+      "question_text": "水を{買って}いきます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "かって",
+        "alternative_2": "つくって",
+        "alternative_3": "とって",
+        "alternative_4": "あらって",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 31,
+      "question_type": "kanji",
+      "question_text": "お{先}にしつれいします。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "せん",
+        "alternative_2": "ぜん",
+        "alternative_3": "ざき",
+        "alternative_4": "さき",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 32,
+      "question_type": "kanji",
+      "question_text": "きのうはゆうはんに{ぎゅうにく}をたべた。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "牛内",
+        "alternative_2": "午内",
+        "alternative_3": "牛肉",
+        "alternative_4": "午肉",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 33,
+      "question_type": "kanji",
+      "question_text": "{毎朝}、なんじにおきますか。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "まいにち",
+        "alternative_2": "まいとし",
+        "alternative_3": "まいげつ",
+        "alternative_4": "まいあさ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 34,
+      "question_type": "kanji",
+      "question_text": "わたしの{こども}ははながすきです。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "了ども",
+        "alternative_2": "子ども",
+        "alternative_3": "于ども",
+        "alternative_4": "予ども",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 35,
+      "question_type": "kanji",
+      "question_text": "この部屋は{明るく}てひろいです。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "かおるくて",
+        "alternative_2": "あかるくて",
+        "alternative_3": "あつるくて",
+        "alternative_4": "あさるくて",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 36,
+      "question_type": "kanji",
+      "question_text": "むいかの{ごご}にあいましょう。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "午役",
+        "alternative_2": "牛役",
+        "alternative_3": "午後",
+        "alternative_4": "牛後",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 37,
+      "question_type": "kanji",
+      "question_text": "えきの{北口}をでて、まっすぐいってください。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "にしくち",
+        "alternative_2": "にしぐち",
+        "alternative_3": "きたくち",
+        "alternative_4": "きたぐち",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 38,
+      "question_type": "kanji",
+      "question_text": "これはなんの{ぱーていー}ですか。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ベーティー",
+        "alternative_2": "バーティー",
+        "alternative_3": "パーディー",
+        "alternative_4": "パーティー",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 39,
+      "question_type": "kanji",
+      "question_text": "せんせいは{黒い}めがねをかけています。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "しろい",
+        "alternative_2": "くらい",
+        "alternative_3": "くろい",
+        "alternative_4": "からい",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 40,
+      "question_type": "kanji",
+      "question_text": "きのうの{朝}は七時におきました。雨がふってさむかったから、あついコーヒーを飲みました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "あさ",
+        "alternative_2": "ひる",
+        "alternative_3": "よる",
+        "alternative_4": "ばん",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 41,
+      "question_type": "kanji",
+      "question_text": "きのうの朝は{七時}におきました。雨がふってさむかったから、あついコーヒーを飲みました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ななじ",
+        "alternative_2": "しちじ",
+        "alternative_3": "はち",
+        "alternative_4": "ろくじ",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 42,
+      "question_type": "kanji",
+      "question_text": "きのうの朝は七時におきました。{雨}がふってさむかったから、あついコーヒーを飲みました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "あめ",
+        "alternative_2": "うま",
+        "alternative_3": "いみ",
+        "alternative_4": "ゆめ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 43,
+      "question_type": "kanji",
+      "question_text": "きのうの朝は七時におきました。雨がふってさむかったから、あついコーヒーを{飲み}ました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "よみ",
+        "alternative_2": "くみ",
+        "alternative_3": "のみ",
+        "alternative_4": "すみ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 44,
+      "question_type": "kanji",
+      "question_text": "わたしは{きた}のくにでうまれました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "非",
+        "alternative_2": "化",
+        "alternative_3": "北",
+        "alternative_4": "比",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 45,
+      "question_type": "kanji",
+      "question_text": "わたしはきたのくにで{うまれ}ました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "主まれ",
+        "alternative_2": "佳まれ",
+        "alternative_3": "住まれ",
+        "alternative_4": "生まれ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 46,
+      "question_type": "kanji",
+      "question_text": "{学校}の後ろに何がありますか。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "かっこう",
+        "alternative_2": "がっこう",
+        "alternative_3": "がこう",
+        "alternative_4": "かこう",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 47,
+      "question_type": "kanji",
+      "question_text": "学校の{後ろ}に何がありますか。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "うしろ",
+        "alternative_2": "いしろ",
+        "alternative_3": "あしろ",
+        "alternative_4": "おしろ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 48,
+      "question_type": "kanji",
+      "question_text": "学校の後ろに{何}がありますか。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "なに",
+        "alternative_2": "なん",
+        "alternative_3": "か",
+        "alternative_4": "なんに",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 49,
+      "question_type": "kanji",
+      "question_text": "{小さい}こうえんがあります。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ちさい",
+        "alternative_2": "すくさい",
+        "alternative_3": "ちいさい",
+        "alternative_4": "しさい",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 50,
+      "question_type": "kanji",
+      "question_text": "{雨}の日は外へ出ないで、家でゆっくり休みます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "うみ",
+        "alternative_2": "かみ",
+        "alternative_3": "あめ",
+        "alternative_4": "あさ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 51,
+      "question_type": "kanji",
+      "question_text": "雨の日は{外}へ出ないで、家でゆっくり休みます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "がい",
+        "alternative_2": "そど",
+        "alternative_3": "かい",
+        "alternative_4": "そと",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 52,
+      "question_type": "kanji",
+      "question_text": "雨の日は外へ{出ない}で、家でゆっくり休みます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "だない",
+        "alternative_2": "でない",
+        "alternative_3": "しゅつない",
+        "alternative_4": "しゅない",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 53,
+      "question_type": "kanji",
+      "question_text": "雨の日は外へ出ないで、{家}でゆっくり休みます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "いえ",
+        "alternative_2": "や",
+        "alternative_3": "けん",
+        "alternative_4": "かん",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 54,
+      "question_type": "kanji",
+      "question_text": "雨の日は外へ出ないで、家でゆっくり{休み}ます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "やすみ",
+        "alternative_2": "すすみ",
+        "alternative_3": "すみ",
+        "alternative_4": "やみ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 55,
+      "question_type": "kanji",
+      "question_text": "{すいようび}はがっこうでおべんとうをたべます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "金曜日",
+        "alternative_2": "水曜日",
+        "alternative_3": "木曜日",
+        "alternative_4": "火曜日",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 56,
+      "question_type": "kanji",
+      "question_text": "すいようびはがっこうでおべんとうを{たべ}ます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "飲べ",
+        "alternative_2": "食べ",
+        "alternative_3": "館べ",
+        "alternative_4": "吸べ",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 57,
+      "question_type": "kanji",
+      "question_text": "{手紙}をまだ半分しか読んでいません。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "てかみ",
+        "alternative_2": "しゅかみ",
+        "alternative_3": "てがみ",
+        "alternative_4": "しゅがみ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 58,
+      "question_type": "kanji",
+      "question_text": "手紙をまだ{半分}しか読んでいません。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "かんぶん",
+        "alternative_2": "はんぶん",
+        "alternative_3": "はんふん",
+        "alternative_4": "かんふん",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 59,
+      "question_type": "kanji",
+      "question_text": "手紙をまだ半分しか{読んで}いません。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "すんで",
+        "alternative_2": "やんで",
+        "alternative_3": "さいんで",
+        "alternative_4": "よんで",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 60,
+      "question_type": "kanji",
+      "question_text": "そのかめらは{すこし}たかいです。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "小し",
+        "alternative_2": "炎し",
+        "alternative_3": "火し",
+        "alternative_4": "少し",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 61,
+      "question_type": "kanji",
+      "question_text": "そのかめらはすこし{たかい}です。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "高い",
+        "alternative_2": "重い",
+        "alternative_3": "低い",
+        "alternative_4": "広い",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 62,
+      "question_type": "kanji",
+      "question_text": "{銀行}は、この道を西は四キロいって左がわにあります。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "きんこう",
+        "alternative_2": "ぎんこう",
+        "alternative_3": "ぎんきょ",
+        "alternative_4": "きんきょ",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 63,
+      "question_type": "kanji",
+      "question_text": "銀行は、この{道}を西は四キロいって左がわにあります。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "みち",
+        "alternative_2": "まち",
+        "alternative_3": "どう",
+        "alternative_4": "とう",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 64,
+      "question_type": "kanji",
+      "question_text": "銀行は、この道を{西}は四キロいって左がわにあります。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "にし",
+        "alternative_2": "きた",
+        "alternative_3": "みなみ",
+        "alternative_4": "ひがし",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 65,
+      "question_type": "kanji",
+      "question_text": "銀行は、この道を西は{四}キロいって左がわにあります。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "し",
+        "alternative_2": "いし",
+        "alternative_3": "よん",
+        "alternative_4": "よ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 66,
+      "question_type": "kanji",
+      "question_text": "銀行は、この道を西は四キロいって{左}がわにあります。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "みぎ",
+        "alternative_2": "した",
+        "alternative_3": "うえ",
+        "alternative_4": "ひだり",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 67,
+      "question_type": "kanji",
+      "question_text": "{駅}の南におおきい川があります。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "えき",
+        "alternative_2": "あき",
+        "alternative_3": "うま",
+        "alternative_4": "ゆき",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 68,
+      "question_type": "kanji",
+      "question_text": "駅の{南}におおきい川があります。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ひがし",
+        "alternative_2": "きた",
+        "alternative_3": "にし",
+        "alternative_4": "みなみ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 69,
+      "question_type": "kanji",
+      "question_text": "駅の南におおきい{川}があります。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "がわ",
+        "alternative_2": "かわ",
+        "alternative_3": "せん",
+        "alternative_4": "くに",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 70,
+      "question_type": "kanji",
+      "question_text": "{らいねん}のなつはがいこくへいきたいです。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "昨年",
+        "alternative_2": "来年",
+        "alternative_3": "去年",
+        "alternative_4": "行年",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 71,
+      "question_type": "kanji",
+      "question_text": "らいねんの{なつ}はがいこくへいきたいです。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "夏",
+        "alternative_2": "冬",
+        "alternative_3": "春",
+        "alternative_4": "秋",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 72,
+      "question_type": "kanji",
+      "question_text": "らいねんのなつは{がいこく}へいきたいです。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "外玉",
+        "alternative_2": "例国",
+        "alternative_3": "例玉",
+        "alternative_4": "外国",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 73,
+      "question_type": "kanji",
+      "question_text": "らいねんのなつはがいこくへ{いきたい}です。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "来たい",
+        "alternative_2": "住たい",
+        "alternative_3": "行きたい",
+        "alternative_4": "主たい",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 74,
+      "question_type": "kanji",
+      "question_text": "{天気}がいいから、じゅぎょうの後で、外でテニスをしましょう。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "てんけ",
+        "alternative_2": "ていき",
+        "alternative_3": "てんき",
+        "alternative_4": "ていけ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 75,
+      "question_type": "kanji",
+      "question_text": "天気がいいから、じゅぎょうの{後で}、外でテニスをしましょう。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "うしろで",
+        "alternative_2": "ごで",
+        "alternative_3": "あとで",
+        "alternative_4": "こうで",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 76,
+      "question_type": "kanji",
+      "question_text": "天気がいいから、じゅぎょうの後で、{外}でテニスをしましょう。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "がい",
+        "alternative_2": "そこ",
+        "alternative_3": "かい",
+        "alternative_4": "そと",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 77,
+      "question_type": "kanji",
+      "question_text": "{今月}の五日にさとうさんと話をしました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "こんつき",
+        "alternative_2": "こんげつ",
+        "alternative_3": "いまつき",
+        "alternative_4": "こんがつ",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 78,
+      "question_type": "kanji",
+      "question_text": "今月の{五日}にさとうさんと話をしました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ごにち",
+        "alternative_2": "ごひ",
+        "alternative_3": "いつか",
+        "alternative_4": "いっか",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 79,
+      "question_type": "kanji",
+      "question_text": "今月の五日にさとうさんと{話}をしました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "はなし",
+        "alternative_2": "ばなし",
+        "alternative_3": "わ",
+        "alternative_4": "ごん",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 80,
+      "question_type": "kanji",
+      "question_text": "えきの{まえ}でバスをおります。そして、みなみのほうへ100メートルぐらいいってください。ひだりがわにおおきいホテルがあります。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "下",
+        "alternative_2": "後",
+        "alternative_3": "上",
+        "alternative_4": "前",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 81,
+      "question_type": "kanji",
+      "question_text": "えきのまえでバスをおります。そして、{みなみ}のほうへ100メートルぐらいいってください。ひだりがわにおおきいホテルがあります。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "北",
+        "alternative_2": "東",
+        "alternative_3": "南",
+        "alternative_4": "西",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 82,
+      "question_type": "kanji",
+      "question_text": "えきのまえでバスをおります。そして、みなみのほうへ100メートルぐらい{いって}ください。ひだりがわにおおきいホテルがあります。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "来て",
+        "alternative_2": "行って",
+        "alternative_3": "着て",
+        "alternative_4": "住て",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 83,
+      "question_type": "kanji",
+      "question_text": "えきのまえでバスをおります。そして、みなみのほうへ100メートルぐらいいってください。{ひだり}がわにおおきいホテルがあります。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "左",
+        "alternative_2": "右",
+        "alternative_3": "石",
+        "alternative_4": "在",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 84,
+      "question_type": "kanji",
+      "question_text": "えきのまえでバスをおります。そして、みなみのほうへ100メートルぐらいいってください。ひだりがわに{おおきい}ホテルがあります。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "小きい",
+        "alternative_2": "太きい",
+        "alternative_3": "大きい",
+        "alternative_4": "少きい",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 85,
+      "question_type": "kanji",
+      "question_text": "おふろに{入って}すこし休んでから、べんきょうします。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "いって",
+        "alternative_2": "はいって",
+        "alternative_3": "はって",
+        "alternative_4": "いて",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 86,
+      "question_type": "kanji",
+      "question_text": "おふろに入ってすこし{休んで}から、べんきょうします。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "やすんで",
+        "alternative_2": "すすんで",
+        "alternative_3": "ぬすんで",
+        "alternative_4": "やんで",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 87,
+      "question_type": "kanji",
+      "question_text": "いつもここで{しんぶん}をかいます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "新聞",
+        "alternative_2": "新刊",
+        "alternative_3": "新間",
+        "alternative_4": "新門",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 88,
+      "question_type": "kanji",
+      "question_text": "いつもここでしんぶんを{かい}ます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "会い",
+        "alternative_2": "行い",
+        "alternative_3": "食い",
+        "alternative_4": "買い",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 89,
+      "question_type": "kanji",
+      "question_text": "{一日}は二十四時間です。そして、一時間は六十分で、一分は六十びょうです。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "いちひ",
+        "alternative_2": "いっちにち",
+        "alternative_3": "いちにち",
+        "alternative_4": "いっちに",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 90,
+      "question_type": "kanji",
+      "question_text": "一日は{二十四}時間です。そして、一時間は六十分で、一分は六十びょうです。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "にちゅうよん",
+        "alternative_2": "にじゅうよ",
+        "alternative_3": "にじゅよん",
+        "alternative_4": "にちゅよん",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 91,
+      "question_type": "kanji",
+      "question_text": "一日は二十四{時間}です。そして、一時間は六十分で、一分は六十びょうです。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "じかん",
+        "alternative_2": "じけん",
+        "alternative_3": "しかん",
+        "alternative_4": "しけん",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 92,
+      "question_type": "kanji",
+      "question_text": "一日は二十四時間です。そして、一時間は{六十分}で、一分は六十びょうです。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ろくじゅうふん",
+        "alternative_2": "ろくじゅうぷん",
+        "alternative_3": "ろっくじゅっぷん",
+        "alternative_4": "ろくじゅっぷん",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 93,
+      "question_type": "kanji",
+      "question_text": "一日は二十四時間です。そして、一時間は六十分で、{一分}は六十びょうです。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "いちふん",
+        "alternative_2": "いっぷん",
+        "alternative_3": "いっちぷん",
+        "alternative_4": "いちぷん",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 94,
+      "question_type": "kanji",
+      "question_text": "{ながい}じかんでんしゃにのりました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "高い",
+        "alternative_2": "張い",
+        "alternative_3": "長い",
+        "alternative_4": "短い",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 95,
+      "question_type": "kanji",
+      "question_text": "ながいじかん{でんしゃ}にのりました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "雷車",
+        "alternative_2": "雷社",
+        "alternative_3": "電社",
+        "alternative_4": "電車",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 96,
+      "question_type": "kanji",
+      "question_text": "ひがしのそらが{あかるく}なりました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "明るく",
+        "alternative_2": "昼るく",
+        "alternative_3": "月るく",
+        "alternative_4": "日るく",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 97,
+      "question_type": "kanji",
+      "question_text": "このほんを{よんで}ください。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "諸んで",
+        "alternative_2": "続んで",
+        "alternative_3": "読んで",
+        "alternative_4": "緒んで",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 98,
+      "question_type": "kanji",
+      "question_text": "日本語の{授業}をうけます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "しゅきょう",
+        "alternative_2": "しゅうきょう",
+        "alternative_3": "じゅぎょう",
+        "alternative_4": "じゅうぎょう",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 99,
+      "question_type": "kanji",
+      "question_text": "あの古いいえには{電話}がありません。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "でんき",
+        "alternative_2": "でんわ",
+        "alternative_3": "てんわ",
+        "alternative_4": "てんき",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 100,
+      "question_type": "kanji",
+      "question_text": "{かようび}にとしょかんへいきました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "土ようび",
+        "alternative_2": "火ようび",
+        "alternative_3": "水ようび",
+        "alternative_4": "木ようび",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 101,
+      "question_type": "kanji",
+      "question_text": "かわいい女の子が{生まれました}。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ほまれました",
+        "alternative_2": "ふまれました",
+        "alternative_3": "おまれました",
+        "alternative_4": "うまれました",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 102,
+      "question_type": "kanji",
+      "question_text": "みなさん、みぎのドアから{でて}ください。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "缶て",
+        "alternative_2": "申て",
+        "alternative_3": "出て",
+        "alternative_4": "由て",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 103,
+      "question_type": "kanji",
+      "question_text": "きのうはじめて{魚}をたべました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "さくら",
+        "alternative_2": "さらく",
+        "alternative_3": "さなか",
+        "alternative_4": "さかな",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 104,
+      "question_type": "kanji",
+      "question_text": "この白い魚は{高い}です。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ほそい",
+        "alternative_2": "ひくい",
+        "alternative_3": "ふとい",
+        "alternative_4": "たかい",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 105,
+      "question_type": "kanji",
+      "question_text": "せんせいの{はなし}をよくきいてください。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "話",
+        "alternative_2": "語",
+        "alternative_3": "詰",
+        "alternative_4": "読",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 106,
+      "question_type": "kanji",
+      "question_text": "さとうさんはきょう{がっこう}をやすんだ。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "学校",
+        "alternative_2": "字校",
+        "alternative_3": "字枚",
+        "alternative_4": "学枚",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 107,
+      "question_type": "kanji",
+      "question_text": "{母}はかぜをひいていて手があつかったです。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ちち",
+        "alternative_2": "はは",
+        "alternative_3": "あね",
+        "alternative_4": "いもうと",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 108,
+      "question_type": "kanji",
+      "question_text": "{ぎんこう}はどこですか。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "金行",
+        "alternative_2": "銀行",
+        "alternative_3": "良行",
+        "alternative_4": "傘行",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 109,
+      "question_type": "kanji",
+      "question_text": "あの{人}はとても有名です。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "にん",
+        "alternative_2": "ひと",
+        "alternative_3": "しと",
+        "alternative_4": "じん",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 110,
+      "question_type": "kanji",
+      "question_text": "わたしは{えいご}がぜんぜんできません。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "英話",
+        "alternative_2": "英詰",
+        "alternative_3": "英誘",
+        "alternative_4": "英語",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 111,
+      "question_type": "kanji",
+      "question_text": "ドアの前に{立って}ください。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "たって",
+        "alternative_2": "すわって",
+        "alternative_3": "のって",
+        "alternative_4": "とまって",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 112,
+      "question_type": "kanji",
+      "question_text": "きのうの{ごご}へやでラジオをききました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "半後",
+        "alternative_2": "牛後",
+        "alternative_3": "午後",
+        "alternative_4": "干後",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 113,
+      "question_type": "kanji",
+      "question_text": "火よう日に{駅}で会いましょう。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "へや",
+        "alternative_2": "もん",
+        "alternative_3": "えき",
+        "alternative_4": "うち",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 114,
+      "question_type": "kanji",
+      "question_text": "ビールを{三本}かいました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "さんほん",
+        "alternative_2": "さんぽん",
+        "alternative_3": "さんぼん",
+        "alternative_4": "みつほん",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 115,
+      "question_type": "kanji",
+      "question_text": "このへやは{くらくて}さむい。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "黒くて",
+        "alternative_2": "暗くて",
+        "alternative_3": "晩くて",
+        "alternative_4": "暮くて",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 116,
+      "question_type": "kanji",
+      "question_text": "あした{れぽーと}をだします。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ルポート",
+        "alternative_2": "ルプート",
+        "alternative_3": "レポート",
+        "alternative_4": "レプート",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 117,
+      "question_type": "kanji",
+      "question_text": "昨日はとなりの村から{歩いて}帰ってきた。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ないて",
+        "alternative_2": "はいて",
+        "alternative_3": "あるいて",
+        "alternative_4": "つづいて",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 118,
+      "question_type": "kanji",
+      "question_text": "わたしはりょうしんと{一緒}にすんでいます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "いっしゅう",
+        "alternative_2": "いっしゅ",
+        "alternative_3": "いっしょう",
+        "alternative_4": "いっしょ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 119,
+      "question_type": "kanji",
+      "question_text": "ふくがよごれたから、{あらった}。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "沈った",
+        "alternative_2": "洗った",
+        "alternative_3": "浴った",
+        "alternative_4": "流った",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 120,
+      "question_type": "kanji",
+      "question_text": "テーブルのうえにおさらが{並んで}います。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ならんで",
+        "alternative_2": "あそんで",
+        "alternative_3": "はこんで",
+        "alternative_4": "ころんで",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 121,
+      "question_type": "kanji",
+      "question_text": "わたしのかいしゃはあのビルの{なか}です。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "史",
+        "alternative_2": "中",
+        "alternative_3": "央",
+        "alternative_4": "内",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 122,
+      "question_type": "kanji",
+      "question_text": "あの{男}のひとはだれですか。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "おどこ",
+        "alternative_2": "おとこ",
+        "alternative_3": "おどご",
+        "alternative_4": "おとご",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 123,
+      "question_type": "kanji",
+      "question_text": "ひがしの{そら}がきれいです。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "川",
+        "alternative_2": "池",
+        "alternative_3": "空",
+        "alternative_4": "風",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 124,
+      "question_type": "kanji",
+      "question_text": "きのう、{雨}がふりました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ゆき",
+        "alternative_2": "きり",
+        "alternative_3": "あめ",
+        "alternative_4": "つゆ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 125,
+      "question_type": "kanji",
+      "question_text": "店の{入り口}はどこですか。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "のりぐち",
+        "alternative_2": "かえりぐち",
+        "alternative_3": "おりぐち",
+        "alternative_4": "いりぐち",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 126,
+      "question_type": "kanji",
+      "question_text": "おかあさんはお{げんき}ですか。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "元气",
+        "alternative_2": "元気",
+        "alternative_3": "无气",
+        "alternative_4": "无気",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 127,
+      "question_type": "kanji",
+      "question_text": "この門は子どもの力では{開けられません}。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "あけられません",
+        "alternative_2": "うけられません",
+        "alternative_3": "かけられません",
+        "alternative_4": "つけられません",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 128,
+      "question_type": "kanji",
+      "question_text": "パンを{はんぶん}たべました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "半部",
+        "alternative_2": "半分",
+        "alternative_3": "平部",
+        "alternative_4": "平分",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 129,
+      "question_type": "kanji",
+      "question_text": "きょうは{お金}がたくさんあります。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "おぎん",
+        "alternative_2": "おかね",
+        "alternative_3": "おがね",
+        "alternative_4": "おきん",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 130,
+      "question_type": "kanji",
+      "question_text": "このレストランの{りょうり}はおいしいです。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "科理",
+        "alternative_2": "料理",
+        "alternative_3": "科里",
+        "alternative_4": "料里",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 131,
+      "question_type": "kanji",
+      "question_text": "これは一つ{千円}です。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "せいえん",
+        "alternative_2": "せいねん",
+        "alternative_3": "せんねん",
+        "alternative_4": "せんえん",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 132,
+      "question_type": "kanji",
+      "question_text": "こどもたちはかわで{およいで}います。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "凍いで",
+        "alternative_2": "水いで",
+        "alternative_3": "氷いで",
+        "alternative_4": "泳いで",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 133,
+      "question_type": "kanji",
+      "question_text": "これは{なん}ですか。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "同",
+        "alternative_2": "何",
+        "alternative_3": "向",
+        "alternative_4": "伺",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 134,
+      "question_type": "kanji",
+      "question_text": "今日はじゅうがつ{十日}です。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "とおか",
+        "alternative_2": "とうか",
+        "alternative_3": "じゅうか",
+        "alternative_4": "じゅっか",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 135,
+      "question_type": "kanji",
+      "question_text": "この{道}を百メートいってください。左にこうばんがあります。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "かど",
+        "alternative_2": "はし",
+        "alternative_3": "へん",
+        "alternative_4": "みち",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 136,
+      "question_type": "kanji",
+      "question_text": "このへやは{せまい}です。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "広い",
+        "alternative_2": "小い",
+        "alternative_3": "高い",
+        "alternative_4": "狭い",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 137,
+      "question_type": "kanji",
+      "question_text": "その{ちいさい}かれんだーをください。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "小い",
+        "alternative_2": "小さい",
+        "alternative_3": "少い",
+        "alternative_4": "少さい",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 138,
+      "question_type": "kanji",
+      "question_text": "いすの{した}にねこがいます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "下",
+        "alternative_2": "外",
+        "alternative_3": "上",
+        "alternative_4": "中",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 139,
+      "question_type": "kanji",
+      "question_text": "{むいか}のごごにあいましょう。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "九日",
+        "alternative_2": "三日",
+        "alternative_3": "六日",
+        "alternative_4": "五日",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 140,
+      "question_type": "kanji",
+      "question_text": "しんかんせんに{乗った}ことがありますか。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "やった",
+        "alternative_2": "いった",
+        "alternative_3": "のった",
+        "alternative_4": "おった",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 141,
+      "question_type": "kanji",
+      "question_text": "よく考えてから{質問}に答えてください。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "しつもん",
+        "alternative_2": "せつめい",
+        "alternative_3": "せんもん",
+        "alternative_4": "しょうめい",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 142,
+      "question_type": "kanji",
+      "question_text": "たなかさんはあした{会社}をやすみます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "かいじや",
+        "alternative_2": "かいしや",
+        "alternative_3": "かいじゃ",
+        "alternative_4": "かいしゃ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 143,
+      "question_type": "kanji",
+      "question_text": "このまちの{にし}にはおおきなかわがあります。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "酉",
+        "alternative_2": "西",
+        "alternative_3": "東",
+        "alternative_4": "束",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 144,
+      "question_type": "kanji",
+      "question_text": "きのう{たくしー}でかいしゃへいきました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "タクシー",
+        "alternative_2": "タウシー",
+        "alternative_3": "タケシー",
+        "alternative_4": "タワシー",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 145,
+      "question_type": "kanji",
+      "question_text": "{らいねん}はながいやすみがほしいです。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "未年",
+        "alternative_2": "未牛",
+        "alternative_3": "来年",
+        "alternative_4": "来牛",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 146,
+      "question_type": "kanji",
+      "question_text": "うちのちかくに{新しい}としょかんがあります。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "いそがしい",
+        "alternative_2": "あたらしい",
+        "alternative_3": "なつかしい",
+        "alternative_4": "うつくしい",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 147,
+      "question_type": "kanji",
+      "question_text": "{今月}のとおかにえんそくにいきます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "こんげつ",
+        "alternative_2": "こんがつ",
+        "alternative_3": "ほんげつ",
+        "alternative_4": "ほんがつ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 148,
+      "question_type": "kanji",
+      "question_text": "北のまちに{電車}ででかけました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "てんしゃ",
+        "alternative_2": "てんじゃ",
+        "alternative_3": "でんしゃ",
+        "alternative_4": "でんじゃ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 149,
+      "question_type": "kanji",
+      "question_text": "このかばんを{だいじ}につかっています。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "大字",
+        "alternative_2": "大事",
+        "alternative_3": "犬字",
+        "alternative_4": "犬事",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 150,
+      "question_type": "kanji",
+      "question_text": "あの{えいがかん}はおとがいいです。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "眩写館",
+        "alternative_2": "映写館",
+        "alternative_3": "映画館",
+        "alternative_4": "眩画館",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 151,
+      "question_type": "kanji",
+      "question_text": "ちちはいましんぶんを{読んで}います。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "よんで",
+        "alternative_2": "のんで",
+        "alternative_3": "とんで",
+        "alternative_4": "しんで",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 152,
+      "question_type": "kanji",
+      "question_text": "父は目も{耳}もおおきい。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "くち",
+        "alternative_2": "あたま",
+        "alternative_3": "みみ",
+        "alternative_4": "からだ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 153,
+      "question_type": "kanji",
+      "question_text": "そのほんを{みせて}ください。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "目せて",
+        "alternative_2": "覚せて",
+        "alternative_3": "聞せて",
+        "alternative_4": "見せて",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 154,
+      "question_type": "kanji",
+      "question_text": "わたしのこどもは{はな}がすきです。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "衣",
+        "alternative_2": "芘",
+        "alternative_3": "笩",
+        "alternative_4": "花",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 155,
+      "question_type": "kanji",
+      "question_text": "らいねん{外国}へりゅうがくにいきます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "がいこく",
+        "alternative_2": "がいごく",
+        "alternative_3": "かいこく",
+        "alternative_4": "かいごく",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 156,
+      "question_type": "kanji",
+      "question_text": "{妹}の代わりに手紙を書きました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "いもと",
+        "alternative_2": "むすめ",
+        "alternative_3": "いもうと",
+        "alternative_4": "むすうめ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 157,
+      "question_type": "kanji",
+      "question_text": "スポーツをして頭も{体}もすっきりしました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "からた",
+        "alternative_2": "かだら",
+        "alternative_3": "がらた",
+        "alternative_4": "からだ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 158,
+      "question_type": "kanji",
+      "question_text": "ここはこうつうが{不便}です。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ぶべん",
+        "alternative_2": "ぶへん",
+        "alternative_3": "ふべん",
+        "alternative_4": "ふへん",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 159,
+      "question_type": "kanji",
+      "question_text": "このぶんを{えいご}にしてください。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "芙語",
+        "alternative_2": "荼語",
+        "alternative_3": "竺語",
+        "alternative_4": "英語",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 160,
+      "question_type": "kanji",
+      "question_text": "{あに}はまいにちだいがくへいきます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "姉",
+        "alternative_2": "兄",
+        "alternative_3": "母",
+        "alternative_4": "父",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 161,
+      "question_type": "kanji",
+      "question_text": "{世界}の歴史をあまり知らないのでもっと勉強したい。界",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "せか",
+        "alternative_2": "せいか",
+        "alternative_3": "せかい",
+        "alternative_4": "せいかい",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 162,
+      "question_type": "kanji",
+      "question_text": "シャワーを{浴びます}。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "いびます",
+        "alternative_2": "あびます",
+        "alternative_3": "うびます",
+        "alternative_4": "おびます",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 163,
+      "question_type": "kanji",
+      "question_text": "{はやく}しゃしんをおくってください。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "早く",
+        "alternative_2": "卓く",
+        "alternative_3": "旱く",
+        "alternative_4": "阜く",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 164,
+      "question_type": "kanji",
+      "question_text": "たばこを{吸って}もいいですか。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "あって",
+        "alternative_2": "かって",
+        "alternative_3": "いって",
+        "alternative_4": "すって",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 165,
+      "question_type": "kanji",
+      "question_text": "この道を{百}メートいってください。左にこうばんがあります。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ひゃく",
+        "alternative_2": "びゃく",
+        "alternative_3": "はく",
+        "alternative_4": "ばく",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 166,
+      "question_type": "kanji",
+      "question_text": "{しがつ}はさくらがさきます。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "四月",
+        "alternative_2": "七月",
+        "alternative_3": "一月",
+        "alternative_4": "八月",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 167,
+      "question_type": "kanji",
+      "question_text": "ははと{やま}にのぼりました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "上",
+        "alternative_2": "山",
+        "alternative_3": "止",
+        "alternative_4": "凸",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 168,
+      "question_type": "kanji",
+      "question_text": "きのうじゅぎょうに{遅れました}。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "おかれました",
+        "alternative_2": "おくれました",
+        "alternative_3": "おそれました",
+        "alternative_4": "およれました",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 169,
+      "question_type": "kanji",
+      "question_text": "きのうは{ゆうはん}にぎゅうにくをたべた。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "夕飲",
+        "alternative_2": "夕飯",
+        "alternative_3": "夜飲",
+        "alternative_4": "夜飯",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 170,
+      "question_type": "kanji",
+      "question_text": "また{病気}になりました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "びょうき",
+        "alternative_2": "ぴょうき",
+        "alternative_3": "ひょうき",
+        "alternative_4": "ひょうぎ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 171,
+      "question_type": "kanji",
+      "question_text": "きかいは{ただしく}つかってください。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "止しく",
+        "alternative_2": "丘して",
+        "alternative_3": "正しく",
+        "alternative_4": "疋しく",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 172,
+      "question_type": "kanji",
+      "question_text": "きょうしつに{何人}いますか。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "なにじん",
+        "alternative_2": "なににん",
+        "alternative_3": "なんじん",
+        "alternative_4": "なんにん",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 173,
+      "question_type": "kanji",
+      "question_text": "こんしゅうは{てんき}がよかった。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "天気",
+        "alternative_2": "天汽",
+        "alternative_3": "矢気",
+        "alternative_4": "矢汽",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 174,
+      "question_type": "kanji",
+      "question_text": "人によって考え方も{違います}。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ちがいます",
+        "alternative_2": "ちかいます",
+        "alternative_3": "かたいます",
+        "alternative_4": "おもいます",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 175,
+      "question_type": "kanji",
+      "question_text": "それはいい{かめら}ですね。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "刀メラ",
+        "alternative_2": "カメヲ",
+        "alternative_3": "刀メヲ",
+        "alternative_4": "カメラ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 176,
+      "question_type": "kanji",
+      "question_text": "{ことし}のふゆやすみにくにへかえります。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "令年",
+        "alternative_2": "来年",
+        "alternative_3": "今年",
+        "alternative_4": "金年",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 177,
+      "question_type": "kanji",
+      "question_text": "おがわさんは四月から毎朝ぎゅうにゅうを{飲んで}います。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "たのんで",
+        "alternative_2": "すんで",
+        "alternative_3": "のんで",
+        "alternative_4": "やんで",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 178,
+      "question_type": "kanji",
+      "question_text": "あそこには{ながい}かわがあります。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "安い",
+        "alternative_2": "広い",
+        "alternative_3": "多い",
+        "alternative_4": "長い",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 179,
+      "question_type": "kanji",
+      "question_text": "この{門}は子どもの力では開けられません。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "と",
+        "alternative_2": "はこ",
+        "alternative_3": "まど",
+        "alternative_4": "もん",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 180,
+      "question_type": "kanji",
+      "question_text": "はやく{しゃしん}をおくってください。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "曷真",
+        "alternative_2": "曷頁",
+        "alternative_3": "写真",
+        "alternative_4": "写頁",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 181,
+      "question_type": "kanji",
+      "question_text": "中田さんはくろい{背広}をきています。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "せびろ",
+        "alternative_2": "せひろ",
+        "alternative_3": "せいこう",
+        "alternative_4": "せこう",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 182,
+      "question_type": "kanji",
+      "question_text": "この国はふゆでも{２０ど}いじょうになることがある。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "２０広",
+        "alternative_2": "２０度",
+        "alternative_3": "２０庄",
+        "alternative_4": "２０席",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 183,
+      "question_type": "kanji",
+      "question_text": "このことばの{意味}はなんですか。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "いみ",
+        "alternative_2": "いい",
+        "alternative_3": "いり",
+        "alternative_4": "いし",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 184,
+      "question_type": "kanji",
+      "question_text": "かわいい{女の子}が生まれました。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "おんなのこ",
+        "alternative_2": "おなのこ",
+        "alternative_3": "あんなのこ",
+        "alternative_4": "あなのこ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 185,
+      "question_type": "kanji",
+      "question_text": "えきの{後ろ}にこうえんがあります。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "あとろ",
+        "alternative_2": "ごろ",
+        "alternative_3": "うしろ",
+        "alternative_4": "こうろ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 186,
+      "question_type": "kanji",
+      "question_text": "このまちのにしには{おおきな}かわがあります。",
+      "statement": {
+        "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "犬きな",
+        "alternative_2": "夫きな",
+        "alternative_3": "大きな",
+        "alternative_4": "夭きな",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    }
+  ]
+}

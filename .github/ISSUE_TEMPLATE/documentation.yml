@@ -1,0 +1,25 @@
+name: Documentação
+description: Erros, falta de clareza ou ausência de informação
+title: "<Seu Titulo>"
+labels: ["Documentação", "status: Aguardando revisão"]
+body:
+  - type: markdown
+    attributes:
+      value: "Por favor, descreva o problema com a documentação de forma clara. NÃO ESQUEÇA DE TROCAR O TÍTULO"
+  - type: textarea
+    id: problema
+    attributes:
+      label: Descreva o problema encontrado
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Insira o link ou o trecho da documentação com problemas.
+    validations:
+      required: true
+  - type: textarea
+    id: sugestao
+    attributes:
+      label: Sugestão de melhoria
+      description: Como você sugere que a documentação seja corrigida ou melhorada?

@@ -1,0 +1,19 @@
+name: Nova funcionalidade
+description: Pedido de funcionalidade nova
+title: "<Seu Titulo>"
+labels: ["Demanda", "status: Aguardando revisão"]
+body:
+  - type: markdown
+    attributes:
+      value: "Tente enunciar sua ideia da forma mais clara e precisa possível. NÃO ESQUEÇA DE TROCAR O TÍTULO"
+  - type: textarea
+    id: problema
+    attributes:
+      label: Qual é a sua sugestão e como você acha que ela melhoraria o App?
+    validations:
+      required: true
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto adicional
+      description: Qualquer informação extra que possa ser relevante para implementação ou discussão

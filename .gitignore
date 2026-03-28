@@ -1,0 +1,7 @@
+.venv
+.env
+.vscode
+.devbox
+.extraction
+
+/app/src/database

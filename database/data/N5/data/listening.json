@@ -1,0 +1,1434 @@
+{
+  "5": {
+    "listening": [
+      {
+        "id": 1,
+        "question_type": "listening",
+        "question_text": "女の人と男の人が話しています。女の人のコートはどれですか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 2
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L1-Q1.mp3",
+          "image_file_path": "listening/JT4Y/L1-Q1.jpg",
+          "text_content": "Ａ：じゃ、私は先に帰ります。\nＢ：そうですか。じゃ、コートを、山田さんのコートはどれですか。\nＡ：それです。その白くて、長いのです。\nＢ：あ、これですか。\nＡ：いいえ。そのポケットがないほうです。\n女の人のコートはどれですか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 2,
+        "question_type": "listening",
+        "question_text": "女の人と男の人が話しています。テーブルはどうなりましたか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 1
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L1-Q2.mp3",
+          "image_file_path": "listening/JT4Y/L1-Q2.jpg",
+          "text_content": "Ａ：じゃ、お皿を並べてください。\nＢ：はい。\nＡ：大きいお皿を置いて、右側にナイフ、左側にフォーク。\nＢ：お箸は？\nＡ：そうね。ナイフの隣に。あ、コーヒーカップはまだいいわ。\nテーブルはどうなりましたか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 3,
+        "question_type": "listening",
+        "question_text": "男の人と女の人が電話で話しています。女の人の家はどこですか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 3
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L1-Q3.mp3",
+          "image_file_path": "listening/JT4Y/L1-Q3.jpg",
+          "text_content": "Ａ：もしもし、田中さん？駅に着きました。今からいきますから、道を教えてく\nださい。\nＢ：はい。駅を出て、橋を渡ってください。\nＡ：はい。\nＢ：はしをわたって、右を曲がってください。私の家は公園の前にあります。\nＡ：はい、わかりました。ありがとうございます。\n女の人の家はどこですか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 4,
+        "question_type": "listening",
+        "question_text": "女の人が話しています。この女の人はいつ買い物をしますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 4
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L1-Q4.mp3",
+          "image_file_path": "listening/JT4Y/L1-Q4.jpg",
+          "text_content": "来月の二日から八日まで海の近くに旅行に行きます。海を見ながら本を読んだり、\nお\nいしいものを食べたりしたいんですね。それから、帰る日に、買い物をします。\nこの女の人はいつ買い物をしますか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 5,
+        "question_type": "listening",
+        "question_text": "男の人と女の人が電話で話しています。女の人の部屋はどれですか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 1
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L1-Q5.mp3",
+          "image_file_path": "listening/JT4Y/L1-Q5.jpg",
+          "text_content": "Ａ：もしもし、鈴木さん？山田です。\nＢ：山田さん？今どこ？みんな待ってるよ。\nＡ：ごめん。今アパートの前。\nＢ：私の部屋、わかる？\nＡ：えーと、３０５、だよね。三階の部屋？\nＢ：そう、階段を上って、すぐだから。\nＡ：階段に一番近い部屋だね。わかった、今行く。\n女の人の部屋はどれですか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 6,
+        "question_type": "listening",
+        "question_text": "女の人と男の人が話しています。男の人は冷蔵庫に何を入れますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。そのあと、もんだいようしを　見みて　ください。読よむ　時間じかんが　あります。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "くだもの",
+          "alternative_2": "ビール",
+          "alternative_3": "くだもの・ビール",
+          "alternative_4": "くだもの・ビール・おかし",
+          "correct_alternative": 3
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L2-Q1.mp3",
+          "image_file_path": null,
+          "text_content": "Ａ：買い物、ありがとう。果物は、冷蔵庫に入れてください。\nＢ：お菓子は、テーブルの上でいいですか。\nＡ：はい。あ、ビールもテーブルの上に置いてください。\nＢ：そうですか。でも、温いビールはおいしくないでしょう。\nＡ：そうですよね。パーティーまで時間がありますね。じゃあ、一緒に入れてく\nださい。\n男の人は冷蔵庫に何を入れますか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 7,
+        "question_type": "listening",
+        "question_text": "女の人と男の人が話しています。写真はどうなりましたか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 4
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L2-Q3.mp3",
+          "image_file_path": "listening/JT4Y/L2-Q3.jpg",
+          "text_content": "Ａ：すみませんが、ちょっと、写真いいでしょうか。\nＢ：え？私とですか？\nＡ：あ、いいえ、私だけで、この建物と一緒に取ってくださいませんか。\nＢ：ああ、はい、いいですよ。建物は全部入りませんが。\nＡ：あ、じゃ、入り口のドアだけでいいです。\nＢ：はい、じゃ、取りますよ。一、二、三。\n写真はどうなりましたか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 8,
+        "question_type": "listening",
+        "question_text": "女の人と男の人が話しています。今月のカレンダーはどれですか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 2
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L2-Q4.mp3",
+          "image_file_path": "listening/JT4Y/L2-Q4.jpg",
+          "text_content": "Ａ：田中さん。\nＢ：はい。何ですか。\nＡ：パーテイーは\nＢ：はい。\nＡ：来週の、金曜日になったんですけど。\nＢ：えーと、来週の金曜日は、十日ですね。私、来週の十日は忙しいですよ。\nＡ：いいえ、八日ですよ、田中さん。何見てるんですか。それは、先月のカレン\nダーで\nすよ。\nＢ：あ、本当だ。\n今月のカレンダーはどれですか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 9,
+        "question_type": "listening",
+        "question_text": "女の人二人が店で話しています。二人はどんなスカートを見ていますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。そのあと、もんだいようしを　見みて　ください。読よむ　時間じかんが　あります。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "黒いスカートです",
+          "alternative_2": "茶色のスカートです",
+          "alternative_3": "赤いスカートです",
+          "alternative_4": "白いスカートです",
+          "correct_alternative": 4
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L2-Q5.mp3",
+          "image_file_path": null,
+          "text_content": "Ａ：いらっしゃいませ。こちらの白いスカートは、あのう、新しく入りました。\nいかがですか。\nＢ：いいですね。\nＡ：同じ形でほかに黒と灰色、赤もありますが、そちらも見ますか。\nＢ：いいえ、これはいいです。これをください。\n二人はどんなスカートを見ていますか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 10,
+        "question_type": "listening",
+        "question_text": "女の人と男の人が話しています。男の人のアパートはどうですか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。そのあと、もんだいようしを　見みて　ください。読よむ　時間じかんが　あります。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "うるさいですが、便利です",
+          "alternative_2": "うるさくて、不便です",
+          "alternative_3": "静かで、便利です",
+          "alternative_4": "静かですが、不便です",
+          "correct_alternative": 3
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L3-Q5.mp3",
+          "image_file_path": null,
+          "text_content": "Ａ：私のアパートは遠くて、不便です。田中さんのアパートはどこですか。\nＢ：学校の近くです。\nＡ：あ、それは便利で、いいですね。\nＢ：ええ。\nＡ：でも、うるさくないですか。\nＢ：いいえ、公園の隣で、とても静かですよ。\n男の人のアパートはどうですか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 11,
+        "question_type": "listening",
+        "question_text": "女の人と男の人が話しています。男の人はどれをとりますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 4
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L4-Q1.mp3",
+          "image_file_path": "listening/JT4Y/L4-Q1.gif",
+          "text_content": "女： ああ、すみません。そのテーブルの下の本を取ってくれませんか\n男： ええと、これですか。\n女： いいえ、それじゃなくて箱の上のです。\n男の人はどれをとりますか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 12,
+        "question_type": "listening",
+        "question_text": "男の子とお母さんが話しています。お母さんは何を渡しましたか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 4
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L4-Q2.mp3",
+          "image_file_path": "listening/JT4Y/L4-Q2.gif",
+          "text_content": "男の子： お母さん、行って来ます。\nお母さん： ああ、ちょっと待って。これを被って行きなさい。\n男の子： ええ、どうして。\nお母さん： まだ風邪引いているでしょう。\n男の子： はい。\nお母さんは何を渡しましたか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 13,
+        "question_type": "listening",
+        "question_text": "先生が生徒に話しています。生徒は明日何を持っていきますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 3
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L4-Q3.mp3",
+          "image_file_path": "listening/JT4Y/L4-Q3.gif",
+          "text_content": "先生： 皆さん、明日は旅行ですね。飲み物を忘れないでください。それから雨\nが降るかもしれませんから傘も持ってきてください。お菓子は持ってこないでく\nださい。いいですか。\n生徒は明日何を持っていきますか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 14,
+        "question_type": "listening",
+        "question_text": "女の子がお店の人と話しています。女の子はどの財布を買いましたか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 1
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L4-Q4.mp3",
+          "image_file_path": "listening/JT4Y/L4-Q4.gif",
+          "text_content": "女の子： すみません。三千円ぐらいの財布はありませんか。\n店の人： 三千円ですか。この四つですね。色は黒と白だけですが、この丸いの\nが可愛いですよ。\n女の子： う～ん、丸いのはあまり好きじゃないから、これかこれですね。じゃ、\nこの黒いのをください。\n店の人： ありがとうございます。\n女の子はどの財布を買いましたか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 15,
+        "question_type": "listening",
+        "question_text": "男の人が外国語で女の人と電話で話しています。女の人の国は今何時ですか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。そのあと、もんだいようしを　見みて　ください。読よむ　時間じかんが　あります。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "午前８じ５０分",
+          "alternative_2": "午後８じ５０分",
+          "alternative_3": "午前８じ１5分",
+          "alternative_4": "午後８じ１５分",
+          "correct_alternative": 1
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L4-Q5.mp3",
+          "image_file_path": null,
+          "text_content": "男： 今、そっちは何時？\n女： 8 時 50 分。\n男： へえ、日本も今 8時 50 分だよ。\n女： ええ？同じ？\n男： でも、こっちは夜だよ。夜の 8 時 50分。\n女： 何だ。\n女の人の国は今何時ですか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 16,
+        "question_type": "listening",
+        "question_text": "女の人と男の人が話しています。男の人は毎日会社までどうやって行きますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 2
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L5-Q1.mp3",
+          "image_file_path": "listening/JT4Y/L5-Q1.gif",
+          "text_content": "女： 毎日会社までどうやって行きますか。\n男： 駅まで自転車で行って、ええ、それから電車で南駅まで行きます。\n女： 南駅から会社までは歩いていきますか。\n男： いいえ、少し遠いですから、バスで行きます。\n男の人は毎日会社までどうやって行きますか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 17,
+        "question_type": "listening",
+        "question_text": "女の子がお爺さんと話しています。女の子はいつ電話しますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 1
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L5-Q2.mp3",
+          "image_file_path": "listening/JT4Y/L5-Q2.gif",
+          "text_content": "女の子： じゃ、おじいちゃん、私明後日東京に着いたらすぐ電話する。\nおじいさん： じゃ、七日だな。\n女の子： 違うよ、おじいちゃん。今日は四日よ。だから明後日は六日。\nおじいさん： お～、そうか。じゃあ、明後日。\n女の子： うん。\n女の子はいつ電話しますか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 18,
+        "question_type": "listening",
+        "question_text": "女の人と男の人が話しています。女の人はどのコートがほしいですか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 1
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L5-Q3.mp3",
+          "image_file_path": "listening/JT4Y/L5-Q3.gif",
+          "text_content": "女性： あのコートいいよね。\n男性： どれ？\n女性： あの、長くて白いの。\n男性： ポケットがあるコート？\n女性： 違う。大きいボタンのあるコート。\n女の人はどのコートがほしいですか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 19,
+        "question_type": "listening",
+        "question_text": "男の人が自転車の鍵を捜しています。鍵はどこにありましたか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 2
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L5-Q4.mp3",
+          "image_file_path": "listening/JT4Y/L5-Q4.gif",
+          "text_content": "男性： あれ、鍵がない。\n女性： 自転車の鍵？\n男性： 見た？\n女性： さっき、テーブルの上にあったけど。\n男性： ないよ。\n女性： あ、椅子の上に置いたんだ。ほら、本棚の横の椅子。\n男性： ああ、あった。\n鍵はどこにありましたか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 20,
+        "question_type": "listening",
+        "question_text": "男の人と女の人が話しています。昨日、二人で一緒に何をしましたか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。そのあと、もんだいようしを　見みて　ください。読よむ　時間じかんが　あります。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "テニスをしました。",
+          "alternative_2": "お酒を飲みました。",
+          "alternative_3": "サッカーをしました。",
+          "alternative_4": "買い物をしました。",
+          "correct_alternative": 1
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L5-Q5.mp3",
+          "image_file_path": null,
+          "text_content": "男： 昨日のテニス、楽しかったですね。\n女： ええ、でも、ちょっと疲れました。\n男： 僕はあの後、サッカーをして、夜は皆でお酒を飲みに行きました。\n女： 元気ですね。私はテニスの後、買い物をして帰りました。\n昨日、二人で一緒に何をしましたか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 21,
+        "question_type": "listening",
+        "question_text": "男の人と女の人が話しています。男の人は何を買ってきましたか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。そのあと、もんだいようしを　見みて　ください。読よむ　時間じかんが　あります。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "牛肉です",
+          "alternative_2": "豚肉です",
+          "alternative_3": "鶏肉です",
+          "alternative_4": "牛乳です",
+          "correct_alternative": 1
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L6-Q1.mp3",
+          "image_file_path": null,
+          "text_content": "男性： ただいま。買ってきたよ。\n女性： はい、ありがとう。あれ、これ牛肉じゃない？\n男性： うん、牛肉だよ。ええ、豚肉だった？\n女性： 私、鶏肉も頼んだんだけど。\n男性： ええ、そうだった？\n女性： そうよ。\n男の人は何を買ってきましたか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 22,
+        "question_type": "listening",
+        "question_text": "男の人と女の人が会社で話しています。今、どんな天気ですか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。そのあと、もんだいようしを　見みて　ください。読よむ　時間じかんが　あります。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "晴れです",
+          "alternative_2": "雨です",
+          "alternative_3": "曇りです",
+          "alternative_4": "雪です",
+          "correct_alternative": 3
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L6-Q2.mp3",
+          "image_file_path": null,
+          "text_content": "男性： おはようございます。寒いですね。\n女性： 本当。天気も悪いですね。雨は降っていますか。\n男性： いいえ、まだ降っていません。でも、夜から雪ですよ。テレビで言って\nいました。\n今、どんな天気ですか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 23,
+        "question_type": "listening",
+        "question_text": "男の人と女の人が話しています。男の人はどうしますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。そのあと、もんだいようしを　見みて　ください。読よむ　時間じかんが　あります。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "女の人と仕事をします",
+          "alternative_2": "一人で仕事をします",
+          "alternative_3": "女の人と映画を見ます",
+          "alternative_4": "一人で映画を見ます",
+          "correct_alternative": 4
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L6-Q3.mp3",
+          "image_file_path": null,
+          "text_content": "男性： 木村さん、申し子と終わりました？\n女性： いいえ、まだです。でも、今日はもう疲れたから帰ります。\n男性： あのう、映画の切符が二枚あるんですけど、今から一緒に行きませんか。\nこの切符、今日までなんです。\n女性： すみません。今日はちょっと。\n男性： そうですか。残念だなあ。じゃあ、一人で行きます。\n女性： すみません。\n男性： いえいえ。\n男の人はどうしますか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 24,
+        "question_type": "listening",
+        "question_text": "男の人と女の人が話しています。服は誰のですか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。そのあと、もんだいようしを　見みて　ください。読よむ　時間じかんが　あります。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "この男の人のです",
+          "alternative_2": "この男の人のお父さんのです",
+          "alternative_3": "この男の人のお兄さんのです",
+          "alternative_4": "この男の人の弟さんのです",
+          "correct_alternative": 2
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L6-Q4.mp3",
+          "image_file_path": null,
+          "text_content": "女性： その服、素敵ですね。\n男性： ありがとうございます。でも、これ、僕のじゃないんです。\n女性： あら、そうなんですか。じゃ、お兄さんか弟さんのですか。\n男性： いいえ、父のです。\n女性： ええ、そうですか。\n服は誰のですか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 25,
+        "question_type": "listening",
+        "question_text": "女の人と男の人が話しています。女の人は何人家族ですか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。そのあと、もんだいようしを　見みて　ください。読よむ　時間じかんが　あります。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "三人家族です",
+          "alternative_2": "四人家族です",
+          "alternative_3": "五人家族です",
+          "alternative_4": "六人家族です",
+          "correct_alternative": 3
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L6-Q5.mp3",
+          "image_file_path": null,
+          "text_content": "女性： 佐藤さんは何人家族ですか。\n男性： 両親と私の三人家族です。飯田さんは？\n女性： はい、両親と兄が一人と姉が一人と私です。\n男性： ああ、そうですか。\n女の人は何人家族ですか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 26,
+        "question_type": "listening",
+        "question_text": "女の人と男の人が話しています。男の人はどうしますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 1
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L7-Q2.mp3",
+          "image_file_path": "listening/JT4Y/L7-Q2.gif",
+          "text_content": "女：パーティーに行きますか。\n男：はい、勉強が終わってから行きます。\n女：そう、誰かと一緒にいきますか。\n男：うん、そうですね。一人で行きます。\n男の人はどうしますか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 27,
+        "question_type": "listening",
+        "question_text": "教室で先生と学生が話しています。今日の授業は本の何ページからですか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。そのあと、もんだいようしを　見みて　ください。読よむ　時間じかんが　あります。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "５７ページ",
+          "alternative_2": "５８ページ",
+          "alternative_3": "５９ページ",
+          "alternative_4": "６０ページ",
+          "correct_alternative": 4
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L7-Q3.mp3",
+          "image_file_path": null,
+          "text_content": "男：では、授業を始めます。え、今日は６０ページから。 では、６０ページを\n見てください。\n女：あのう、先生先週は５７ページまででした。\n男：５８ページと５９ページが家で読んでください。いいですか。では、始めま\nしょう。\n今日の授業は本の何ページからですか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 28,
+        "question_type": "listening",
+        "question_text": "男の人と女の人が話しています。女の人は買った物は、どれですか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 2
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L8-Q1.mp3",
+          "image_file_path": "listening/JT4Y/L8-Q1.gif",
+          "text_content": "男：いらっしゃいませ 。\n女：これを三つください。\n男：はい、みっつですね。\n女：え、それから、それを二本ください。\n男：二本ですね。ありがとうこざいます。\n女の人が買った物は、どれですか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 29,
+        "question_type": "listening",
+        "question_text": "女の人と男の人が、話しています。山田さんのおねえさんはどの人ですか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 4
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L8-Q2.mp3",
+          "image_file_path": "listening/JT4Y/L8-Q2.gif",
+          "text_content": "女：あそこで話している人、山田さんのおねえさんよ。\n男：え、どの人？\n女：ほら、長いスカートをはいているひと。\n男：眼鏡をかけている人 ？\n女：ううん～\n男：あ、あの人。\n山田さんのおねえさんはどの人ですか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 30,
+        "question_type": "listening",
+        "question_text": "男の人と女の人が、話しています。つぎはいつ会いますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 4
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L8-Q3.mp3",
+          "image_file_path": "listening/JT4Y/L8-Q3.gif",
+          "text_content": "男：つぎはいつ会いますか。\n女：わたしは毎週火曜日が忙しいです。\n男：私は六日が忙しくて、あ、八日はどうですか。\n女：え、四日ですか。\n男：いいえ、八日です。\n女：あ、大丈夫です、じゃあ、ようかにしましょう。\nつぎはいつ会いますか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 31,
+        "question_type": "listening",
+        "question_text": "男の人と女の人がパーティーで話しています。今、お菓子はどうなっていますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 3
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L8-Q4.mp3",
+          "image_file_path": "listening/JT4Y/L8-Q4.gif",
+          "text_content": "男：このお菓子、美味しいですよ。\n女：あ、そうですか。どこにありますか。\n男：あそこです。あ、少ししかありません。\n今、お菓子はどうなっていますか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 32,
+        "question_type": "listening",
+        "question_text": "男の人と女の人が、そとを見ながら話しています。今朝はどんな天気でしだか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 3
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L8-Q5.mp3",
+          "image_file_path": "listening/JT4Y/L8-Q5.gif",
+          "text_content": "今朝の天気です。\n男：雨がまだ降っていますか。\n女：ええ、寒いから、夜に雪になるでしょうね。\n男：うん、困ったな。今朝は晴れていますから、傘を持って来ませんでした。\n女：あ、私もです、今朝は本当にいい天気でしたから。\nけさはどんな天気でしたか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 33,
+        "question_type": "listening",
+        "question_text": "男の人と女の人が歌を聞いて 話しています。二人はこの歌がを好きですが。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 1
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L9-Q1.mp3",
+          "image_file_path": null,
+          "text_content": "男：この歌、とてもいいでうね。楽しくなります。\n女：そうですか。私はあまり。ちょっとうるさいです。\n二人はこの歌が好きですが。\n1 男の人はすきです\n2 女の人はすきです\n3 男の人も女の人もすきです\n4 男の人も女の人も好きではすきません"
+        },
+        "tags": null
+      },
+      {
+        "id": 34,
+        "question_type": "listening",
+        "question_text": "女の人は日曜日に何時間バイオリーンを練習していますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 3
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L9-Q2.mp3",
+          "image_file_path": null,
+          "text_content": "していますか。\n男：上手ですね。毎日どのくらい練習していますか。\n女：三時間です、でも、休みの日は もっと します。土曜日は四時間、日曜日は\n六時間です。\n男：大変ですね。\n女の人は日曜日に何時間バイオリーンを練習していますか。\n１ ３時間\n２ ４時間\n３ ６時間\n４ ９時間"
+        },
+        "tags": null
+      },
+      {
+        "id": 35,
+        "question_type": "listening",
+        "question_text": "女の人と男の人が話しています。男の人のお母さんはいま何をしていますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 4
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L9-Q3.mp3",
+          "image_file_path": null,
+          "text_content": "女：たかさきさんのお母さんは、何か仕事をしますか。\n男：いいえ、去年までは高校の先生でしたが、今年から大学生になりました。医\n者になる勉強をしています。\n女：ええ、お医者さんに。それはすごいですね。\n男の人のお母さんはいま何をしていますか。\n１ いしゃです\n２ 大学の先生です\n３ 高校の先生です\n４ 大学生です"
+        },
+        "tags": null
+      },
+      {
+        "id": 36,
+        "question_type": "listening",
+        "question_text": "男の人と女の人が、話しています。男の人は京都で何をしましたか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 2
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L9-Q4.mp3",
+          "image_file_path": null,
+          "text_content": "男：これ、京都で買ったお菓子です、どうぞ。\n女：ありがとうこざいます。旅行ですか。\n男：はい、友達の結婚パーティーでした。おとといってゆうべ かえたんです。\n有名なところへもいきたかったんですけど、時間がありませんでしだ男の人は京\n都で何をしましだか。\n１ 仕事をしました\n２ 結婚パーティーへ行きました\n３ 結婚しました\n４ 有名なところへいきました"
+        },
+        "tags": null
+      },
+      {
+        "id": 37,
+        "question_type": "listening",
+        "question_text": "男の人が、話しています。この人は、先週何日休みましたか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 1
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L9-Q5.mp3",
+          "image_file_path": null,
+          "text_content": "男：先週が本当に忙しかったです、私の会社は土曜日と日曜日が休みです。でも、\n先週の土曜日は休まないで会社に行きましだ。いや、疲れましたね。この人は、\n先週何日休みましだか。\n１ 一日\n２ 二日\n３ 三日\n４ ぜんぜん休みませんでしだ"
+        },
+        "tags": null
+      },
+      {
+        "id": 38,
+        "question_type": "listening",
+        "question_text": "男の人と女の人が、話しています。女の人が今から、誰に会いますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 3
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L10-Q1.mp3",
+          "image_file_path": null,
+          "text_content": "男：これから、どうしますか。\n女：今日はすぐ帰ります。おばさんに会いにいきますから。\n男：あ、おばあさんに。\n女：いいえ、おばあさんじゃなくで、おばですよ。母の姉です。\n男：あ、そうですか。\n女の人が今から、誰に会いますか。\n１ おばあさんです\n２ おかあさんです\n３ おばさんです\n４ おねえさんです"
+        },
+        "tags": null
+      },
+      {
+        "id": 39,
+        "question_type": "listening",
+        "question_text": "女の人と男の人が、話しています。女の人はどうしますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 4
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L10-Q2.mp3",
+          "image_file_path": null,
+          "text_content": "女：あの、すみません。ここは、山田先生の部屋ですか。\n男：はい、そうです。\n女：山田先生は。\n男：あ、いま、二番の教室で授業中です。えっと、三時に終わりますけど。\n女：あ、そうですか。じゃ、まだ、あとできます。\n女の人はどうしますか。\n１ いまから、教室にいきます\n２ あとで、教室にいきます\n３ 先生の部屋で待ちます\n４ あとで先生の部屋にきます"
+        },
+        "tags": null
+      },
+      {
+        "id": 40,
+        "question_type": "listening",
+        "question_text": "女の人と男の人が、話しています。男の人は何を飲みますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 4
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L10-Q3.mp3",
+          "image_file_path": null,
+          "text_content": "女：鈴木さん、何か飲みますか。\n男：はい、ありがとうございます。\n女：何がいいですか、コーヒー、紅茶。\n男：そうですね。あの、おみずを お願いします。\n女：おみず。\n男：え、熱い飲み物はちょっと\n女：それでは、冷たいお茶はどうですか。\n男：あ、そうですね。お願いします。\n男の人は何を飲みますか。\n１ 熱いコーヒーを飲みます\n２ 熱い紅茶を飲みます\n３ 冷たい水を飲みます\n４ 冷たいお茶を飲みます"
+        },
+        "tags": null
+      },
+      {
+        "id": 41,
+        "question_type": "listening",
+        "question_text": "クラスで先生が話しています。学生は、きょううちで、どこを勉強しますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 3
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L31-Q4.mp3",
+          "image_file_path": "listening/JT4Y/L31-Q4.gif",
+          "text_content": "Ａ 「では、きょうは２０ページまでおわりましたから、２１ページはしゅくだいです\nね。」\nＢ 「ぜんぶですか。」\nＡ 「いいえ、２１ページの１ばんです。２ばんは、クラスでします。」\n学生は、きょううちで、どこをべんきょうしますか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 42,
+        "question_type": "listening",
+        "question_text": "くつしたのお店で、女の人と店の人が話しています。女の人は、どのくつしたを買いますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 2
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L31-Q5.mp3",
+          "image_file_path": "listening/JT4Y/L31-Q5.gif",
+          "text_content": "すか。\nＡ 「子供のくつした、ありますか。」\nＢ 「はい。長いのですか、短いのですか。」\nＡ 「長いのです。」\nＢ 「はい。くだものの絵とどうぶつの絵があります。どちらがいいですか。\nＡ 「そうですね、どうぶつのをください。」\n女の人は、どのくつしたを買いますか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 43,
+        "question_type": "listening",
+        "question_text": "びょういんで、医者と女の人が話しています。女の人は、いちにちになんかい薬をのみますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。そのあと、もんだいようしを　見みて　ください。読よむ　時間じかんが　あります。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "１かい",
+          "alternative_2": "２かい",
+          "alternative_3": "３かい",
+          "alternative_4": "４かい",
+          "correct_alternative": 2
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L34-Q1.mp3",
+          "image_file_path": null,
+          "text_content": "ますか。\nＡ 「この薬は、朝と夜、ごはんを食べたあとでのんでください。」\nＢ 「ひるごはんのあとは？」\nＡ 「ひるはのまないでください。」\nＢ 「はい。」\nＡ 「四日かんのんでくださいね。\nＢ 「わかりました。」\n女の人は、いちにちになんかい薬をのみますか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 44,
+        "question_type": "listening",
+        "question_text": "デパートで、女の人と店の人が話しています。店の人は、どのかばんをとりますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 3
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L34-Q2.mp3",
+          "image_file_path": "listening/JT4Y/L34-Q2.gif",
+          "text_content": "Ａ 「すみません、その上の黒いかばんをとってください。」\nＢ 「どちらですか。この小さいのですか。」\nＡ 「いいえ。大きいのです。」\nＢ 「はい。」\n店の人は、どのかばんをとりますか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 45,
+        "question_type": "listening",
+        "question_text": "きょうしつで、先生が話しています。学生は、つくえの上に何をおきますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 3
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L34-Q3.mp3",
+          "image_file_path": "listening/JT4Y/L34-Q3.gif",
+          "text_content": "Ａ 「今からテストをします。このテストでは、じしょを使うもんだいがありますから、\nつくえの上にじしょを出してください。えんぴつとけしゴムも出してください。とけい\nは、かばんの中に入れてください。」\nＢ 「先生、ノートはどうしますか。」\nＡ 「ノートもかばんの中に入れてください。」\n学生は、つくえの上に何をおきますか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 46,
+        "question_type": "listening",
+        "question_text": "バスの中で、りょこう会社の人が学生に話しています。学生は、はじめに何をしますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 1
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L34-Q4.mp3",
+          "image_file_path": "listening/JT4Y/L34-Q4.gif",
+          "text_content": "みなさん、ホテルに着きました。今からいっかいのレストランで晩ごはんを食べます。\n晩ごはんは七時からです。六時五十分ですから、すぐに行ってください。皆さんのにも\nつは、ホテルの人がへやに持っていきます。晩ごはんのあとは、テレビを見たり、買い\n物をしたりしてください。\n学生は、はじめに何をしますか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 47,
+        "question_type": "listening",
+        "question_text": "男の人と女の人が話しています。男の人は、何を持っていきますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 4
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L34-Q5.mp3",
+          "image_file_path": "listening/JT4Y/L34-Q5.gif",
+          "text_content": "Ａ 「らいしゅうの日よう日、うみへ行きますね。男の人は、何を持っていきましょう\nか。」\nＢ 「わたしはおにぎりを持っていきます。」\nＡ 「じゃあ、ぼくは。」\nＢ 「飲みものとお菓子をおねがいします。」\nＡ 「はい。飲みものとお菓子ですね。」\nＢ 「あ、飲みものは重いですね。うみに着いてから買いましょう。」\nＡ 「そうですね。」\n男の人は、何を持っていきますか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 48,
+        "question_type": "listening",
+        "question_text": "だいがくで、男の学生と女の学生が話しています。女の学生は、きょう、何時間べんきょうしますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。そのあと、もんだいようしを　見みて　ください。読よむ　時間じかんが　あります。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "１じかん",
+          "alternative_2": "２じかん",
+          "alternative_3": "３じかん",
+          "alternative_4": "４じかん",
+          "correct_alternative": 4
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L36-Q4.mp3",
+          "image_file_path": null,
+          "text_content": "ょうしますか。\nＡ 「山田さんはいつも何時間ぐらいべんきょうしますか。」\nＢ 「うーん、まいにち３時間ぐらいです。」\nＡ 「えっ、わたしはまいにち１時間です。」\nＢ 「あ、でも、明日はテストがありますから、きょうは４時間べんきょうします。」\nＡ 「そうですか。」\n女の学生は、きょう、何時間べんきょうしますか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 49,
+        "question_type": "listening",
+        "question_text": "バスていで、女の人とバス会社の人が話しています。女の人は、なんばんのバスに乗りますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。そのあと、もんだいようしを　見みて　ください。読よむ　時間じかんが　あります。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "１ばん",
+          "alternative_2": "３ばん",
+          "alternative_3": "５ばん",
+          "alternative_4": "７ばん",
+          "correct_alternative": 4
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L36-Q5.mp3",
+          "image_file_path": null,
+          "text_content": "ますか。\nＡ 「すみません、１ばんのバスはみどり駅に行きますか。」\nＢ 「いいえ、みどり駅に行くバスは３ばんと５ばんと７ばんですよ。」\nＡ 「そうですか。」\nＢ 「あ、でも、きょうは日よう日ですから、５ばんのバスはありません。」\nＡ 「そうですか。」\nＢ 「それから、３ばんはあさとゆうがたのバスですから、今の時間は７ばんですね。」\nＡ 「わかりました。ありがとうございます。」\n女の人は、なんばんのバスに乗りますか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 50,
+        "question_type": "listening",
+        "question_text": "お国ははどちらですか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 2
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L37-Q1.mp3",
+          "image_file_path": null,
+          "text_content": "１、 あちらです。\n２、 アメリカです。\n３、 部屋です。"
+        },
+        "tags": null
+      },
+      {
+        "id": 51,
+        "question_type": "listening",
+        "question_text": "今日は何日ですか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 1
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L37-Q2.mp3",
+          "image_file_path": null,
+          "text_content": "１、 三日です。\n２、 三週間です。\n３、 三時です。"
+        },
+        "tags": null
+      },
+      {
+        "id": 52,
+        "question_type": "listening",
+        "question_text": "すみません、図書館はどこですか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 1
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L37-Q3.mp3",
+          "image_file_path": null,
+          "text_content": "１、 あそこです。\n２、 六時までです。\n３、 本を借ります。"
+        },
+        "tags": null
+      },
+      {
+        "id": 53,
+        "question_type": "listening",
+        "question_text": "明日、何時に学校に来ますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 2
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L37-Q4.mp3",
+          "image_file_path": null,
+          "text_content": "１、 バスで来ます。\n２、 九時半です。\n３、 六人です。"
+        },
+        "tags": null
+      },
+      {
+        "id": 54,
+        "question_type": "listening",
+        "question_text": "田中さん、その荷物を持ちましょうか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 3
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L37-Q5.mp3",
+          "image_file_path": null,
+          "text_content": "１、 どういたしまして。\n２、 持ちませんでした。\n３、 ありがとうございます。"
+        },
+        "tags": null
+      },
+      {
+        "id": 55,
+        "question_type": "listening",
+        "question_text": "ちょっと休みませんか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 3
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L37-Q6.mp3",
+          "image_file_path": null,
+          "text_content": "１、 日曜日です。\n２、 お元気ですか。\n３、 そうしましょう。"
+        },
+        "tags": null
+      },
+      {
+        "id": 56,
+        "question_type": "listening",
+        "question_text": "それは、何の本ですか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 1
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L37-Q7.mp3",
+          "image_file_path": null,
+          "text_content": "１、 料理の本です。\n２、 わたしの本です。\n３、 はい、そうです。"
+        },
+        "tags": null
+      },
+      {
+        "id": 57,
+        "question_type": "listening",
+        "question_text": "男の人と女の人が話しています。男の人はきのう、どこへ行きましたか。男の人です。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。そのあと、もんだいようしを　見みて　ください。読よむ　時間じかんが　あります。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "としょかん",
+          "alternative_2": "えき",
+          "alternative_3": "デパート",
+          "alternative_4": "レストラン",
+          "correct_alternative": 3
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L38-Q4.mp3",
+          "image_file_path": null,
+          "text_content": "Ａ 「山田さん、きのうどこかへ行きましたか。」\nＢ 「としょかんへ行きました。」\nＡ 「駅のそばのとしょかんですか。」\nＢ 「はい。」\nＡ 「ぼくはやまかわデパートへ行って、買い物をしました。」\nＢ 「へ、わたしもきのうのよる、やまかわデパートのレストランへ行きましたよ。」\nＡ 「そうですか。」\n男の人はきのう、どこへ行きましたか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 58,
+        "question_type": "listening",
+        "question_text": "男の人と女の人が話しています。女の人の電話番号はなんばんですか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。そのあと、もんだいようしを　見みて　ください。読よむ　時間じかんが　あります。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "５１２-７７３３",
+          "alternative_2": "５１２-７７３４",
+          "alternative_3": "５１２－７７４３",
+          "alternative_4": "５１２－７７４４",
+          "correct_alternative": 3
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L38-Q5.mp3",
+          "image_file_path": null,
+          "text_content": "Ａ 「あのう、山田さんの電話番号は、５１２－７７３４ですね？」\nＢ 「いいえ、７７３４じゃなくて、７７４３です。」\nＡ 「え、ちょっと待ってください。メモします。５１２の。」\nＢ 「７７４３です。」\nＡ 「はい。ありがとうございました。」\n女の人の電話番号はなんばんですか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 59,
+        "question_type": "listening",
+        "question_text": "女の学生と男の学生が話しています。男の学生は、だれと住んでいますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。そのあと、もんだいようしを　見みて　ください。読よむ　時間じかんが　あります。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "りょうしん",
+          "alternative_2": "あね",
+          "alternative_3": "いもうと",
+          "alternative_4": "おとうと",
+          "correct_alternative": 2
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L39-Q4.mp3",
+          "image_file_path": null,
+          "text_content": "Ａ 「山田さんは、お父さんとお母さんと、いっしょに住んでいますか。」\nＢ 「いいえ、りょうしんはとおくに住んでいます。｣\nＡ 「そうですか。」\nＢ 「いま、あねといっしょに住んでいます」\nＡ 「きょうだいは一人ですか。」\nＢ 「あ、おとうともいますよ。おとうとはりょうしんといっしょです。」\n男の学生は、だれと住んでいますか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 60,
+        "question_type": "listening",
+        "question_text": "学校で男の学生と女の学生が話しています。二人はどこで昼ごはんを食べますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。そのあと、もんだいようしを　見みて　ください。読よむ　時間じかんが　あります。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "しょくどう",
+          "alternative_2": "きっさてん",
+          "alternative_3": "パンや",
+          "alternative_4": "きょうしつ",
+          "correct_alternative": 4
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L39-Q5.mp3",
+          "image_file_path": null,
+          "text_content": "Ａ 「もう一時ですね。なにか食べませんか。」\nＢ 「そうですね。でも今日は土よう日だから、学校のしょくどうやきっさてんは休み\nですよ。」\nＡ 「じゃ、パン屋でパンを買って、きょうしつで食べましょうか。」\nＢ 「そうですね。」\n二人はどこで昼ごはんを食べますか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 61,
+        "question_type": "listening",
+        "question_text": "きょうしつで、先生が学生に話しています。学生は何で名前を書きますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。そのあと、もんだいようしを　見みて　ください。読よむ　時間じかんが　あります。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "くろい　ボールペン",
+          "alternative_2": "あかい　ボールペン",
+          "alternative_3": "くろい　えんぴつ",
+          "alternative_4": "あかい　えんぴつ",
+          "correct_alternative": 1
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L40-Q4.mp3",
+          "image_file_path": null,
+          "text_content": "はい、じゃあちょっと聞いてください。えー、らいげつのバスりょこうに行きたい人は、\nこのかみに、ボールペンで名前を書いてください。えんぴつじゃなくて、ボールペンで\nすよ。くろで書いてください。あかで書かないでくださいね。\n学生は何で名前を書きますか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 62,
+        "question_type": "listening",
+        "question_text": "女の学生と男の学生が話しています。二人は明日どこで会いますか。",
+        "statement": {
+          "statement_text": "まず　しつもんを　聞きいて　ください。そのあと、もんだいようしを　見みて　ください。読よむ　時間じかんが　あります。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "こうえん",
+          "alternative_2": "えき",
+          "alternative_3": "きっさてん",
+          "alternative_4": "レストラン",
+          "correct_alternative": 3
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L40-Q5.mp3",
+          "image_file_path": null,
+          "text_content": "Ａ 「あしたのよる、いっしょにサッカーを見に行きませんか。」\nＢ 「いいですね。どこで会いましょうか。」\nＡ 「五時に駅で会いませんか。」\nＢ 「駅は人が多いですよ。」\nＡ 「そうですね。じゃあ、駅の前のきっさてんはどうですか。」\nＢ 「はい、そうしましょう。あ、サッカーを見てから近くのレストランで晩ごはんを\n食べませんか。」\nＡ 「ええ。じゃ、明日五時に会いましょう。」\n二人は明日どこで会いますか。"
+        },
+        "tags": null
+      },
+      {
+        "id": 63,
+        "question_type": "listening",
+        "question_text": "レストランでお店の人を呼びます。なんと言いますか。",
+        "statement": {
+          "statement_text": "えを　見みながら　しつもんを　聞きいて　ください。\n→（やじるし）の　人ひとは　何なんと　言いいますか。１から３の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 3
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L41-Q1.mp3",
+          "image_file_path": "listening/JT4Y/L41-Q1.gif",
+          "text_content": "１、 いらっしゃいませ。\n２、 しつれいしました。\n３、 すみません。"
+        },
+        "tags": null
+      },
+      {
+        "id": 64,
+        "question_type": "listening",
+        "question_text": "ごはんを食べました。なんと言いますか。",
+        "statement": {
+          "statement_text": "えを　見みながら　しつもんを　聞きいて　ください。\n→（やじるし）の　人ひとは　何なんと　言いいますか。１から３の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 1
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L41-Q2.mp3",
+          "image_file_path": "listening/JT4Y/L41-Q2.gif",
+          "statement_text": "えを　見みながら　しつもんを　聞きいて　ください。\n→（やじるし）の　人ひとは　何なんと　言いいますか。１から３の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "tags": null
+      },
+      {
+        "id": 65,
+        "question_type": "listening",
+        "question_text": "電車の中です。女の人が来ました。なんと言いますか。",
+        "statement": {
+          "statement_text": "えを　見みながら　しつもんを　聞きいて　ください。\n→（やじるし）の　人ひとは　何なんと　言いいますか。１から３の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 3
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L41-Q3.mp3",
+          "image_file_path": "listening/JT4Y/L41-Q3.gif",
+          "text_content": "１、 どうもありがとう。\n２、 はじめまして。\n３、 ここ、どうぞ。"
+        },
+        "tags": null
+      },
+      {
+        "id": 66,
+        "question_type": "listening",
+        "question_text": "うちへ帰ります。ともだちになんと言いますか。",
+        "statement": {
+          "statement_text": "えを　見みながら　しつもんを　聞きいて　ください。\n→（やじるし）の　人ひとは　何なんと　言いいますか。１から３の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 2
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L41-Q4.mp3",
+          "image_file_path": "listening/JT4Y/L41-Q4.gif",
+          "text_content": "１、 いってきます。\n２、 じゃ、また。\n３、 ただいま。"
+        },
+        "tags": null
+      },
+      {
+        "id": 67,
+        "question_type": "listening",
+        "question_text": "ゆうびんきょくできってを買います。なんと言いますか。",
+        "statement": {
+          "statement_text": "えを　見みながら　しつもんを　聞きいて　ください。\n→（やじるし）の　人ひとは　何なんと　言いいますか。１から３の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 3
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L41-Q5.mp3",
+          "image_file_path": "listening/JT4Y/L41-Q5.gif",
+          "text_content": "１、 きってを買いませんか。\n２、 きってをどうぞ。\n３、 きってをください。"
+        },
+        "tags": null
+      },
+      {
+        "id": 68,
+        "question_type": "listening",
+        "question_text": "ともだちはえんぴつがありません。ともだちになんと言いますか。",
+        "statement": {
+          "statement_text": "えを　見みながら　しつもんを　聞きいて　ください。\n→（やじるし）の　人ひとは　何なんと　言いいますか。１から３の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+        },
+        "alternatives": {
+          "alternative_1": "1",
+          "alternative_2": "2",
+          "alternative_3": "3",
+          "alternative_4": "4",
+          "correct_alternative": 2
+        },
+        "media": {
+          "audio_file_path": "listening/JT4Y/L41-Q6.mp3",
+          "image_file_path": "listening/JT4Y/L41-Q6.gif",
+          "text_content": "１、 えんぴつ、借りましょうか。\n２、 えんぴつ、使いますか。\n３、 えんぴつ、かしてください。"
+        },
+        "tags": null
+      }
+    ]
+  }
+}

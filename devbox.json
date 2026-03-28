@@ -1,0 +1,42 @@
+{
+  "packages": [
+    "nodejs@22",
+    "pnpm",
+    "git",
+    "python3",
+    "pkg-config",
+    "gcc",
+    "gnumake",
+    "openjdk@17", 
+    "watchman",
+    "unzip",
+    "android-tools"
+  ],
+  "shell": {
+    "init_hook": [
+      ". $VENV_DIR/bin/activate"
+    ],
+    "scripts": {
+      "setup": "${DEVBOX_PROJECT_ROOT}/scripts/setupAll.sh",
+      "setupBackend": "${DEVBOX_PROJECT_ROOT}/scripts/setupBackend.sh",
+      "setupDatabase": "${DEVBOX_PROJECT_ROOT}/scripts/setupDB.sh \"$@\"",
+      "setupApp": "${DEVBOX_PROJECT_ROOT}/scripts/setupApp.sh",
+      "setupAndroid": "${DEVBOX_PROJECT_ROOT}/scripts/setupAndroid.sh",
+      "setupWeb": "${DEVBOX_PROJECT_ROOT}/scripts/setupWeb.sh",
+      "startBackend": "${DEVBOX_PROJECT_ROOT}/scripts/startBackend.sh",
+      "startWeb": "${DEVBOX_PROJECT_ROOT}/scripts/startWeb.sh",
+      "startDev": "${DEVBOX_PROJECT_ROOT}/scripts/startDev.sh",
+      "startAndroid": "${DEVBOX_PROJECT_ROOT}/scripts/runMobile.sh android debug",
+      "startIOS": "${DEVBOX_PROJECT_ROOT}/scripts/runMobile.sh ios debug",
+      "buildAndroid": "${DEVBOX_PROJECT_ROOT}/scripts/runMobile.sh android release",
+      "buildIOS": "${DEVBOX_PROJECT_ROOT}/scripts/runMobile.sh ios release",
+      "clean": "bash ${DEVBOX_PROJECT_ROOT}/scripts/clean.sh \"$@\""
+    }
+  },
+  "env_from": ".env",
+  "env": {
+    "NODE_ENV": "development",
+    "ANDROID_HOME": "$HOME/Android/Sdk",
+    "npm_config_legacy_peer_deps": "true"
+  }
+}

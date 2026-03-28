@@ -1,0 +1,4504 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_type": "grammar",
+      "question_text": "まいにちしんぶん（[blank]）読みます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "へ",
+        "alternative_2": "を",
+        "alternative_3": "に",
+        "alternative_4": "が",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 2,
+      "question_type": "grammar",
+      "question_text": "田中さんは（[blank]）来ていませんよ。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "もう",
+        "alternative_2": "だけ",
+        "alternative_3": "まだ",
+        "alternative_4": "まで",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 3,
+      "question_type": "grammar",
+      "question_text": "ナイフ（[blank]）パンをきりました。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "で",
+        "alternative_2": "を",
+        "alternative_3": "に",
+        "alternative_4": "が",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 4,
+      "question_type": "grammar",
+      "question_text": "家にかえってねたほう（[blank]）いいですよ。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "と",
+        "alternative_2": "に",
+        "alternative_3": "が",
+        "alternative_4": "は",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 5,
+      "question_type": "grammar",
+      "question_text": "お母さん、もうあそびに（[blank]）もいいですか？",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "行く",
+        "alternative_2": "行って",
+        "alternative_3": "行った",
+        "alternative_4": "行っている",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 6,
+      "question_type": "grammar",
+      "question_text": "すいようびには日本語のテスト（[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "はいます",
+        "alternative_2": "はあります",
+        "alternative_3": "がいます",
+        "alternative_4": "があります",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 7,
+      "question_type": "grammar",
+      "question_text": "あなたのかみは（[blank]）よ。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "長ってすぎます",
+        "alternative_2": "長くすぎます",
+        "alternative_3": "長いすぎます",
+        "alternative_4": "長すぎます",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 8,
+      "question_type": "grammar",
+      "question_text": "わたしはけいかんに（[blank]）です。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "なりたい",
+        "alternative_2": "したい",
+        "alternative_3": "いきたい",
+        "alternative_4": "いたい",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 9,
+      "question_type": "grammar",
+      "question_text": "わたしは、これから（[blank]）に行きます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "およぐ",
+        "alternative_2": "およいで",
+        "alternative_3": "およぎ",
+        "alternative_4": "およいだ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 10,
+      "question_type": "grammar",
+      "question_text": "あの人たちはどこに行っているん（[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "だろう",
+        "alternative_2": "つもりだ",
+        "alternative_3": "から",
+        "alternative_4": "けれども",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 11,
+      "question_type": "grammar",
+      "question_text": "この本は（[blank]）読みました。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "どう",
+        "alternative_2": "もう",
+        "alternative_3": "も",
+        "alternative_4": "まだ",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 12,
+      "question_type": "grammar",
+      "question_text": "山田さんはたいへんいい人ですよ。なにもわるいことはきいたことが（[blank]）わ。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "しません",
+        "alternative_2": "いません",
+        "alternative_3": "なりません",
+        "alternative_4": "ありません",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 13,
+      "question_type": "grammar",
+      "question_text": "ここにじゅうしょを書いて（[blank]）か？",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ください",
+        "alternative_2": "くださいます",
+        "alternative_3": "くださいません",
+        "alternative_4": "くださいましょうか",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 14,
+      "question_type": "grammar",
+      "question_text": "あなたはあそこへ行って（[blank]）いけませんよ。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "が",
+        "alternative_2": "は",
+        "alternative_3": "と",
+        "alternative_4": "に",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 15,
+      "question_type": "grammar",
+      "question_text": "どれ（[blank]）ここではたらいていましたか？",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "まで",
+        "alternative_2": "もう",
+        "alternative_3": "より",
+        "alternative_4": "くらい",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 16,
+      "question_type": "grammar",
+      "question_text": "わたしはおんがくをきく（[blank]）好きです。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "のが",
+        "alternative_2": "ので",
+        "alternative_3": "のに",
+        "alternative_4": "のは",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 17,
+      "question_type": "grammar",
+      "question_text": "わたしは一人でクリスマスをすごす（[blank]）です。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "たい",
+        "alternative_2": "つもり",
+        "alternative_3": "だろう",
+        "alternative_4": "ほう",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 18,
+      "question_type": "grammar",
+      "question_text": "（[blank]）ながら水を飲まないでください。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "あるく",
+        "alternative_2": "あるいて",
+        "alternative_3": "あるき",
+        "alternative_4": "あるかな",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 19,
+      "question_type": "grammar",
+      "question_text": "れいぞうこにビールが入っている（[blank]）、そこにすわって飲みましょう。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "から",
+        "alternative_2": "と",
+        "alternative_3": "なら",
+        "alternative_4": "たら",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 20,
+      "question_type": "grammar",
+      "question_text": "わたしのことをいつまでも（[blank]）ください。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "わすれない",
+        "alternative_2": "わすれないて",
+        "alternative_3": "わすれなくて",
+        "alternative_4": "わすれないで",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 21,
+      "question_type": "grammar",
+      "question_text": "まっすぐベッドに行きなさい。明日は（[blank]）なりますよ。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "いそがしいに",
+        "alternative_2": "いそがしく",
+        "alternative_3": "いそがしい",
+        "alternative_4": "いそがしくて",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 22,
+      "question_type": "grammar",
+      "question_text": "とうきょうにかえる（[blank]）、もういちどあなたに会いたいです。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "まえ",
+        "alternative_2": "まえで",
+        "alternative_3": "まえに",
+        "alternative_4": "まえには",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 23,
+      "question_type": "grammar",
+      "question_text": "もうすこし（[blank]）してくださいませんか。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "しずかに",
+        "alternative_2": "しずかだ",
+        "alternative_3": "しずか",
+        "alternative_4": "しずかで",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 24,
+      "question_type": "grammar",
+      "question_text": "わたしは、あなたに（[blank]）にここに来ました。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "会う",
+        "alternative_2": "会って",
+        "alternative_3": "会い",
+        "alternative_4": "会います",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 25,
+      "question_type": "grammar",
+      "question_text": "そんなにしんぱい（[blank]）な。彼はぜったい大丈夫だ。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "し",
+        "alternative_2": "する",
+        "alternative_3": "した",
+        "alternative_4": "している",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 26,
+      "question_type": "grammar",
+      "question_text": "わたしたちはもうあの家にすんで（[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "あります",
+        "alternative_2": "いました",
+        "alternative_3": "います",
+        "alternative_4": "いません",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 27,
+      "question_type": "grammar",
+      "question_text": "それ、母には（[blank]）ほうがいいですよ。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "言うな",
+        "alternative_2": "言わないで",
+        "alternative_3": "言わない",
+        "alternative_4": "言わなくて",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 28,
+      "question_type": "grammar",
+      "question_text": "こどもたちが先生のまわりに（[blank]）います。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "すわり",
+        "alternative_2": "すわって",
+        "alternative_3": "すわる",
+        "alternative_4": "すわった",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 29,
+      "question_type": "grammar",
+      "question_text": "兄はたにんにものを教える（[blank]）上手なんです。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "のは",
+        "alternative_2": "のが",
+        "alternative_3": "ので",
+        "alternative_4": "のに",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 30,
+      "question_type": "grammar",
+      "question_text": "かのじょのへやはあまりきれい（[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "いません",
+        "alternative_2": "じゃいません",
+        "alternative_3": "ありません",
+        "alternative_4": "じゃありません",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 31,
+      "question_type": "grammar",
+      "question_text": "わたしはここにいちど（[blank]）来たことがあります。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "だけ",
+        "alternative_2": "もう",
+        "alternative_3": "まだ",
+        "alternative_4": "まえ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 32,
+      "question_type": "grammar",
+      "question_text": "アキラ（[blank]）わたし（[blank]）あなたのともだちなんですよ。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "は/は",
+        "alternative_2": "や/や",
+        "alternative_3": "と/と",
+        "alternative_4": "も/も",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 33,
+      "question_type": "grammar",
+      "question_text": "母はとなりのおくさんと少し話を（[blank]）から家にかえっていった。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "し",
+        "alternative_2": "する",
+        "alternative_3": "して",
+        "alternative_4": "した",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 34,
+      "question_type": "grammar",
+      "question_text": "家にいるよりここ（[blank]）ほうがきけんですよ。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "を",
+        "alternative_2": "な",
+        "alternative_3": "に",
+        "alternative_4": "の",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 35,
+      "question_type": "grammar",
+      "question_text": "わたしがあなた（[blank]）ならんで立ってもいいですか？",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "と",
+        "alternative_2": "で",
+        "alternative_3": "を",
+        "alternative_4": "に",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 36,
+      "question_type": "grammar",
+      "question_text": "コーヒーでも飲みながら（[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "話します",
+        "alternative_2": "話しません",
+        "alternative_3": "話しましょう",
+        "alternative_4": "話しましよう",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 37,
+      "question_type": "grammar",
+      "question_text": "みなさん、なぜここにあつまったか、わかっている（[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "でした",
+        "alternative_2": "でしました",
+        "alternative_3": "でしょう",
+        "alternative_4": "でしましょう",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 38,
+      "question_type": "grammar",
+      "question_text": "わたしの学校にはたくさんの学生が（[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "いっています",
+        "alternative_2": "います",
+        "alternative_3": "あります",
+        "alternative_4": "あっています",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 39,
+      "question_type": "grammar",
+      "question_text": "このじしょはここ（[blank]）つかってください。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "に",
+        "alternative_2": "の",
+        "alternative_3": "で",
+        "alternative_4": "を",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 40,
+      "question_type": "grammar",
+      "question_text": "なにか（[blank]）ことがありますか？",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "言たい",
+        "alternative_2": "言いたい",
+        "alternative_3": "言うたい",
+        "alternative_4": "言ってたい",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 41,
+      "question_type": "grammar",
+      "question_text": "これ（[blank]）ちずです。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "に",
+        "alternative_2": "を",
+        "alternative_3": "は",
+        "alternative_4": "や",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 42,
+      "question_type": "grammar",
+      "question_text": "スーパー（[blank]）かいものをしました。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "か",
+        "alternative_2": "に",
+        "alternative_3": "で",
+        "alternative_4": "へ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 43,
+      "question_type": "grammar",
+      "question_text": "犬が２ひきいます。ねこ（[blank]）２ひきいます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "や",
+        "alternative_2": "も",
+        "alternative_3": "で",
+        "alternative_4": "に",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 44,
+      "question_type": "grammar",
+      "question_text": "らいげつおきなわへりょこう（[blank]）行きます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "と",
+        "alternative_2": "が",
+        "alternative_3": "を",
+        "alternative_4": "に",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 45,
+      "question_type": "grammar",
+      "question_text": "ぼくはまいにち中国語（[blank]）べんきょうします。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "と",
+        "alternative_2": "の",
+        "alternative_3": "や",
+        "alternative_4": "を",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 46,
+      "question_type": "grammar",
+      "question_text": "A: らいしゅうもひとりで来ますか？\nＢ： いいえ、らいしゅうはともだち（[blank]）来ます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "と",
+        "alternative_2": "は",
+        "alternative_3": "へ",
+        "alternative_4": "が",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 47,
+      "question_type": "grammar",
+      "question_text": "“どういたしまして”はえいご（[blank]）なんといいますか？",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "が",
+        "alternative_2": "を",
+        "alternative_3": "で",
+        "alternative_4": "に",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 48,
+      "question_type": "grammar",
+      "question_text": "ここにじゅうしょ（[blank]）せいねんがっぴをかいてください。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "で",
+        "alternative_2": "を",
+        "alternative_3": "と",
+        "alternative_4": "も",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 49,
+      "question_type": "grammar",
+      "question_text": "わたしはいつもうちからがっこう（[blank]）くるまで行きます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "しか",
+        "alternative_2": "まで",
+        "alternative_3": "ごろ",
+        "alternative_4": "で",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 50,
+      "question_type": "grammar",
+      "question_text": "このバスはゆうびんきょくのまえ（[blank]）とおります。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "で",
+        "alternative_2": "に",
+        "alternative_3": "へ",
+        "alternative_4": "を",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 51,
+      "question_type": "grammar",
+      "question_text": "どれ（[blank]）あなたのかぎですか？",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "は",
+        "alternative_2": "や",
+        "alternative_3": "を",
+        "alternative_4": "が",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 52,
+      "question_type": "grammar",
+      "question_text": "なつやすみはなんにち（[blank]）はじまりますか？",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "だけ",
+        "alternative_2": "では",
+        "alternative_3": "から",
+        "alternative_4": "まで",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 53,
+      "question_type": "grammar",
+      "question_text": "しんぶんをさがしましたが、どこ（[blank]）ありません。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "にも",
+        "alternative_2": "でも",
+        "alternative_3": "までも",
+        "alternative_4": "へも",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 54,
+      "question_type": "grammar",
+      "question_text": "パーティーはなんじにはじまる（[blank]）しっていますか？",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "か",
+        "alternative_2": "で",
+        "alternative_3": "を",
+        "alternative_4": "が",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 55,
+      "question_type": "grammar",
+      "question_text": "おかねは1000円（[blank]）あります。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ぐらい",
+        "alternative_2": "ごろ",
+        "alternative_3": "しか",
+        "alternative_4": "にも",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 56,
+      "question_type": "grammar",
+      "question_text": "かさはそこ（[blank]）おいてください。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "と",
+        "alternative_2": "が",
+        "alternative_3": "を",
+        "alternative_4": "に",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 57,
+      "question_type": "grammar",
+      "question_text": "わたしはあまり（[blank]）ありませんでした。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "げんきでは",
+        "alternative_2": "げんきには",
+        "alternative_3": "げんきな",
+        "alternative_4": "げんきだ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 58,
+      "question_type": "grammar",
+      "question_text": "わたしのへやは（[blank]）ないです。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ひろいく",
+        "alternative_2": "ひろいでは",
+        "alternative_3": "ひろく",
+        "alternative_4": "ひろい",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 59,
+      "question_type": "grammar",
+      "question_text": "あの子はうたを（[blank]）うたいます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "じょうず",
+        "alternative_2": "じょううな",
+        "alternative_3": "じょうずに",
+        "alternative_4": "じょうずで",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 60,
+      "question_type": "grammar",
+      "question_text": "字をもうすこし（[blank]）かきましょう。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "大きい",
+        "alternative_2": "大きく",
+        "alternative_3": "大きいに",
+        "alternative_4": "大きくに",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 61,
+      "question_type": "grammar",
+      "question_text": "わたしはもっと（[blank]）たいです。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "はなし",
+        "alternative_2": "はなす",
+        "alternative_3": "はなした",
+        "alternative_4": "はなします",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 62,
+      "question_type": "grammar",
+      "question_text": "ここで（[blank]）ください。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "あそばない",
+        "alternative_2": "あそばなく",
+        "alternative_3": "あそばなくて",
+        "alternative_4": "あそばないで",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 63,
+      "question_type": "grammar",
+      "question_text": "わたしはきのう（[blank]）まえに、てがみをかきました。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ねる",
+        "alternative_2": "ねた",
+        "alternative_3": "ねるの",
+        "alternative_4": "ねたの",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 64,
+      "question_type": "grammar",
+      "question_text": "きのう本を（[blank]）に行きました。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "かって",
+        "alternative_2": "かう",
+        "alternative_3": "かわ",
+        "alternative_4": "かい",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 65,
+      "question_type": "grammar",
+      "question_text": "わたしはおんがくを（[blank]）ながらべんきょうします。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "きく",
+        "alternative_2": "きき",
+        "alternative_3": "きいた",
+        "alternative_4": "きいて",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 66,
+      "question_type": "grammar",
+      "question_text": "あした山田さんが（[blank]）人はだれですか？",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "あって",
+        "alternative_2": "あいます",
+        "alternative_3": "あった",
+        "alternative_4": "あう",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 67,
+      "question_type": "grammar",
+      "question_text": "いますぐビールをのみますか？いいえ、おふろに（[blank]）からのみます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "はいる",
+        "alternative_2": "はいり",
+        "alternative_3": "はいります",
+        "alternative_4": "はいって",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 68,
+      "question_type": "grammar",
+      "question_text": "かべにポスターがはって（[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "います",
+        "alternative_2": "なります",
+        "alternative_3": "あります",
+        "alternative_4": "します",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 69,
+      "question_type": "grammar",
+      "question_text": "このえはわたしがきのうこうえんで（[blank]）えです。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "かく",
+        "alternative_2": "かかない",
+        "alternative_3": "かいた",
+        "alternative_4": "かいて",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 70,
+      "question_type": "grammar",
+      "question_text": "こどもはゆうべばんごはんを（[blank]）ねました。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "たべなくた",
+        "alternative_2": "たべないで",
+        "alternative_3": "たべない",
+        "alternative_4": "たべなく",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 71,
+      "question_type": "grammar",
+      "question_text": "しんぶんはあまり（[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "よみます",
+        "alternative_2": "よみません",
+        "alternative_3": "よんでください",
+        "alternative_4": "よみましょう",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 72,
+      "question_type": "grammar",
+      "question_text": "りょこうは（[blank]）でしたか？",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "どう",
+        "alternative_2": "いつ",
+        "alternative_3": "なぜ",
+        "alternative_4": "だれ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 73,
+      "question_type": "grammar",
+      "question_text": "A:（[blank]）しごとをやすみましたか？\nＢ： びょうきだったからです。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "どこの",
+        "alternative_2": "どなたが",
+        "alternative_3": "どうして",
+        "alternative_4": "どのぐらい",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 74,
+      "question_type": "grammar",
+      "question_text": "Ａ：それは（[blank]）の国のきってですか？\nＢ：日本のです。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "なに",
+        "alternative_2": "どれ",
+        "alternative_3": "いつ",
+        "alternative_4": "どこ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 75,
+      "question_type": "grammar",
+      "question_text": "Ａ：パーティーではどんな（[blank]）をのみましたか？\nＢ：ジュースやコーラをのみました。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ひと",
+        "alternative_2": "こと",
+        "alternative_3": "もの",
+        "alternative_4": "とき",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 76,
+      "question_type": "grammar",
+      "question_text": "びょうきできょういちにち、（[blank]）たべませんでした。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "なにに",
+        "alternative_2": "なにか",
+        "alternative_3": "なんで",
+        "alternative_4": "なにも",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 77,
+      "question_type": "grammar",
+      "question_text": "（[blank]）ください。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "りんごを３つを",
+        "alternative_2": "りんごが３つを",
+        "alternative_3": "りんごを３つ",
+        "alternative_4": "りんごが３つ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 78,
+      "question_type": "grammar",
+      "question_text": "Ａ：おにいさんはおげんきですか？\nＢ：（[blank]）",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "はい、おかげさまで。",
+        "alternative_2": "いいえ、ありがとう。",
+        "alternative_3": "あ、どういたしまして。",
+        "alternative_4": "ええ、すみません。",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 79,
+      "question_type": "grammar",
+      "question_text": "Ａ：さとうさんはもう来ましたか？\nＢ：（[blank]）",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "いいえ、来ませんでした。",
+        "alternative_2": "いいえ、まだです。",
+        "alternative_3": "はい、そうです。",
+        "alternative_4": "はい、もうです。",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 80,
+      "question_type": "grammar",
+      "question_text": "Ａ：えきからがっこうまではとおいですか？\nＢ：いいえ、（[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "あるいて3ぷんです",
+        "alternative_2": "3ぷんあるきます",
+        "alternative_3": "あるいて3ぷんかかります",
+        "alternative_4": "3分あるいています",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 81,
+      "question_type": "grammar",
+      "question_text": "パ－ティーはいつ（[blank]）いいですか。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "が",
+        "alternative_2": "に",
+        "alternative_3": "を",
+        "alternative_4": "と",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 82,
+      "question_type": "grammar",
+      "question_text": "目の中にゴミ（[blank]）入って、いたいです。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "を",
+        "alternative_2": "が",
+        "alternative_3": "に",
+        "alternative_4": "で",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 83,
+      "question_type": "grammar",
+      "question_text": "あの店は何（[blank]）いう名前ですか。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "が",
+        "alternative_2": "に",
+        "alternative_3": "の",
+        "alternative_4": "と",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 84,
+      "question_type": "grammar",
+      "question_text": "30分（[blank]）まちましたが、バスは来ませんでした。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ごろ",
+        "alternative_2": "など",
+        "alternative_3": "しか",
+        "alternative_4": "ぐらい",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 85,
+      "question_type": "grammar",
+      "question_text": "1日（[blank]）3かいくすりをのみます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "が",
+        "alternative_2": "に",
+        "alternative_3": "へ",
+        "alternative_4": "を",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 86,
+      "question_type": "grammar",
+      "question_text": "大学（[blank]）電車で30分かかります。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "を",
+        "alternative_2": "が",
+        "alternative_3": "では",
+        "alternative_4": "まで",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 87,
+      "question_type": "grammar",
+      "question_text": "このしんぶんは（[blank]）からもういりません。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "おとといの",
+        "alternative_2": "おとといのだ",
+        "alternative_3": "おとといので",
+        "alternative_4": "おとといだった",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 88,
+      "question_type": "grammar",
+      "question_text": "このことばを（[blank]）ください。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "おぼえて",
+        "alternative_2": "おぼりて",
+        "alternative_3": "おぼって",
+        "alternative_4": "おぼえって",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 89,
+      "question_type": "grammar",
+      "question_text": "公園の花はとても（[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "きれいだった",
+        "alternative_2": "きれかった",
+        "alternative_3": "きれくなかった",
+        "alternative_4": "きれくないだった",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 90,
+      "question_type": "grammar",
+      "question_text": "まいあさうちでせんたくを（[blank]）から、学校に行きます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "する",
+        "alternative_2": "して",
+        "alternative_3": "します",
+        "alternative_4": "した",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 91,
+      "question_type": "grammar",
+      "question_text": "パンを（[blank]）きります。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "うす",
+        "alternative_2": "うすい",
+        "alternative_3": "うすいで",
+        "alternative_4": "うすく",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 92,
+      "question_type": "grammar",
+      "question_text": "Ａ：もうこの本を読みましたか。\nＢ：いいえ、（[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "まだです",
+        "alternative_2": "まだ読みました",
+        "alternative_3": "もうです",
+        "alternative_4": "もう読みませんでした",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 93,
+      "question_type": "grammar",
+      "question_text": "ひるごはんの時間をもっと（[blank]）しませんか。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "おそく",
+        "alternative_2": "おそい",
+        "alternative_3": "おそいに",
+        "alternative_4": "おそくて",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 94,
+      "question_type": "grammar",
+      "question_text": "そのこうさてん（[blank]）左にまがってください。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "が",
+        "alternative_2": "を",
+        "alternative_3": "に",
+        "alternative_4": "と",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 95,
+      "question_type": "grammar",
+      "question_text": "パーティーで、だれ（[blank]）ギターをひきましたか。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "を",
+        "alternative_2": "も",
+        "alternative_3": "は",
+        "alternative_4": "が",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 96,
+      "question_type": "grammar",
+      "question_text": "わたしがきのう（[blank]）カメラはどこにありますか。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "買って",
+        "alternative_2": "買う",
+        "alternative_3": "買った",
+        "alternative_4": "買わない",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 97,
+      "question_type": "grammar",
+      "question_text": "あたらしいようふく（[blank]）ほしいです。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "に",
+        "alternative_2": "が",
+        "alternative_3": "と",
+        "alternative_4": "の",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 98,
+      "question_type": "grammar",
+      "question_text": "時間がありません。（[blank]）ください。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "はやくして",
+        "alternative_2": "はやくなって",
+        "alternative_3": "はやいにして",
+        "alternative_4": "はやいになって",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 99,
+      "question_type": "grammar",
+      "question_text": "駅までいっしょに（[blank]）ましょう。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "かえ",
+        "alternative_2": "かえり",
+        "alternative_3": "かえる",
+        "alternative_4": "かえって",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 100,
+      "question_type": "grammar",
+      "question_text": "このテストは、じしょを（[blank]）ください。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "つかうないで",
+        "alternative_2": "つかわないで",
+        "alternative_3": "つかいないで",
+        "alternative_4": "つかないで",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 101,
+      "question_type": "grammar",
+      "question_text": "これは何（[blank]）いう花ですか。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "に",
+        "alternative_2": "と",
+        "alternative_3": "が",
+        "alternative_4": "で",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 102,
+      "question_type": "grammar",
+      "question_text": "えきまでタクシーで１０００円（[blank]）です。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ぐらい",
+        "alternative_2": "など",
+        "alternative_3": "ごろ",
+        "alternative_4": "も",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 103,
+      "question_type": "grammar",
+      "question_text": "本田：はい、本田です。\n北山：あ、北山花子です。すみません、（[blank]）\n本田：はい。ちょっとまってくださいね。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ひろこさんをおねがいします",
+        "alternative_2": "ひろこさんをください",
+        "alternative_3": "ひろこさんと話しますか",
+        "alternative_4": "ひろこさんと話しませんか",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 104,
+      "question_type": "grammar",
+      "question_text": "日本（[blank]）ラーメンはおいしいです。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "に",
+        "alternative_2": "の",
+        "alternative_3": "を",
+        "alternative_4": "へ",
+        "correct_alternative": 2
+      },
+      "media": null, 
+      "tags": []
+    },
+    {
+      "id": 105,
+      "question_type": "grammar",
+      "question_text": "女１：さようなら。\n女２：さようなら。また（[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "おととい",
+        "alternative_2": "今日",
+        "alternative_3": "来週",
+        "alternative_4": "今月",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 106,
+      "question_type": "grammar",
+      "question_text": "「１」に何を入れますか。",
+      "statement": {
+        "statement_text": "「１」から「５」　に　何を　入れますか。文章の　意味を　考えて、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "日本で",
+        "alternative_2": "日本に",
+        "alternative_3": "日本は",
+        "alternative_4": "日本へ",
+        "correct_alternative": 1
+      },
+      "media": {
+        "audio_file_path": null,
+        "image_file_path": null,
+        "text_content": "きのうわたしはふじさんへ行きました。ふじさんは「１」いちばん高い山です。３，７７６メートルです。わたしはいちばん上まで行きました。人がたいへん「２」。てんきがよかったですから、とても「３」。「４」、すこしさむかったです。\n\n「５」、とてもたのしかったです。"
+      },
+      "tags": []
+    },
+    {
+      "id": 107,
+      "question_type": "grammar",
+      "question_text": "「２」に何を入れますか。",
+      "statement": {
+        "statement_text": "「１」から「５」　に　何を　入れますか。文章の　意味を　考えて、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "おおいでした",
+        "alternative_2": "おおかったです",
+        "alternative_3": "おおいです",
+        "alternative_4": "おおくないです",
+        "correct_alternative": 2
+      },
+      "media": {
+        "audio_file_path": null,
+        "image_file_path": null,
+        "text_content": "きのうわたしはふじさんへ行きました。ふじさんは「１」いちばん高い山です。３，７７６メートルです。わたしはいちばん上まで行きました。人がたいへん「２」。てんきがよかったですから、とても「３」。「４」、すこしさむかったです。\n\n「５」、とてもたのしかったです。"
+      },
+      "tags": []
+    },
+    {
+      "id": 108,
+      "question_type": "grammar",
+      "question_text": "「３」に何を入れますか。",
+      "statement": {
+        "statement_text": "「１」から「５」　に　何を　入れますか。文章の　意味を　考えて、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "きれいです",
+        "alternative_2": "きれかったです",
+        "alternative_3": "きれくでした",
+        "alternative_4": "きれいでした",
+        "correct_alternative": 4
+      },
+      "media": {
+        "audio_file_path": null,
+        "image_file_path": null,
+        "text_content": "きのうわたしはふじさんへ行きました。ふじさんは「１」いちばん高い山です。３，７７６メートルです。わたしはいちばん上まで行きました。人がたいへん「２」。てんきがよかったですから、とても「３」。「４」、すこしさむかったです。\n\n「５」、とてもたのしかったです。"
+      },
+      "tags": []
+    },
+    {
+      "id": 109,
+      "question_type": "grammar",
+      "question_text": "「４」に何を入れますか。",
+      "statement": {
+        "statement_text": "「１」から「５」　に　何を　入れますか。文章の　意味を　考えて、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "では",
+        "alternative_2": "じゃ",
+        "alternative_3": "それで",
+        "alternative_4": "でも",
+        "correct_alternative": 4
+      },
+      "media": {
+        "audio_file_path": null,
+        "image_file_path": null,
+        "text_content": "きのうわたしはふじさんへ行きました。ふじさんは「１」いちばん高い山です。３，７７６メートルです。わたしはいちばん上まで行きました。人がたいへん「２」。てんきがよかったですから、とても「３」。「４」、すこしさむかったです。\n\n「５」、とてもたのしかったです。"
+      },
+      "tags": []
+    },
+    {
+      "id": 110,
+      "question_type": "grammar",
+      "question_text": "「５」に何を入れますか。",
+      "statement": {
+        "statement_text": "「１」から「５」　に　何を　入れますか。文章の　意味を　考えて、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ちょっとつかれましたが",
+        "alternative_2": "ちょっとつまらかったですが",
+        "alternative_3": "ちょっとつかいましたが",
+        "alternative_4": "ちょっとつめたかったですが",
+        "correct_alternative": 1
+      },
+      "media": {
+        "audio_file_path": null,
+        "image_file_path": null,
+        "text_content": "きのうわたしはふじさんへ行きました。ふじさんは「１」いちばん高い山です。３，７７６メートルです。わたしはいちばん上まで行きました。人がたいへん「２」。てんきがよかったですから、とても「３」。「４」、すこしさむかったです。\n\n「５」、とてもたのしかったです。"
+      },
+      "tags": []
+    },
+    {
+      "id": 111,
+      "question_type": "grammar",
+      "question_text": "まいにちおふろに（[blank]）からねます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "入り",
+        "alternative_2": "入る",
+        "alternative_3": "入った",
+        "alternative_4": "入って",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 112,
+      "question_type": "grammar",
+      "question_text": "きのう友達に電話を（[blank]）が、いませんでした。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "します",
+        "alternative_2": "しました",
+        "alternative_3": "して",
+        "alternative_4": "する",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 113,
+      "question_type": "grammar",
+      "question_text": "土よう日はさんぽ（[blank]）ギターをれんしゅう（[blank]）します。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "したり/したり",
+        "alternative_2": "しったり/しったり",
+        "alternative_3": "して/して",
+        "alternative_4": "しいて/しいて",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 114,
+      "question_type": "grammar",
+      "question_text": "このみかんはぜんぶ（[blank]）いくらですか。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "を",
+        "alternative_2": "の",
+        "alternative_3": "で",
+        "alternative_4": "に",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 115,
+      "question_type": "grammar",
+      "question_text": "おさけを飲みます（[blank]）？",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "に",
+        "alternative_2": "と",
+        "alternative_3": "か",
+        "alternative_4": "は",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 116,
+      "question_type": "grammar",
+      "question_text": "きょうは（[blank]）ねます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "はやいに",
+        "alternative_2": "はやい",
+        "alternative_3": "はやくない",
+        "alternative_4": "はやく",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 117,
+      "question_type": "grammar",
+      "question_text": "本を（[blank]）前に、このかみに名前を書いてください。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "かりて",
+        "alternative_2": "かりる",
+        "alternative_3": "かりた",
+        "alternative_4": "かりない",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 118,
+      "question_type": "grammar",
+      "question_text": "わたしは音楽を（[blank]）ながらべんきょうをします。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "聞く",
+        "alternative_2": "聞か",
+        "alternative_3": "聞き",
+        "alternative_4": "聞いて",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 119,
+      "question_type": "grammar",
+      "question_text": "わたしはまいばんこどもが（[blank]）あとで本を読みます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ねる",
+        "alternative_2": "ねた",
+        "alternative_3": "ねて",
+        "alternative_4": "ねます",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 120,
+      "question_type": "grammar",
+      "question_text": "さいふはどこ（[blank]）ありませんでした。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "にも",
+        "alternative_2": "へも",
+        "alternative_3": "にか",
+        "alternative_4": "へか",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 121,
+      "question_type": "grammar",
+      "question_text": "きのうはあたたかかったですが、きょうは（[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "あたたかかったです",
+        "alternative_2": "あたたかいでした",
+        "alternative_3": "あたたかくないです",
+        "alternative_4": "あたたかくではありません",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 122,
+      "question_type": "grammar",
+      "question_text": "田中さん（[blank]）来る日は火よう日です。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "を",
+        "alternative_2": "へ",
+        "alternative_3": "で",
+        "alternative_4": "の",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 123,
+      "question_type": "grammar",
+      "question_text": "あした雨がふるかふらない（[blank]）わかりません。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "か",
+        "alternative_2": "が",
+        "alternative_3": "も",
+        "alternative_4": "は",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 124,
+      "question_type": "grammar",
+      "question_text": "どこ（[blank]）来ましたか。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "から",
+        "alternative_2": "だけ",
+        "alternative_3": "など",
+        "alternative_4": "しか",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 125,
+      "question_type": "grammar",
+      "question_text": "テニスをしました。それから、ピンポン（[blank]）しました。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "は",
+        "alternative_2": "が",
+        "alternative_3": "も",
+        "alternative_4": "と",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 126,
+      "question_type": "grammar",
+      "question_text": "わたしのケーキを（[blank]）ください。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "食べなくて",
+        "alternative_2": "食べないで",
+        "alternative_3": "食べません",
+        "alternative_4": "食べない",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 127,
+      "question_type": "grammar",
+      "question_text": "外国にりょこう（[blank]）行きます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "が",
+        "alternative_2": "を",
+        "alternative_3": "の",
+        "alternative_4": "に",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 128,
+      "question_type": "grammar",
+      "question_text": "テストが（[blank]）あとでパ－ティ－をします。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "おわった",
+        "alternative_2": "おわって",
+        "alternative_3": "おわる",
+        "alternative_4": "おわります",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 129,
+      "question_type": "grammar",
+      "question_text": "その大きいにもつはわたし（[blank]）です。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "が",
+        "alternative_2": "の",
+        "alternative_3": "や",
+        "alternative_4": "を",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 130,
+      "question_type": "grammar",
+      "question_text": "コーヒーを（[blank]）いかがですか。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "いっぱいが",
+        "alternative_2": "いっぱい",
+        "alternative_3": "いっぱいか",
+        "alternative_4": "いっぱいを",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 131,
+      "question_type": "grammar",
+      "question_text": "おとうとはいしゃ（[blank]）なりました。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "を",
+        "alternative_2": "に",
+        "alternative_3": "で",
+        "alternative_4": "の",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 132,
+      "question_type": "grammar",
+      "question_text": "雨がふっている（[blank]）、きょうは出かけません。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "から",
+        "alternative_2": "など",
+        "alternative_3": "では",
+        "alternative_4": "まで",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 133,
+      "question_type": "grammar",
+      "question_text": "きょうは、午後ゆうびんきょくへ行きますが、ぎんこう（[blank]）行きません。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "へは",
+        "alternative_2": "へも",
+        "alternative_3": "へと",
+        "alternative_4": "へに",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 134,
+      "question_type": "grammar",
+      "question_text": "からだが（[blank]）なりました。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "じょうぶな",
+        "alternative_2": "じょうぶに",
+        "alternative_3": "じょうぶく",
+        "alternative_4": "じょうぶで",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 135,
+      "question_type": "grammar",
+      "question_text": "いもうとは17さい（[blank]）、学生です。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "に",
+        "alternative_2": "と",
+        "alternative_3": "で",
+        "alternative_4": "な",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 136,
+      "question_type": "grammar",
+      "question_text": "きょうのテストは（[blank]）なかったです。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "むずかし",
+        "alternative_2": "むずかしい",
+        "alternative_3": "むずかしくて",
+        "alternative_4": "むずかしく",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 137,
+      "question_type": "grammar",
+      "question_text": "みんながたくさん飲みましたから、（[blank]）おさけはありません。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "もう",
+        "alternative_2": "まだ",
+        "alternative_3": "よく",
+        "alternative_4": "とても",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 138,
+      "question_type": "grammar",
+      "question_text": "ドアが（[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "しめます",
+        "alternative_2": "しめています",
+        "alternative_3": "しまっています",
+        "alternative_4": "しまってあります",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 139,
+      "question_type": "grammar",
+      "question_text": "きょうはとてもあついです（[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "や",
+        "alternative_2": "は",
+        "alternative_3": "と",
+        "alternative_4": "ね",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 140,
+      "question_type": "grammar",
+      "question_text": "A: そのへやに入らないでください。\nＢ： （[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "すみませんが",
+        "alternative_2": "わかりました",
+        "alternative_3": "ごめんください",
+        "alternative_4": "しつれいします",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 141,
+      "question_type": "grammar",
+      "question_text": "きょねんのふゆはゆきが１かい（[blank]）ふりませんでした。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "は",
+        "alternative_2": "に",
+        "alternative_3": "しか",
+        "alternative_4": "だけ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 142,
+      "question_type": "grammar",
+      "question_text": "ぎんこう（[blank]）デパ－ト（[blank]）行きませんでした。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "へも/へも",
+        "alternative_2": "もへ/もへ",
+        "alternative_3": "へは/へは",
+        "alternative_4": "はへ/はへ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 143,
+      "question_type": "grammar",
+      "question_text": "まいあさ会社に（[blank]）まえにスポーツをします。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "行く",
+        "alternative_2": "行きます",
+        "alternative_3": "行った",
+        "alternative_4": "行って",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 144,
+      "question_type": "grammar",
+      "question_text": "りょうりはじぶん（[blank]）つくりますか。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "へ",
+        "alternative_2": "か",
+        "alternative_3": "で",
+        "alternative_4": "を",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 145,
+      "question_type": "grammar",
+      "question_text": "すみません、ちょっと（[blank]）ください。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "まち",
+        "alternative_2": "まって",
+        "alternative_3": "まった",
+        "alternative_4": "またない",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 146,
+      "question_type": "grammar",
+      "question_text": "びょうきに（[blank]）時は、びょういんへ行きます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ならない",
+        "alternative_2": "なるの",
+        "alternative_3": "なって",
+        "alternative_4": "なった",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 147,
+      "question_type": "grammar",
+      "question_text": "へやにはだれ（[blank]）いません。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "が",
+        "alternative_2": "か",
+        "alternative_3": "も",
+        "alternative_4": "は",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 148,
+      "question_type": "grammar",
+      "question_text": "わたしはなつにうみで（[blank]）たいです。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "およぐ",
+        "alternative_2": "およい",
+        "alternative_3": "およが",
+        "alternative_4": "およぎ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 149,
+      "question_type": "grammar",
+      "question_text": "山田さんはテニスはしますが、ゴルフ（[blank]）しません。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "は",
+        "alternative_2": "と",
+        "alternative_3": "が",
+        "alternative_4": "も",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 150,
+      "question_type": "grammar",
+      "question_text": "あしたのパーディーはたぶん（[blank]）でしょう。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "にぎやかに",
+        "alternative_2": "にぎやかだ",
+        "alternative_3": "にぎやかな",
+        "alternative_4": "にぎやか",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 151,
+      "question_type": "grammar",
+      "question_text": "月よう日（[blank]）火よう日にテストがあります。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "で",
+        "alternative_2": "に",
+        "alternative_3": "を",
+        "alternative_4": "か",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 152,
+      "question_type": "grammar",
+      "question_text": "これは先週友だちのいえで（[blank]）しゃしんです。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "とる",
+        "alternative_2": "とるの",
+        "alternative_3": "とった",
+        "alternative_4": "とります",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 153,
+      "question_type": "grammar",
+      "question_text": "くだものが（[blank]）です。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "食べて",
+        "alternative_2": "食べる",
+        "alternative_3": "食べない",
+        "alternative_4": "食べたい",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 154,
+      "question_type": "grammar",
+      "question_text": "えき（[blank]）むこうにびょういんがあります。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "の",
+        "alternative_2": "に",
+        "alternative_3": "で",
+        "alternative_4": "が",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 155,
+      "question_type": "grammar",
+      "question_text": "本を（[blank]）とき、じしょをつかいます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "読む",
+        "alternative_2": "読み",
+        "alternative_3": "読んで",
+        "alternative_4": "読んだ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 156,
+      "question_type": "grammar",
+      "question_text": "魚がたくさん（[blank]）います。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "およぎて",
+        "alternative_2": "およぐて",
+        "alternative_3": "およいで",
+        "alternative_4": "およんで",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 157,
+      "question_type": "grammar",
+      "question_text": "A: すみませんが、そのしおをとってください。\nＢ： （[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "いいえ、どうも",
+        "alternative_2": "はい、ください",
+        "alternative_3": "はい、どうぞ",
+        "alternative_4": "いいえ、とります",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 158,
+      "question_type": "grammar",
+      "question_text": "いもうとが（[blank]）とき、父は外国にいました。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "生まれ",
+        "alternative_2": "生まれた",
+        "alternative_3": "生まれて",
+        "alternative_4": "生まれるの",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 159,
+      "question_type": "grammar",
+      "question_text": "いっしょに（[blank]）ましょう。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "うたい",
+        "alternative_2": "うたう",
+        "alternative_3": "うたって",
+        "alternative_4": "うたいて",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 160,
+      "question_type": "grammar",
+      "question_text": "としょかんへ本をかえし（[blank]）行きます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "へ",
+        "alternative_2": "で",
+        "alternative_3": "に",
+        "alternative_4": "を",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 161,
+      "question_type": "grammar",
+      "question_text": "きのうは、6時間（[blank]）ねました。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "まで",
+        "alternative_2": "ごろ",
+        "alternative_3": "じゅう",
+        "alternative_4": "ぐらい",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 162,
+      "question_type": "grammar",
+      "question_text": "お金が（[blank]）、こまっています。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "なくて",
+        "alternative_2": "ないで",
+        "alternative_3": "ないて",
+        "alternative_4": "なって",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 163,
+      "question_type": "grammar",
+      "question_text": "日よう日にそうじ（[blank]）せんたくをします。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "を",
+        "alternative_2": "や",
+        "alternative_3": "も",
+        "alternative_4": "で",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 164,
+      "question_type": "grammar",
+      "question_text": "あにの新しいカメラは（[blank]）かるい。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "小さいくて",
+        "alternative_2": "小さいで",
+        "alternative_3": "小さいと",
+        "alternative_4": "小さくて",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 165,
+      "question_type": "grammar",
+      "question_text": "来週（[blank]）人は だれですか。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "休み",
+        "alternative_2": "休む",
+        "alternative_3": "休んで",
+        "alternative_4": "休んだ",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 166,
+      "question_type": "grammar",
+      "question_text": "わたしはかぞく（[blank]）てがみをもらいました。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "を",
+        "alternative_2": "が",
+        "alternative_3": "や",
+        "alternative_4": "から",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 167,
+      "question_type": "grammar",
+      "question_text": "おかしはあまりすき（[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ではありません",
+        "alternative_2": "です",
+        "alternative_3": "でした",
+        "alternative_4": "くありません",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 168,
+      "question_type": "grammar",
+      "question_text": "じしょを（[blank]）からかんじを書きます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "見る",
+        "alternative_2": "見て",
+        "alternative_3": "見に",
+        "alternative_4": "見ない",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 169,
+      "question_type": "grammar",
+      "question_text": "まだゆうびんきょくは（[blank]）。早く行きましょう。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "あきません",
+        "alternative_2": "あきました",
+        "alternative_3": "あいています",
+        "alternative_4": "あきます",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 170,
+      "question_type": "grammar",
+      "question_text": "このりょうりはあまり（[blank]）よ。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "からくないです",
+        "alternative_2": "からいです",
+        "alternative_3": "からかったです",
+        "alternative_4": "からいではあまりませんでした",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 171,
+      "question_type": "grammar",
+      "question_text": "母は１か月（[blank]）１かいびょういんへ行きます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "も",
+        "alternative_2": "と",
+        "alternative_3": "に",
+        "alternative_4": "へ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 172,
+      "question_type": "grammar",
+      "question_text": "しゅくだいを（[blank]）あとで、てがみを書きます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "した",
+        "alternative_2": "する",
+        "alternative_3": "して",
+        "alternative_4": "しない",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 173,
+      "question_type": "grammar",
+      "question_text": "きのうは雨が（[blank]）かぜが（[blank]）しました。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ふって/ふいて",
+        "alternative_2": "ふりて/ふきて",
+        "alternative_3": "ふりたり/ふきたり",
+        "alternative_4": "ふったり/ふいたり",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 174,
+      "question_type": "grammar",
+      "question_text": "このりょうりはぎゅうにく（[blank]）ぶたにくをつかいます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "が",
+        "alternative_2": "か",
+        "alternative_3": "も",
+        "alternative_4": "で",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 175,
+      "question_type": "grammar",
+      "question_text": "きょねんのふゆは（[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "あたたかいです",
+        "alternative_2": "あたたかいだった",
+        "alternative_3": "あたたかかったです",
+        "alternative_4": "あたたかくでした",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 176,
+      "question_type": "grammar",
+      "question_text": "あしたはかぜが（[blank]）でしょう。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "つよかった",
+        "alternative_2": "つよくて",
+        "alternative_3": "つよい",
+        "alternative_4": "つよく",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 177,
+      "question_type": "grammar",
+      "question_text": "あしたは（[blank]）から、あそびに行きませんか。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ひま",
+        "alternative_2": "ひまな",
+        "alternative_3": "ひまの",
+        "alternative_4": "ひまだ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 178,
+      "question_type": "grammar",
+      "question_text": "ここはとてもしずか（[blank]）いいところです。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "だ",
+        "alternative_2": "で",
+        "alternative_3": "に",
+        "alternative_4": "と",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 179,
+      "question_type": "grammar",
+      "question_text": "どんないろ（[blank]）すきですか。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "は",
+        "alternative_2": "が",
+        "alternative_3": "で",
+        "alternative_4": "に",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 180,
+      "question_type": "grammar",
+      "question_text": "会社へ（[blank]）まえに、ぎんこうへ行きました。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "行きます",
+        "alternative_2": "行った",
+        "alternative_3": "行って",
+        "alternative_4": "行く",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 181,
+      "question_type": "grammar",
+      "question_text": "きょうはあまり（[blank]）ありません。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "いそがしく",
+        "alternative_2": "いそがしいでは",
+        "alternative_3": "いそがしいく",
+        "alternative_4": "いそがしいは",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 182,
+      "question_type": "grammar",
+      "question_text": "山川さんと（[blank]）ながら、ごはんを食べました。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "話す",
+        "alternative_2": "話し",
+        "alternative_3": "話して",
+        "alternative_4": "話した",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 183,
+      "question_type": "grammar",
+      "question_text": "へやをもっと（[blank]）してください。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "あかるい",
+        "alternative_2": "あかるく",
+        "alternative_3": "あかるくて",
+        "alternative_4": "あかるいに",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 184,
+      "question_type": "grammar",
+      "question_text": "先生のへやは（[blank]）です。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "その",
+        "alternative_2": "どんな",
+        "alternative_3": "こちら",
+        "alternative_4": "どうして",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 185,
+      "question_type": "grammar",
+      "question_text": "このたまごは６こ（[blank]）３００円です。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "と",
+        "alternative_2": "に",
+        "alternative_3": "で",
+        "alternative_4": "を",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 186,
+      "question_type": "grammar",
+      "question_text": "休みの日はえいがを（[blank]）たり買いものをしたりします。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "みる",
+        "alternative_2": "みた",
+        "alternative_3": "みっ",
+        "alternative_4": "み",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 187,
+      "question_type": "grammar",
+      "question_text": "えいがは何時（[blank]）おわりますか。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "など",
+        "alternative_2": "ごろ",
+        "alternative_3": "じゅう",
+        "alternative_4": "か",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 188,
+      "question_type": "grammar",
+      "question_text": "山へはぼうしを（[blank]）行きましょう。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "かぶると",
+        "alternative_2": "かぶりて",
+        "alternative_3": "かぶりに",
+        "alternative_4": "かぶって",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 189,
+      "question_type": "grammar",
+      "question_text": "パーティーはまだ（[blank]） 。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "はじまります",
+        "alternative_2": "はじまりません",
+        "alternative_3": "はじまりました",
+        "alternative_4": "はじまっています",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 190,
+      "question_type": "grammar",
+      "question_text": "Ａ：先週のにちようびにどこかへ行きましたか。\nＢ：いいえ、雨がふったから、（[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "どこかへ行きました",
+        "alternative_2": "どこへも行きました",
+        "alternative_3": "どこへへ行きませんでした",
+        "alternative_4": "どこへも行きませんでした",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 191,
+      "question_type": "grammar",
+      "question_text": "りんご（[blank]）みかんを買いました。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "が",
+        "alternative_2": "や",
+        "alternative_3": "は",
+        "alternative_4": "へ",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 192,
+      "question_type": "grammar",
+      "question_text": "あなたはいま、お金を（[blank]）か。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "もってです",
+        "alternative_2": "もってあります",
+        "alternative_3": "もっています",
+        "alternative_4": "もってください",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 193,
+      "question_type": "grammar",
+      "question_text": "はる休みは（[blank]）ありますか。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "どれ",
+        "alternative_2": "いくら",
+        "alternative_3": "どちら",
+        "alternative_4": "どのぐらい",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 194,
+      "question_type": "grammar",
+      "question_text": "ここにかばんを（[blank]）ないでください。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "おか",
+        "alternative_2": "おき",
+        "alternative_3": "おく",
+        "alternative_4": "おけ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 195,
+      "question_type": "grammar",
+      "question_text": "ゆきが、たくさんふったから、一人しか（[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "来ませんでした",
+        "alternative_2": "来ました",
+        "alternative_3": "来てください",
+        "alternative_4": "来るでしょう",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 196,
+      "question_type": "grammar",
+      "question_text": "きのうは（[blank]）早くかえりましたか。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "いかが",
+        "alternative_2": "いくつ",
+        "alternative_3": "どうして",
+        "alternative_4": "どちら",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 197,
+      "question_type": "grammar",
+      "question_text": "きのうのよるは６時に（[blank]）、ごはんをつくりました。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "かえる",
+        "alternative_2": "かえった",
+        "alternative_3": "かえって",
+        "alternative_4": "かえったり",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 198,
+      "question_type": "grammar",
+      "question_text": "Ａ：マリーさんのかさはどれですか。\nＢ：あれです。（[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "あれはかさです",
+        "alternative_2": "あのあおいのです",
+        "alternative_3": "あれはマリーさんです",
+        "alternative_4": "あのかさはあおいです",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 199,
+      "question_type": "grammar",
+      "question_text": "もしもし、山本です（[blank]）、木下さんはいますか。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "が",
+        "alternative_2": "と",
+        "alternative_3": "て",
+        "alternative_4": "で",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 200,
+      "question_type": "grammar",
+      "question_text": "（[blank]）うんどうをしていますか。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "どれ",
+        "alternative_2": "だれ",
+        "alternative_3": "いかが",
+        "alternative_4": "何か",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 201,
+      "question_type": "grammar",
+      "question_text": "ヤンさんはこのつくえを [underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]　よ。",
+      "statement": {
+        "statement_text": "[star_underline_blank]　に　入る　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "買った",
+        "alternative_2": "１０００円",
+        "alternative_3": "で",
+        "alternative_4": "んです",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 202,
+      "question_type": "grammar",
+      "question_text": "ここに [underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]　ください。",
+      "statement": {
+        "statement_text": "[star_underline_blank]　に　入る　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "書いて",
+        "alternative_2": "ボールペンで",
+        "alternative_3": "あかい",
+        "alternative_4": "名前を",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 203,
+      "question_type": "grammar",
+      "question_text": "わたしは [underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]　 。",
+      "statement": {
+        "statement_text": "[star_underline_blank]　に　入る　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "魚が",
+        "alternative_2": "魚を",
+        "alternative_3": "たべません",
+        "alternative_4": "きらいですから",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 204,
+      "question_type": "grammar",
+      "question_text": "日本の [underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]　です。",
+      "statement": {
+        "statement_text": "[star_underline_blank]　に　入る　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ちょっと",
+        "alternative_2": "高い",
+        "alternative_3": "おいしいですが",
+        "alternative_4": "たべものは",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 205,
+      "question_type": "grammar",
+      "question_text": "女１：すみません、えき [underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]　。みちをおしえてくださいませんか。\n女２　えきですか。えきは…",
+      "statement": {
+        "statement_text": "[star_underline_blank]　に　入る　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "が",
+        "alternative_2": "んです",
+        "alternative_3": "行きたい",
+        "alternative_4": "へ",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 206,
+      "question_type": "grammar",
+      "question_text": "「１」に何を入れますか。",
+      "statement": {
+        "statement_text": "「１」から「５」　に　何を　入れますか。文章の　意味を　考えて、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "そうさしています",
+        "alternative_2": "つくっています",
+        "alternative_3": "はこんでいます",
+        "alternative_4": "うんてんしています",
+        "correct_alternative": 4
+      },
+      "media": {
+        "audio_file_path": null,
+        "image_file_path": null,
+        "text_content": "三人の人に「どんな仕事をしていますか」というしつもんをしました。\n\nＡさん：　タクシーのうんてんしゅです。一日中車を「１」。たいていひるに仕事をしていますが、「２」よるもします。\n\nＢさん：　パン屋です。「３」パンをつくってうっています。じぶん「４」あたらしいパンをかんがえてつくります。\n\nＣさん：　コンピューターの会社ではたらいています。ずっとパソコンをつかっています「５」、目がつかれます。"
+      },
+      "tags": []
+    },
+    {
+      "id": 207,
+      "question_type": "grammar",
+      "question_text": "「２」に何を入れますか。",
+      "statement": {
+        "statement_text": "「１」から「５」　に　何を　入れますか。文章の　意味を　考えて、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ときどき",
+        "alternative_2": "いつも",
+        "alternative_3": "だいたい",
+        "alternative_4": "はじめて",
+        "correct_alternative": 1
+      },
+      "media": {
+        "audio_file_path": null,
+        "image_file_path": null,
+        "text_content": "三人の人に「どんな仕事をしていますか」というしつもんをしました。\n\nＡさん：　タクシーのうんてんしゅです。一日中車を「１」。たいていひるに仕事をしていますが、「２」よるもします。\n\nＢさん：　パン屋です。「３」パンをつくってうっています。じぶん「４」あたらしいパンをかんがえてつくります。\n\nＣさん：　コンピューターの会社ではたらいています。ずっとパソコンをつかっています「５」、目がつかれます。"
+      },
+      "tags": []
+    },
+    {
+      "id": 208,
+      "question_type": "grammar",
+      "question_text": "「３」に何を入れますか。",
+      "statement": {
+        "statement_text": "「１」から「５」　に　何を　入れますか。文章の　意味を　考えて、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "いろいろに",
+        "alternative_2": "いろいろな",
+        "alternative_3": "いろいろで",
+        "alternative_4": "いろいろく",
+        "correct_alternative": 2
+      },
+      "media": {
+        "audio_file_path": null,
+        "image_file_path": null,
+        "text_content": "三人の人に「どんな仕事をしていますか」というしつもんをしました。\n\nＡさん：　タクシーのうんてんしゅです。一日中車を「１」。たいていひるに仕事をしていますが、「２」よるもします。\n\nＢさん：　パン屋です。「３」パンをつくってうっています。じぶん「４」あたらしいパンをかんがえてつくります。\n\nＣさん：　コンピューターの会社ではたらいています。ずっとパソコンをつかっています「５」、目がつかれます。"
+      },
+      "tags": []
+    },
+    {
+      "id": 209,
+      "question_type": "grammar",
+      "question_text": "「４」に何を入れますか。",
+      "statement": {
+        "statement_text": "「１」から「５」　に　何を　入れますか。文章の　意味を　考えて、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "で",
+        "alternative_2": "は",
+        "alternative_3": "も",
+        "alternative_4": "でも",
+        "correct_alternative": 1
+      },
+      "media": {
+        "audio_file_path": null,
+        "image_file_path": null,
+        "text_content": "三人の人に「どんな仕事をしていますか」というしつもんをしました。\n\nＡさん：　タクシーのうんてんしゅです。一日中車を「１」。たいていひるに仕事をしていますが、「２」よるもします。\n\nＢさん：　パン屋です。「３」パンをつくってうっています。じぶん「４」あたらしいパンをかんがえてつくります。\n\nＣさん：　コンピューターの会社ではたらいています。ずっとパソコンをつかっています「５」、目がつかれます。"
+      },
+      "tags": []
+    },
+    {
+      "id": 210,
+      "question_type": "grammar",
+      "question_text": "「５」に何を入れますか。",
+      "statement": {
+        "statement_text": "「１」から「５」　に　何を　入れますか。文章の　意味を　考えて、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "が",
+        "alternative_2": "けど",
+        "alternative_3": "から",
+        "alternative_4": "し",
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": null,
+        "image_file_path": null,
+        "text_content": "三人の人に「どんな仕事をしていますか」というしつもんをしました。\n\nＡさん：　タクシーのうんてんしゅです。一日中車を「１」。たいていひるに仕事をしていますが、「２」よるもします。\n\nＢさん：　パン屋です。「３」パンをつくってうっています。じぶん「４」あたらしいパンをかんがえてつくります。\n\nＣさん：　コンピューターの会社ではたらいています。ずっとパソコンをつかっています「５」、目がつかれます。"
+      },
+      "tags": []
+    },
+    {
+      "id": 211,
+      "question_type": "grammar",
+      "question_text": "明日としょかんへ本を（[blank]）に行きます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "かりる",
+        "alternative_2": "かりて",
+        "alternative_3": "かり",
+        "alternative_4": "かりた",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 212,
+      "question_type": "grammar",
+      "question_text": "子どもはかみ（[blank]）ふねをつくっています。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "で",
+        "alternative_2": "か",
+        "alternative_3": "に",
+        "alternative_4": "は",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 213,
+      "question_type": "grammar",
+      "question_text": "あなたは今じしょを（[blank]）か。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "もってあります",
+        "alternative_2": "もっています",
+        "alternative_3": "もってです",
+        "alternative_4": "もってします",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 214,
+      "question_type": "grammar",
+      "question_text": "きのうはあまり（[blank]）です。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "さむかった",
+        "alternative_2": "さむい",
+        "alternative_3": "さむくなかった",
+        "alternative_4": "さむくない",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 215,
+      "question_type": "grammar",
+      "question_text": "長江はちゅうごく（[blank]）ながれています。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "を",
+        "alternative_2": "で",
+        "alternative_3": "に",
+        "alternative_4": "へ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 216,
+      "question_type": "grammar",
+      "question_text": "まいあさ８時ごろいえを（[blank]）かいしゃへ行きます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "でた",
+        "alternative_2": "でる",
+        "alternative_3": "でたり",
+        "alternative_4": "でて",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 217,
+      "question_type": "grammar",
+      "question_text": "日本りょうりはあまりすき（[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "です",
+        "alternative_2": "でした",
+        "alternative_3": "ではありません",
+        "alternative_4": "くありません",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 218,
+      "question_type": "grammar",
+      "question_text": "きのう母（[blank]）フラーをあげました。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "から",
+        "alternative_2": "を",
+        "alternative_3": "は",
+        "alternative_4": "に",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 219,
+      "question_type": "grammar",
+      "question_text": "日本語のべんきょうは何時（[blank]）ですか。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "だけ",
+        "alternative_2": "から",
+        "alternative_3": "には",
+        "alternative_4": "では",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 220,
+      "question_type": "grammar",
+      "question_text": "そのちいさいとけい（[blank]）ください。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "が",
+        "alternative_2": "を",
+        "alternative_3": "に",
+        "alternative_4": "へ",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 221,
+      "question_type": "grammar",
+      "question_text": "わたしの旅行中、 [underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]　を忘れないです。",
+      "statement": {
+        "statement_text": "[star_underline_blank]　に　入る　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "の",
+        "alternative_2": "花に",
+        "alternative_3": "やる",
+        "alternative_4": "水を",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 222,
+      "question_type": "grammar",
+      "question_text": "いまは [underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]　です。",
+      "statement": {
+        "statement_text": "[star_underline_blank]　に　入る　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "おなかが",
+        "alternative_2": "いたいですから",
+        "alternative_3": "たべたくない",
+        "alternative_4": "何も",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 223,
+      "question_type": "grammar",
+      "question_text": " [underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]　かかります。",
+      "statement": {
+        "statement_text": "[star_underline_blank]　に　入る　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "かいしゃまで",
+        "alternative_2": "バスで",
+        "alternative_3": "うちから",
+        "alternative_4": "３０分ぐらい",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 224,
+      "question_type": "grammar",
+      "question_text": "ここは [underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]　できます。",
+      "statement": {
+        "statement_text": "[star_underline_blank]　に　入る　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "入る",
+        "alternative_2": "でも",
+        "alternative_3": "だれ",
+        "alternative_4": "ことが",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 225,
+      "question_type": "grammar",
+      "question_text": "男１：これ、使ってもいいですか。\n男２：どうぞ。でもあまりきれいじゃないですか、 [underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]　。",
+      "statement": {
+        "statement_text": "[star_underline_blank]　に　入る　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "使って",
+        "alternative_2": "洗って",
+        "alternative_3": "ください",
+        "alternative_4": "から",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 226,
+      "question_type": "grammar",
+      "question_text": "「１」に何を入れますか。",
+      "statement": {
+        "statement_text": "「１」から「５」　に　何を　入れますか。文章の　意味を　考えて、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ふっています",
+        "alternative_2": "ふります",
+        "alternative_3": "ふっていました",
+        "alternative_4": "ふりました",
+        "correct_alternative": 1
+      },
+      "media": {
+        "audio_file_path": null,
+        "image_file_path": null,
+        "text_content": "今日はあさから雨が「１」。今７時はんです。わたしは日本語センターのロビーにいます。「２」テレビを見ています。わたしはまいあさ「３」。\n\nマリさんはしんぶんを読んでいます。キムさんはまどの近く「４」日本語をべんきょうしています。キムさんはまいあさ２じかんべんきょうします。\n\nまいあさ９時からしけんがあります。キムさんは「５」。"
+      },
+      "tags": []
+    },
+    {
+      "id": 227,
+      "question_type": "grammar",
+      "question_text": "「２」に何を入れますか。",
+      "statement": {
+        "statement_text": "「１」から「５」　に　何を　入れますか。文章の　意味を　考えて、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "だから",
+        "alternative_2": "しかし",
+        "alternative_3": "そして",
+        "alternative_4": "けれど",
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": null,
+        "image_file_path": null,
+        "text_content": "今日はあさから雨が「１」。今７時はんです。わたしは日本語センターのロビーにいます。「２」テレビを見ています。わたしはまいあさ「３」。\n\nマリさんはしんぶんを読んでいます。キムさんはまどの近く「４」日本語をべんきょうしています。キムさんはまいあさ２じかんべんきょうします。\n\nまいあさ９時からしけんがあります。キムさんは「５」。"
+      },
+      "tags": []
+    },
+    {
+      "id": 228,
+      "question_type": "grammar",
+      "question_text": "「３」に何を入れますか。",
+      "statement": {
+        "statement_text": "「１」から「５」　に　何を　入れますか。文章の　意味を　考えて、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "８時からテレビを見ます",
+        "alternative_2": "７時からテレビを見ます",
+        "alternative_3": "８時からテレビを見ています",
+        "alternative_4": "７時からテレビを見ました",
+        "correct_alternative": 2
+      },
+      "media": {
+        "audio_file_path": null,
+        "image_file_path": null,
+        "text_content": "今日はあさから雨が「１」。今７時はんです。わたしは日本語センターのロビーにいます。「２」テレビを見ています。わたしはまいあさ「３」。\n\nマリさんはしんぶんを読んでいます。キムさんはまどの近く「４」日本語をべんきょうしています。キムさんはまいあさ２じかんべんきょうします。\n\nまいあさ９時からしけんがあります。キムさんは「５」。"
+      },
+      "tags": []
+    },
+    {
+      "id": 229,
+      "question_type": "grammar",
+      "question_text": "「４」に何を入れますか。",
+      "statement": {
+        "statement_text": "「１」から「５」　に　何を　入れますか。文章の　意味を　考えて、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "に",
+        "alternative_2": "へ",
+        "alternative_3": "で",
+        "alternative_4": "の",
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": null,
+        "image_file_path": null,
+        "text_content": "今日はあさから雨が「１」。今７時はんです。わたしは日本語センターのロビーにいます。「２」テレビを見ています。わたしはまいあさ「３」。\n\nマリさんはしんぶんを読んでいます。キムさんはまどの近く「４」日本語をべんきょうしています。キムさんはまいあさ２じかんべんきょうします。\n\nまいあさ９時からしけんがあります。キムさんは「５」。"
+      },
+      "tags": []
+    },
+    {
+      "id": 230,
+      "question_type": "grammar",
+      "question_text": "「５」に何を入れますか。",
+      "statement": {
+        "statement_text": "「１」から「５」　に　何を　入れますか。文章の　意味を　考えて、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "いつもべんきょうしません",
+        "alternative_2": "いつもよくべんきょうします",
+        "alternative_3": "ときどきべんきょうしません",
+        "alternative_4": "ときどきよくべんきょうします",
+        "correct_alternative": 2
+      },
+      "media": {
+        "audio_file_path": null,
+        "image_file_path": null,
+        "text_content": "今日はあさから雨が「１」。今７時はんです。わたしは日本語センターのロビーにいます。「２」テレビを見ています。わたしはまいあさ「３」。\n\nマリさんはしんぶんを読んでいます。キムさんはまどの近く「４」日本語をべんきょうしています。キムさんはまいあさ２じかんべんきょうします。\n\nまいあさ９時からしけんがあります。キムさんは「５」。"
+      },
+      "tags": []
+    },
+    {
+      "id": 231,
+      "question_type": "grammar",
+      "question_text": "なつやすみに一人（[blank]）祖母のいえに行きます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "と",
+        "alternative_2": "で",
+        "alternative_3": "は",
+        "alternative_4": "が",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 232,
+      "question_type": "grammar",
+      "question_text": "テーブルの上にナイフとフォークが（[blank]）。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "おいてあります",
+        "alternative_2": "おいています",
+        "alternative_3": "おきます",
+        "alternative_4": "おきました",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 233,
+      "question_type": "grammar",
+      "question_text": "もう少し（[blank]）食べてください。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "はやい",
+        "alternative_2": "はやくて",
+        "alternative_3": "はやく",
+        "alternative_4": "はやかった",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 234,
+      "question_type": "grammar",
+      "question_text": "いつも母（[blank]）いっしょにしょくじをします。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "へ",
+        "alternative_2": "と",
+        "alternative_3": "の",
+        "alternative_4": "で",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 235,
+      "question_type": "grammar",
+      "question_text": "しゅくだいを（[blank]）あとで、テレビを見ます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "して",
+        "alternative_2": "した",
+        "alternative_3": "する",
+        "alternative_4": "しに",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 236,
+      "question_type": "grammar",
+      "question_text": "今日は（[blank]）ねましょう。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "はやい",
+        "alternative_2": "はやくて",
+        "alternative_3": "はやく",
+        "alternative_4": "はやかった",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 237,
+      "question_type": "grammar",
+      "question_text": "わたしはよくラジオ（[blank]）おんがくを聞きます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "で",
+        "alternative_2": "に",
+        "alternative_3": "は",
+        "alternative_4": "を",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 238,
+      "question_type": "grammar",
+      "question_text": "ばんごはんを（[blank]）あとで、さんぽします。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "たべる",
+        "alternative_2": "たべた",
+        "alternative_3": "たべて",
+        "alternative_4": "たべ",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 239,
+      "question_type": "grammar",
+      "question_text": "わたしはさくぶんを（[blank]）とき、いつもじしょをつかいます。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "かいた",
+        "alternative_2": "かいて",
+        "alternative_3": "かきに",
+        "alternative_4": "かく",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 240,
+      "question_type": "grammar",
+      "question_text": "わたしはたなかさんを３時間（[blank]）まっていました。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "も",
+        "alternative_2": "を",
+        "alternative_3": "が",
+        "alternative_4": "で",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 241,
+      "question_type": "grammar",
+      "question_text": "妹さんは [underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]　か。",
+      "statement": {
+        "statement_text": "[star_underline_blank]　に　入る　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "べんきょうして",
+        "alternative_2": "います",
+        "alternative_3": "だいがくで",
+        "alternative_4": "どこの",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 242,
+      "question_type": "grammar",
+      "question_text": "時間が [underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]　 。",
+      "statement": {
+        "statement_text": "[star_underline_blank]　に　入る　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "から",
+        "alternative_2": "行きましょう",
+        "alternative_3": "タクシーで",
+        "alternative_4": "ありません",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 243,
+      "question_type": "grammar",
+      "question_text": "しけんは [underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]　でした。",
+      "statement": {
+        "statement_text": "[star_underline_blank]　に　入る　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "から",
+        "alternative_2": "ぜんぜん",
+        "alternative_3": "むずかしかった",
+        "alternative_4": "できません",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 244,
+      "question_type": "grammar",
+      "question_text": "まっすぐいくと [underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]　そこで肉を買ってください。",
+      "statement": {
+        "statement_text": "[star_underline_blank]　に　入る　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "スーパーが",
+        "alternative_2": "左側に",
+        "alternative_3": "から",
+        "alternative_4": "あります",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 245,
+      "question_type": "grammar",
+      "question_text": "男１：これから、田中さん [underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]　行きます。キムさんもいっしょにどうですか。\n男２：えっ、いいですか。お願いします。",
+      "statement": {
+        "statement_text": "[star_underline_blank]　に　入る　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "飲みに",
+        "alternative_2": "お店へ",
+        "alternative_3": "近くの",
+        "alternative_4": "と",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 246,
+      "question_type": "grammar",
+      "question_text": "「１」に何を入れますか。",
+      "statement": {
+        "statement_text": "「１」から「５」　に　何を　入れますか。文章の　意味を　考えて、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "ちいさいです",
+        "alternative_2": "ひろいです",
+        "alternative_3": "あかるいです",
+        "alternative_4": "にぎやかです",
+        "correct_alternative": 1
+      },
+      "media": {
+        "audio_file_path": null,
+        "image_file_path": null,
+        "text_content": "わたしはおうです。中国から来ました。けんしゅうせいです。わたしのへやは４０３です。４かいにあります。「１」が、きれいです。\n\nセンターにしょくどうがあります。いろいろなりょうりがあります。ちゅうかりょうりもあります。\nわたしはまいにちセンターの「２」ごはんを食べます。とても「３」。\n\nセンターから駅まで「４」１０分です。えきの近くに「５」あります。たいへんにぎやかです。"
+      },
+      "tags": []
+    },
+    {
+      "id": 247,
+      "question_type": "grammar",
+      "question_text": "「２」に何を入れますか。",
+      "statement": {
+        "statement_text": "「１」から「５」　に　何を　入れますか。文章の　意味を　考えて、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "しょくどうに",
+        "alternative_2": "しょくどうは",
+        "alternative_3": "しょくどうで",
+        "alternative_4": "しょくどうへ",
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": null,
+        "image_file_path": null,
+        "text_content": "わたしはおうです。中国から来ました。けんしゅうせいです。わたしのへやは４０３です。４かいにあります。「１」が、きれいです。\n\nセンターにしょくどうがあります。いろいろなりょうりがあります。ちゅうかりょうりもあります。\nわたしはまいにちセンターの「２」ごはんを食べます。とても「３」。\n\nセンターから駅まで「４」１０分です。えきの近くに「５」あります。たいへんにぎやかです。"
+      },
+      "tags": []
+    },
+    {
+      "id": 248,
+      "question_type": "grammar",
+      "question_text": "「３」に何を入れますか。",
+      "statement": {
+        "statement_text": "「１」から「５」　に　何を　入れますか。文章の　意味を　考えて、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "おもしろいです",
+        "alternative_2": "さむいです",
+        "alternative_3": "つまらないです",
+        "alternative_4": "おいしいです",
+        "correct_alternative": 4
+      },
+      "media": {
+        "audio_file_path": null,
+        "image_file_path": null,
+        "text_content": "わたしはおうです。中国から来ました。けんしゅうせいです。わたしのへやは４０３です。４かいにあります。「１」が、きれいです。\n\nセンターにしょくどうがあります。いろいろなりょうりがあります。ちゅうかりょうりもあります。\nわたしはまいにちセンターの「２」ごはんを食べます。とても「３」。\n\nセンターから駅まで「４」１０分です。えきの近くに「５」あります。たいへんにぎやかです。"
+      },
+      "tags": []
+    },
+    {
+      "id": 249,
+      "question_type": "grammar",
+      "question_text": "「４」に何を入れますか。",
+      "statement": {
+        "statement_text": "「１」から「５」　に　何を　入れますか。文章の　意味を　考えて、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "あるき",
+        "alternative_2": "あるいて",
+        "alternative_3": "あるいた",
+        "alternative_4": "あるく",
+        "correct_alternative": 2
+      },
+      "media": {
+        "audio_file_path": null,
+        "image_file_path": null,
+        "text_content": "わたしはおうです。中国から来ました。けんしゅうせいです。わたしのへやは４０３です。４かいにあります。「１」が、きれいです。\n\nセンターにしょくどうがあります。いろいろなりょうりがあります。ちゅうかりょうりもあります。\nわたしはまいにちセンターの「２」ごはんを食べます。とても「３」。\n\nセンターから駅まで「４」１０分です。えきの近くに「５」あります。たいへんにぎやかです。"
+      },
+      "tags": []
+    },
+    {
+      "id": 250,
+      "question_type": "grammar",
+      "question_text": "「５」に何を入れますか。",
+      "statement": {
+        "statement_text": "「１」から「５」　に　何を　入れますか。文章の　意味を　考えて、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "デパートやスーパーや",
+        "alternative_2": "デパートなどスーパーなど",
+        "alternative_3": "デパートがスーパーが",
+        "alternative_4": "デパートやスーパーなどが",
+        "correct_alternative": 4
+      },
+      "media": {
+        "audio_file_path": null,
+        "image_file_path": null,
+        "text_content": "わたしはおうです。中国から来ました。けんしゅうせいです。わたしのへやは４０３です。４かいにあります。「１」が、きれいです。\n\nセンターにしょくどうがあります。いろいろなりょうりがあります。ちゅうかりょうりもあります。\nわたしはまいにちセンターの「２」ごはんを食べます。とても「３」。\n\nセンターから駅まで「４」１０分です。えきの近くに「５」あります。たいへんにぎやかです。"
+      },
+      "tags": []
+    },
+    {
+      "id": 251,
+      "question_type": "grammar",
+      "question_text": "わたしの母は５０さいです。父は５５さいです。母は父（[blank]）５さいわかいです。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "から",
+        "alternative_2": "まで",
+        "alternative_3": "より",
+        "alternative_4": "のほうが",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 252,
+      "question_type": "grammar",
+      "question_text": "わたしのうちはがっこうの隣（[blank]）あります。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "は",
+        "alternative_2": "を",
+        "alternative_3": "に",
+        "alternative_4": "で",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 253,
+      "question_type": "grammar",
+      "question_text": "こんげつは雨が１回（[blank]）ふりませんでした。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "しか",
+        "alternative_2": "だけ",
+        "alternative_3": "ぐらい",
+        "alternative_4": "など",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 254,
+      "question_type": "grammar",
+      "question_text": "子供　「いただきます。」",
+      "statement": {
+        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "まえに",
+        "alternative_2": "のまえに",
+        "alternative_3": "あとに",
+        "alternative_4": "のあとに",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 255,
+      "question_type": "grammar",
+      "question_text": "父はへや（[blank]）でて会社へ行きました。",
+      "statement": {
+        "statement_text": "（[blank]）　に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "まで",
+        "alternative_2": "より",
+        "alternative_3": "だけ",
+        "alternative_4": "から",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 256,
+      "question_type": "grammar",
+      "question_text": "男１　「あの [underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]　人はどなたですか。」\n\n男２　「ああ、あの赤いシャツを着た人ね。あれはリーさんですよ。」",
+      "statement": {
+        "statement_text": "[star_underline_blank]　に　入る　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "いる",
+        "alternative_2": "を",
+        "alternative_3": "サングラス",
+        "alternative_4": "かけて",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 257,
+      "question_type": "grammar",
+      "question_text": "佐藤さんは [underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]　います。",
+      "statement": {
+        "statement_text": "[star_underline_blank]　に　入る　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "飲んで",
+        "alternative_2": "お茶を",
+        "alternative_3": "いま",
+        "alternative_4": "きっさてんで",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 258,
+      "question_type": "grammar",
+      "question_text": "ここは車を [underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]　こうじょうです",
+      "statement": {
+        "statement_text": "[star_underline_blank]　に　入る　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "いちばん大きい",
+        "alternative_2": "つくっている",
+        "alternative_3": "日本で",
+        "alternative_4": "こうじょうで",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 259,
+      "question_type": "grammar",
+      "question_text": "６時におきて [underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]　行きます。",
+      "statement": {
+        "statement_text": "[star_underline_blank]　に　入る　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "それから",
+        "alternative_2": "たべて",
+        "alternative_3": "かいしゃへ",
+        "alternative_4": "ごはんを",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": []
+    },
+    {
+      "id": 260,
+      "question_type": "grammar",
+      "question_text": "とうきょうえきで [underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]　ください。",
+      "statement": {
+        "statement_text": "[star_underline_blank]　に　入る　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "おりて",
+        "alternative_2": "よこはまえきで",
+        "alternative_3": "のって",
+        "alternative_4": "でんしゃに",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": []
+    }
+  ]
+}
