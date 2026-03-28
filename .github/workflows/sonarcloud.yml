@@ -15,20 +15,20 @@ jobs:
     
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
         with:
           fetch-depth: 0
           submodules: recursive
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@a309ff8b426b58ec0e2a45f0f869d46889d02405 # v6.2.0
         with:
           python-version: '3.11'
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@53b83947a5a98c8d113130e565377fae1a50d02f # v6.3.0
         with:
-          node-version: '20'
+          node-version: '22'
 
       - name: Install app dependencies
         working-directory: ./app
@@ -48,9 +48,47 @@ jobs:
             echo "No test script found in app; skipping tests"
           fi
 
+      - name: Install web dependencies
+        working-directory: ./web
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            echo "package-lock.json not found in web; skipping npm ci"
+          fi
+
+      - name: Run web tests with coverage
+        working-directory: ./web
+        run: |
+          if npm run | grep -q " test"; then
+            npm test -- --coverage --watchAll=false
+          else
+            echo "No test script found in web; skipping tests"
+          fi
+
+      - name: Install server dependencies
+        working-directory: ./server
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+          pip install pytest-cov
+
+      - name: Run server tests with coverage
+        working-directory: ./server
+        run: |
+          if [ -d tests ]; then
+            pytest --cov=. --cov-report=xml:coverage.xml
+          else
+            echo "No tests directory found in server; skipping tests"
+          fi
+
       - name: SonarQube Scan
-        uses: SonarSource/sonarqube-scan-action@v5
+        uses: sonarsource/sonarqube-scan-action@a31c9398be7ace6bbfaf30c0bd5d415f843d45e9 # v7.0.0
+        with:
+          args: >
+            -Dsonar.host.url=https://sonarcloud.io
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-          SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL }}
