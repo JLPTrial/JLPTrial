@@ -97,7 +97,7 @@ Variáveis mínimas recomendadas para o flavor `dev`:
 
 ```bash
 APP_FLAVOR=dev
-DEV_BACKEND_HOST=127.0.0.1
+DEV_BACKEND_HOST=localhost
 DEV_BACKEND_PORT=8000
 DEV_WEB_HOST=0.0.0.0
 DEV_WEB_PORT=5173
@@ -145,7 +145,7 @@ devbox run setupDatabase
 devbox run setupAndroid
 ```
 
-ou faça tudo de uma vez com:
+Ou faça tudo de uma vez com:
 ```bash
 devbox run setup
 ```
@@ -153,9 +153,9 @@ devbox run setup
 Inicialização dos serviços:
 
 ```bash
-devbox run startBackend
-devbox run startWeb  
-devbox run startDev 
+devbox run startBackend # Inicializa apenas o servidor FastAPI
+devbox run startWeb # Inicializa apenas o site  
+devbox run startDev  # Inicializa ambos ao mesmo tempo
 ```
 
 Mobile (debug/build):
@@ -188,7 +188,3 @@ devbox run startWeb
 # Mobile Android em debug
 devbox run startAndroid
 ```
-
-Swagger do backend: `http://<BACKEND_HOST>:<BACKEND_PORT>/docs`
-
-Os valores de host/porta são lidos do `.env` conforme o `APP_FLAVOR` (`dev` ou `prod`).
