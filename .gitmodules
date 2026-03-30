@@ -1,12 +1,19 @@
 [submodule "app"]
 	path = app
 	url = https://github.com/JLPTrial/app.git
+	branch = main
+
 [submodule "web"]
 	path = web
 	url = https://github.com/JLPTrial/web.git
+	branch = main
+
 [submodule "server"]
 	path = server
 	url = https://github.com/JLPTrial/server.git
+	branch = main
+
 [submodule "database"]
 	path = database
 	url = https://github.com/JLPTrial/database.git
+	branch = main
