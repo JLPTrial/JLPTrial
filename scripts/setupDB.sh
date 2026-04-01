@@ -121,7 +121,7 @@ build_level_db() {
   log_info "Copiando assets de ${level}..."
   copy_level_assets "${level}"
 
-  log_info "Gerando ${level}.db via script Python..."
+  log_info "Construíndo ${level}.db via script Python..."
   run_python_db_builder "${level}"
 
   log_info "Nível ${level} concluído em ${OUTPUT_DIR}/${level}/"
@@ -132,7 +132,6 @@ main() {
 
   local requested_levels=()
   local arg
-  local normalized
 
   if [[ $# -eq 0 ]]; then
     while IFS= read -r level; do
@@ -151,7 +150,7 @@ main() {
         show_examples
         exit 1
       fi
-      requested_levels+=("${normalized}")
+      requested_levels+=("${arg}")
     done
   fi
 

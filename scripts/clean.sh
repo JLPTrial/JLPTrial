@@ -107,6 +107,10 @@ if [[ ${OPT_APP} -eq 1 ]]; then
     rm -rf "${APP_DIR}/.expo-shared"
     rm -rf "${APP_DIR}/android/.gradle"
     rm -rf "${APP_DIR}/android/app/build"
+
+    if [[ -d "${APP_DIR}/assets/data" ]]; then
+        rm -rf "${APP_DIR}/assets/data"
+    fi
 fi
 
 if [[ ${OPT_WEB} -eq 1 ]]; then
@@ -125,6 +129,10 @@ if [[ ${OPT_BACKEND} -eq 1 ]]; then
 
     if [[ -d "${SERVER_DIR}/.venv" ]]; then
         rm -rf "${SERVER_DIR}/.venv"
+    fi
+
+    if [[ -d "${SERVER_DIR}/data" ]]; then
+        rm -rf "${SERVER_DIR}/data"
     fi
 fi
 
