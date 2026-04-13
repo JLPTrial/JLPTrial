@@ -1,0 +1,26 @@
+name: Tarefa
+description: Registre uma tarefa, ajuste ou trabalho comum
+title: "<Seu Título>"
+labels: ["Demanda", "status: Pendente"]
+body:
+  - type: textarea
+    id: descricao
+    attributes:
+      label: Descrição
+      description: 
+      placeholder: "Descreva a feature, modificação ou trabalho a ser realizado"
+    validations:
+      required: true
+  - type: textarea
+    id: criterios_de_aceite
+    attributes:
+      label: Critérios de aceite
+      description: Liste os critérios objetivos para considerar a issue concluída.
+      placeholder: "- [ ] ...\n- [ ] ...\n- [ ] ..."
+    validations:
+      required: true
+  - type: textarea
+    id: contexto_adicional
+    attributes:
+      label: Contexto adicional
+      description: Adicione links, observações, restrições, exemplos ou qualquer informação útil.
