@@ -56,6 +56,8 @@ cd "${ROOT_DIR}/app"
 echo "[mobile] Plataforma=${PLATFORM} Modo=${MODE} Flavor=${FLAVOR}"
 echo "[mobile] EXPO_PUBLIC_API_URL=${EXPO_PUBLIC_API_URL}"
 
+"${ROOT_DIR}/scripts/includeMediaApp.sh"
+
 if [[ "${MODE}" == "debug" ]]; then
   if [[ "${PLATFORM}" == "android" ]]; then
     npx expo start --android
