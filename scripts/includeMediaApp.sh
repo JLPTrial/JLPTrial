@@ -27,7 +27,7 @@ for LVL in "${LEVELS[@]}"; do
         DIR_TYPE=$(dirname "$SUB_PATH")
         FILENAME=$(basename "$file")
         
-        KEY="$DIR_TYPE/$FILENAME"
+        KEY="$DIR_TYPE/JT4Y/$FILENAME"
         REQ="../../assets/data/$LVL/images/JT4Y/$SUB_PATH"
         
         echo "  \"$LVL$KEY\": require(\"$REQ\")," >> $OUTPUT_FILE
