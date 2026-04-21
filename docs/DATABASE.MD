@@ -19,7 +19,7 @@ Com base no schema normalizado em `database/schemas/schema.sql`, as questões de
   "id": 1,
   "question_type": "kanji",
   "statement": {
-    "statement_text": "Texto da questão"
+    "question_command": "Texto da questão"
   },
   "alternatives": {
     "alternative_1": "Opção 1",
@@ -37,7 +37,7 @@ Com base no schema normalizado em `database/schemas/schema.sql`, as questões de
 
 - `id`: identificador único da questão
 - `question_type`: tipo da questão (`grammar`, `vocabulary`, `kanji`, `reading`, `listening`)
-- `statement.statement_text`: enunciado do tipo de queestão
+- `statement.question_command`: enunciado do tipo de queestão
 - `alternatives`: alternativas e índice da correta
 - `media`: objeto opcional caso a questão precise de mais informações seja áudio, imagem ou mais texto (`null` quando não houver)
 - `tags`: array de IDs de tags
@@ -56,7 +56,7 @@ Com base no schema normalizado em `database/schemas/schema.sql`, as questões de
   "question_type": "grammar",
   "question_text": "わたし ([blank]) 学校へ行きます。",
   "statement": {
-    "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
   },
   "alternatives": {
     "alternative_1": "は",
@@ -78,7 +78,7 @@ Com base no schema normalizado em `database/schemas/schema.sql`, as questões de
   "question_type": "grammar",
   "question_text": "とうきょうえきで [underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]　ください。",
   "statement": {
-    "statement_text": "[star_underline_blank]　に　入る　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+    "question_command": "[star_underline_blank]　に　入る　ものは　どれですか。１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
   },
   "alternatives": {
     "alternative_1": "おりて",
@@ -100,7 +100,7 @@ Com base no schema normalizado em `database/schemas/schema.sql`, as questões de
   "question_type": "grammar",
   "question_text": "「１」に何を入れますか。",
   "statement": {
-    "statement_text": "「１」から「５」　に　何を　入れますか。文章の　意味を　考えて、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
+    "question_command": "「１」から「５」　に　何を　入れますか。文章の　意味を　考えて、１・２・３・４から　いちばん　いい　ものを　一つ　えらんで　ください。"
   },
   "alternatives": {
     "alternative_1": "ちいさいです",
@@ -128,7 +128,7 @@ Com base no schema normalizado em `database/schemas/schema.sql`, as questões de
   "question_type": "vocabulary",
   "question_text": "（[blank]）えいがをみにいきませんか？",
   "statement": {
-    "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
   },
   "alternatives": {
     "alternative_1": "ゆうべ",
@@ -150,7 +150,7 @@ Com base no schema normalizado em `database/schemas/schema.sql`, as questões de
   "question_type": "vocabulary",
   "question_text": "{あさこうえんをさんぽしました。}",
   "statement": {
-    "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
   },
   "alternatives": {
     "alternative_1": "あさこうえんをとびました。",
@@ -177,7 +177,7 @@ Com base no schema normalizado em `database/schemas/schema.sql`, as questões de
   "question_type": "kanji",
   "question_text": "一日は二十四時間です。そして、一時間は{六十分}で、一分は六十びょうです。",
   "statement": {
-    "statement_text": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    "question_command": "[underline_blank]　の　ことばは　ひらがなで　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
   },
   "alternatives": {
     "alternative_1": "ろくじゅうふん",
@@ -199,7 +199,7 @@ Com base no schema normalizado em `database/schemas/schema.sql`, as questões de
   "question_type": "kanji",
   "question_text": "このへやは{せまい}です。",
   "statement": {
-    "statement_text": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    "question_command": "[underline_blank]　の　ことばは　どう　かきますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
   },
   "alternatives": {
     "alternative_1": "広い",
@@ -231,7 +231,7 @@ Com base no schema normalizado em `database/schemas/schema.sql`, as questões de
   "question_type": "reading",
   "question_text": "[ 1 ] には何を入れますか。",
   "statement": {
-    "statement_text": "[ 1 ] から [ 5 ] に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+    "question_command": "[ 1 ] から [ 5 ] に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
   },
   "alternatives": {
     "alternative_1": "時計を買ったから、だいじょうぶです",
@@ -259,7 +259,7 @@ Com base no schema normalizado em `database/schemas/schema.sql`, as questões de
   "question_type": "reading",
   "question_text": "「しつもん」この人のアパートはどれですか。",
   "statement": {
-    "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
   },
   "alternatives": {
     "alternative_1": "１",
@@ -287,7 +287,7 @@ Com base no schema normalizado em `database/schemas/schema.sql`, as questões de
   "question_type": "reading",
   "question_text": "この町のアパ－トの説明で正しいものはどれですか。",
   "statement": {
-    "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+    "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
   },
   "alternatives": {
     "alternative_1": "今はペットといっしょに住めるアパ－トのほうが多い。",
@@ -318,7 +318,7 @@ Com base no schema normalizado em `database/schemas/schema.sql`, as questões de
   "question_type": "listening",
   "question_text": "女の人がタクシーの男の人と話しています。タクシーはどの道を行きますか。",
   "statement": {
-    "statement_text": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+    "question_command": "まず　しつもんを　聞きいて　ください。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
   },
   "alternatives": {
     "alternative_1": "１",
@@ -344,7 +344,7 @@ Com base no schema normalizado em `database/schemas/schema.sql`, as questões de
   "question_type": "listening",
   "question_text": "家へ帰ります。友達に何と言いますか。",
   "statement": {
-    "statement_text": "えを　見みながら　しつもんを　聞きいて　ください。\n→（やじるし）の　人ひとは　何なんと　言いいますか。１から３の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+    "question_command": "えを　見みながら　しつもんを　聞きいて　ください。\n→（やじるし）の　人ひとは　何なんと　言いいますか。１から３の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
   },
   "alternatives": {
     "alternative_1": "１",
@@ -374,7 +374,7 @@ Com base no schema normalizado em `database/schemas/schema.sql`, as questões de
   "question_type": "listening",
   "question_text": "女の学生と男の学生が話しています。 2人は明日どこで会いますか？",
   "statement": {
-    "statement_text": "まず　しつもんを　聞きいて　ください。そのあと、もんだいようしを　見みて　ください。読よむ　時間じかんが　あります。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
+    "question_command": "まず　しつもんを　聞きいて　ください。そのあと、もんだいようしを　見みて　ください。読よむ　時間じかんが　あります。それから　話はなしを　聞きいて、もんだいようしの　１から４の　中なかから、いちばん　いい　ものを　一ひとつ　えらんで　ください。"
   },
   "alternatives": {
     "alternative_1": "こうえん",
