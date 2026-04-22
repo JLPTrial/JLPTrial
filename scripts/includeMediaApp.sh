@@ -21,15 +21,10 @@ for LVL in "${LEVELS[@]}"; do
         echo "  \"$LVL$KEY\": require(\"$REQ\")," >> $OUTPUT_FILE
     done
 
-    find "$LVL_DIR/images/JT4Y" -name "*.png" 2>/dev/null | while read -r file; do
-        SUB_PATH=$(echo "$file" | sed "s|.*JT4Y/||")
+    find "$LVL_DIR/images" -name "*.png" 2>/dev/null | while read -r file; do
+        KEY=$(echo "$file" | sed "s|.*$LVL/images/||")
+        REQ="../../assets/data/$LVL/images/$KEY"
 
-        DIR_TYPE=$(dirname "$SUB_PATH")
-        FILENAME=$(basename "$file")
-        
-        KEY="$DIR_TYPE/JT4Y/$FILENAME"
-        REQ="../../assets/data/$LVL/images/JT4Y/$SUB_PATH"
-        
         echo "  \"$LVL$KEY\": require(\"$REQ\")," >> $OUTPUT_FILE
     done
 done
