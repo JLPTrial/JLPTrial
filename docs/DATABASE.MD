@@ -11,7 +11,7 @@ Caso seja um formato novo ou um novo tipo de questão, adicione a este documento
 Definimos o formato recomendado para questões no JSON, com **seções separadas por tipo de questão** (`grammar`, `vocabulary`, `kanji`, `reading`, `listening`).
 
 > [!NOTE]
-> Os marcadores de formatação de texto (como `[blank]`, `[underline_blank]`, `{texto}`, etc.) estão documentados em [QUESTIONS_FORMAT.md](QUESTIONS_FORMAT.MD). Consulte esse arquivo para entender como estruturar o texto de questões com lacunas, sublinhados e outras formatações especiais.
+> Os marcadores de formatação de texto (como `[blank]`, `[underline_blank]`, `{texto}`, etc.) estão documentados em [DATABASE_FORMAT.md](DATABASE_FORMAT.MD). Consulte esse arquivo para entender como estruturar o texto de questões com lacunas, sublinhados e outras formatações especiais.
 >
 > 
 Seguindo o schema normalizado em `database/schemas/schema.sql`, as questões devem seguir esta estrutura:
