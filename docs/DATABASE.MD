@@ -226,8 +226,8 @@ Quando não houver mídia, usar:
   },
   "media": null,
   "tags": [
-    "Kanji Reading",
-    "Usage"
+    "Leitura de Kanji",
+    "Uso"
   ]
 }
 ```
@@ -251,7 +251,7 @@ Quando não houver mídia, usar:
   },
   "media": null,
   "tags": [
-    "Transcription"
+    "Transcrição"
   ]
 }
 ```
