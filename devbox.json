@@ -17,6 +17,7 @@
       ". $VENV_DIR/bin/activate"
     ],
     "scripts": {
+      "lint": "${DEVBOX_PROJECT_ROOT}/scripts/lint.sh \"$@\"",
       "setup": "${DEVBOX_PROJECT_ROOT}/scripts/setupAll.sh",
       "setupBackend": "${DEVBOX_PROJECT_ROOT}/scripts/setupBackend.sh",
       "setupDatabase": "${DEVBOX_PROJECT_ROOT}/scripts/setupDB.sh \"$@\"",
