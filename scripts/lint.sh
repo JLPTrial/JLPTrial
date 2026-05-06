@@ -32,9 +32,9 @@ log_msg() {
     esac
 
     if [[ "$typ" == "err" ]]; then
-        echo -e "${ERRO_BG}[${repo}]${RESET} ✗ ${msg}"
+        echo -e "${ERRO_BG}[${repo}]${RESET} ${msg}"
     elif [[ "$typ" == "ok" ]]; then
-        echo -e "${color}[${repo}]${RESET} ✓ ${msg}"
+        echo -e "${color}[${repo}]${RESET} ${msg}"
     else
         echo -e "${color}[${repo}]${RESET} ${msg}"
     fi
@@ -73,7 +73,7 @@ run_linter() {
     log_status "$repo" "Executando Linter"
 
     if (cd "$dir" && eval "$check_cmd"); then
-        log_success "$repo" "Nenhum problema foi encontrado"
+        log_success "$repo" "Nenhum erro foi encontrado"
         return 0
     fi
 
@@ -109,7 +109,17 @@ run_web_lint() {
 }
 
 run_server_check() {
-    run_linter "SERVIDOR" "${SERVER_DIR}" "python3 -m py_compile src/*.py" "" "server"
+    [[ ! -d "${SERVER_DIR}" ]] && { log_fail "SERVIDOR" "Pasta ${SERVER_DIR} não encontrada"; exit 1; }
+    
+    log_status "SERVIDOR" "Executando verificações completas do backend"
+    
+    if bash "${ROOT_DIR}/scripts/server-lint.sh"; then
+        log_success "SERVIDOR" "Todas as verificações passaram"
+        return 0
+    else
+        log_fail "SERVIDOR" "Foram encontrados problemas"
+        exit 1
+    fi
 }
 
 if [[ $# -eq 0 ]]; then
