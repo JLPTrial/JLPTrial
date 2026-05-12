@@ -24,3 +24,7 @@ Para ter mais detalhes em como configurar o ambiente de desenvolvimento, consult
 ## Contribuindo
 
 Caso seja um desenvolvedor externo e queira contribuir com o desenvolvimento deste aplicativo, primeiro leia [docs/CONTRIBUTING.MD](docs/CONTRIBUTING.MD) para ver como você pode contribuir efetivamente com o desenvolvimento do JLPTrial.
+
+## TROUBLESHOOTING
+
+Se durante o processo de configuração do ambiente, compilação, ou execução de testes em uma versão limpa do sistema, você encontrar problemas. Consulte a página de [docs/TROUBLESHOOTING.MD](docs/TROUBLESHOOTING.MD), para consultar a lista dos problemas mais comuns que podem acontecer na configuração do sistema, se o seu problema não estiver nesta lista, não hesite em abrir uma nova Issue descrevendo o problema.
