@@ -2,19 +2,24 @@
 
 set -euo pipefail
 
-ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-ENV_FILE="${ROOT_DIR}/.env"
+ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
 
-if [[ ! -f "${ENV_FILE}" ]]; then
-  echo "[web] Arquivo .env não encontrado em ${ENV_FILE}"
-  exit 1
-fi
+ERRO_BG="\033[0;41m"
+WEB="\033[0;30;45m"
+RESET="\033[0m"
 
+log_info() {
+  echo -e "${WEB}[WEB     ]${RESET} $1"
+}
 
-source "${ENV_FILE}"
+log_error() {
+  echo -e "${ERRO_BG}[WEB     ]${RESET} $1"
+}
+
+source "${ROOT_DIR}/.env"
 
 if [[ -z "${APP_FLAVOR:-}" ]]; then
-  echo "[web] APP_FLAVOR não definido no .env"
+  log_error "APP_FLAVOR não definido no .env"
   exit 1
 fi
 
@@ -23,7 +28,7 @@ FLAVOR="${APP_FLAVOR}"
 require_var() {
   local var_name="$1"
   if [[ -z "${!var_name:-}" ]]; then
-    echo "[web] Variável obrigatória ausente: ${var_name}"
+    log_error "Variável obrigatória ausente: ${var_name}"
     exit 1
   fi
 }
@@ -47,7 +52,7 @@ elif [[ "${FLAVOR}" == "dev" ]]; then
   API_HOST="${DEV_BACKEND_HOST}"
   API_PORT="${DEV_BACKEND_PORT}"
 else
-  echo "[web] APP_FLAVOR inválido: ${FLAVOR}. Use dev ou prod."
+  log_error "APP_FLAVOR inválido: ${FLAVOR}. Use dev ou prod."
   exit 1
 fi
 
@@ -55,6 +60,6 @@ cd "${ROOT_DIR}/web"
 
 export VITE_API_URL="http://${API_HOST}:${API_PORT}/"
 
-echo "[web] Iniciando em ${WEB_HOST}:${WEB_PORT} (flavor=${FLAVOR})"
-echo "[web] Consumindo API em ${VITE_API_URL}"
+log_info "Iniciando em ${WEB_HOST}:${WEB_PORT} (flavor=${FLAVOR})"
+log_info "Consumindo API em ${VITE_API_URL}"
 npm run dev -- --host "${WEB_HOST}" --port "${WEB_PORT}"

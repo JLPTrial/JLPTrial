@@ -9,7 +9,6 @@
 set -euo pipefail
 
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-echo $ROOT_DIR
 APP_DIR="${ROOT_DIR}/app"
 WEB_DIR="${ROOT_DIR}/web"
 SERVER_DIR="${ROOT_DIR}/server"
@@ -125,6 +124,7 @@ if [[ ${OPT_BACKEND} -eq 1 ]]; then
     find "${ROOT_DIR}" -type d -name '.mypy_cache' -prune -exec rm -rf {} +
     find "${ROOT_DIR}" -type d -name '.pytest_cache' -prune -exec rm -rf {} +
     find "${ROOT_DIR}" -type d -name '.ruff_cache' -prune -exec rm -rf {} +
+    find "${ROOT_DIR}" -type f -name '.coverage' -prune -exec rm -rf {} +
     rm -rf "${ROOT_DIR}/.venv"
 
     if [[ -d "${SERVER_DIR}/.venv" ]]; then

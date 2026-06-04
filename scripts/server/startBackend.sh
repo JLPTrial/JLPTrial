@@ -2,18 +2,24 @@
 
 set -euo pipefail
 
-ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-ENV_FILE="${ROOT_DIR}/.env"
+ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
 
-if [[ ! -f "${ENV_FILE}" ]]; then
-  echo "[backend] Arquivo .env não encontrado em ${ENV_FILE}"
-  exit 1
-fi
+ERRO_BG="\033[0;41m"
+BACKEND="\033[0;30;43m"
+RESET="\033[0m"
 
-source "${ENV_FILE}"
+log_info() {
+  echo -e "${BACKEND}[BACKEND ]${RESET} $1"
+}
+
+log_error() {
+  echo -e "${ERRO_BG}[BACKEND ]${RESET} $1"
+}
+
+source "${ROOT_DIR}/.env"
 
 if [[ -z "${APP_FLAVOR:-}" ]]; then
-  echo "[backend] APP_FLAVOR não definido no .env"
+  log_error "APP_FLAVOR não definido no .env"
   exit 1
 fi
 
@@ -22,7 +28,7 @@ FLAVOR="${APP_FLAVOR}"
 require_var() {
   local var_name="$1"
   if [[ -z "${!var_name:-}" ]]; then
-    echo "[backend] Variável obrigatória ausente: ${var_name}"
+    log_error "Variável obrigatória ausente: ${var_name}"
     exit 1
   fi
 }
@@ -38,14 +44,14 @@ elif [[ "${FLAVOR}" == "dev" ]]; then
   HOST="${DEV_BACKEND_HOST}"
   PORT="${DEV_BACKEND_PORT}"
 else
-  echo "[backend] APP_FLAVOR inválido: ${FLAVOR}. Use dev ou prod."
+  log_error "APP_FLAVOR inválido: ${FLAVOR}. Use dev ou prod."
   exit 1
 fi
 
 cd "${ROOT_DIR}/server"
 
-echo "[backend] Sincronizando dados do banco de dados..."
-"${ROOT_DIR}/scripts/syncDatabaseAssets.sh" server
+log_info "Sincronizando dados do banco de dados..."
+"${ROOT_DIR}/scripts/database/syncDatabaseAssets.sh" server
 
-echo "[backend] Iniciando em ${HOST}:${PORT} (flavor=${FLAVOR})"
+log_info "Iniciando em ${HOST}:${PORT} (flavor=${FLAVOR})"
 python3 -m uvicorn src.main:app --host "${HOST}" --port "${PORT}" --reload

@@ -2,20 +2,19 @@
 
 set -euo pipefail
 
-ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
 APP_DIR="${ROOT_DIR}/app"
 
 ERRO_BG="\033[0;41m"
 APP="\033[0;30;46m"
-ANDROID="\033[0;30;44m"
 RESET="\033[0m"
 
 log_info() {
-    echo -e "${ANDROID}[ANDROID ]${RESET} $1"
+    echo -e "${APP}[APP     ]${RESET} $1"
 }
 
 log_error() {
-    echo -e "${ERRO_BG}[ANDROID ]${RESET} $1"
+    echo -e "${ERRO_BG}[APP     ]${RESET} $1"
 }
 
 if [[ ! -d "${APP_DIR}" ]]; then
@@ -37,7 +36,7 @@ else
 fi
 
 log_info "Preparando dependências do app"
-"${ROOT_DIR}/scripts/setupApp.sh"
+"${ROOT_DIR}/scripts/app/setupApp.sh"
 
 cd "${APP_DIR}"
 log_info "Ambiente Android preparado. Para iniciar: npm run android"

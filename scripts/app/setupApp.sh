@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
 APP_DIR="${ROOT_DIR}/app"
 
 ERRO_BG="\033[0;41m"
@@ -31,6 +31,6 @@ npm install
 log_info "Dependências do app instaladas com sucesso."
 
 log_info "Sincronizando dados do banco de dados para app/assets/data..."
-"${ROOT_DIR}/scripts/syncDatabaseAssets.sh" app
+"${ROOT_DIR}/scripts/database/syncDatabaseAssets.sh" app
 
 log_info "Setup do app concluído com sucesso!"

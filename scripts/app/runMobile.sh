@@ -2,21 +2,26 @@
 
 set -euo pipefail
 
-ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-ENV_FILE="${ROOT_DIR}/.env"
+ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
 PLATFORM="${1:-android}"
 MODE="${2:-debug}"
 
-if [[ ! -f "${ENV_FILE}" ]]; then
-  echo "[mobile] Arquivo .env não encontrado em ${ENV_FILE}"
-  exit 1
-fi
+ERRO_BG="\033[0;41m"
+APP="\033[0;30;46m"
+RESET="\033[0m"
 
+log_info() {
+  echo -e "${APP}[APP     ]${RESET} $1"
+}
 
-source "${ENV_FILE}"
+log_error() {
+  echo -e "${ERRO_BG}[APP     ]${RESET} $1"
+}
+
+source "${ROOT_DIR}/.env"
 
 if [[ -z "${APP_FLAVOR:-}" ]]; then
-  echo "[mobile] APP_FLAVOR não definido no .env"
+  log_error "APP_FLAVOR não definido no .env"
   exit 1
 fi
 
@@ -25,7 +30,7 @@ FLAVOR="${APP_FLAVOR}"
 require_var() {
   local var_name="$1"
   if [[ -z "${!var_name:-}" ]]; then
-    echo "[mobile] Variável obrigatória ausente: ${var_name}"
+    log_error "Variável obrigatória ausente: ${var_name}"
     exit 1
   fi
 }
@@ -41,7 +46,7 @@ elif [[ "${FLAVOR}" == "dev" ]]; then
   API_HOST="${DEV_MOBILE_API_HOST}"
   API_PORT="${DEV_MOBILE_API_PORT}"
 else
-  echo "[mobile] APP_FLAVOR inválido: ${FLAVOR}. Use dev ou prod."
+  log_error "APP_FLAVOR inválido: ${FLAVOR}. Use dev ou prod."
   exit 1
 fi
 
@@ -53,27 +58,23 @@ fi
 
 cd "${ROOT_DIR}/app"
 
-echo "[mobile] Plataforma=${PLATFORM} Modo=${MODE} Flavor=${FLAVOR}"
-echo "[mobile] EXPO_PUBLIC_API_URL=${EXPO_PUBLIC_API_URL}"
+log_info "Plataforma=${PLATFORM} Modo=${MODE} Flavor=${FLAVOR}"
+log_info "EXPO_PUBLIC_API_URL=${EXPO_PUBLIC_API_URL}"
 
-"${ROOT_DIR}/scripts/includeMediaApp.sh"
+"${ROOT_DIR}/scripts/app/includeMediaApp.sh"
 
 if [[ "${MODE}" == "debug" ]]; then
   if [[ "${PLATFORM}" == "android" ]]; then
     npx expo start --android
-  elif [[ "${PLATFORM}" == "ios" ]]; then
-    npx expo start --ios
   else
-    echo "Uso: scripts/runMobile.sh [android|ios] [debug|release]"
+    log_error "Plataforma inválida: ${PLATFORM}. Use android"
     exit 1
   fi
 else
   if [[ "${PLATFORM}" == "android" ]]; then
     npx expo run:android --variant release
-  elif [[ "${PLATFORM}" == "ios" ]]; then
-    npx expo run:ios --configuration Release
   else
-    echo "Uso: scripts/runMobile.sh [android|ios] [debug|release]"
+    log_error "Plataforma inválida: ${PLATFORM}. Use android"
     exit 1
   fi
 fi

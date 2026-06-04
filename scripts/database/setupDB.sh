@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
 SCHEMA_PATH="${ROOT_DIR}/database/schemas/question_schema.sql"
 SOURCE_DIR="${ROOT_DIR}/database/data"
 OUTPUT_DIR="${ROOT_DIR}/database/outputs"
@@ -23,9 +23,9 @@ log_error() {
 
 show_examples() {
   echo "Exemplos de uso:"
-  echo "  scripts/databaseSetup.sh"
-  echo "  scripts/databaseSetup.sh N5"
-  echo "  scripts/databaseSetup.sh N5 N4"
+  echo "  scripts/database/setupDB.sh"
+  echo "  scripts/database/setupDB.sh N5"
+  echo "  scripts/database/setupDB.sh N5 N4"
 }
 
 validate_prerequisites() {

@@ -113,13 +113,20 @@ run_server_check() {
     
     log_status "SERVIDOR" "Executando verificações completas do backend"
     
-    if bash "${ROOT_DIR}/scripts/server-lint.sh"; then
-        log_success "SERVIDOR" "Todas as verificações passaram"
-        return 0
+    if [[ ${OPT_FIX} -eq 1 ]]; then
+        if bash "${ROOT_DIR}/scripts/server/server-lint.sh" --fix; then
+            log_success "SERVIDOR" "Corretor automático concluído."
+            return 0
+        fi
     else
-        log_fail "SERVIDOR" "Foram encontrados problemas"
-        exit 1
+        if bash "${ROOT_DIR}/scripts/server/server-lint.sh"; then
+            log_success "SERVIDOR" "Todas as verificações passaram"
+            return 0
+        fi
     fi
+
+    log_fail "SERVIDOR" "Foram encontrados problemas"
+    exit 1
 }
 
 if [[ $# -eq 0 ]]; then

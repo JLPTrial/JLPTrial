@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
 
 OUTPUT_FILE="$ROOT_DIR/app/src/constants/assetsMap.ts"
 BASE_PATH="$ROOT_DIR/app/assets/data"

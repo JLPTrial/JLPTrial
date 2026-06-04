@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
 
 cleanup() {
   if [[ -n "${BACKEND_PID:-}" ]]; then
@@ -12,10 +12,10 @@ cleanup() {
 
 trap cleanup EXIT INT TERM
 
-"${ROOT_DIR}/scripts/startBackend.sh" &
+"${ROOT_DIR}/scripts/server/startBackend.sh" &
 BACKEND_PID=$!
 
 # Pequena espera para reduzir chance de corrida no primeiro fetch do web.
 sleep 2
 
-"${ROOT_DIR}/scripts/startWeb.sh"
+"${ROOT_DIR}/scripts/web/startWeb.sh"
