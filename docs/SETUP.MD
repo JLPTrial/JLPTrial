@@ -104,7 +104,20 @@ DEV_WEB_PORT=5173
 DEV_MOBILE_API_HOST=127.0.0.1
 DEV_MOBILE_API_PORT=8000
 DEV_BACKEND_CORS_ORIGINS=http://localhost:5173,http://127.0.0.1:5173
+
+# Preencha as variáveis abaixo com as do seu App Firebase
+VITE_FIREBASE_API_KEY=""
+VITE_FIREBASE_AUTH_DOMAIN=""
+VITE_FIREBASE_PROJECT_ID=""
+VITE_FIREBASE_STORAGE_BUCKET=""
+VITE_FIREBASE_MESSAGING_SENDER_ID=""
+VITE_FIREBASE_APP_ID=""
+
+# Ou mantenha como False para fazer com que o Backend não valide o login a cada requisição.
+SECURE_REQUEST=False
 ```
+
+
 
 Para produção, preencha também as variáveis `PROD_*` no mesmo arquivo.
 

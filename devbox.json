@@ -17,20 +17,14 @@
       ". $VENV_DIR/bin/activate"
     ],
     "scripts": {
+      "test": "${DEVBOX_PROJECT_ROOT}/scripts/test.sh \"$@\"",
       "lint": "${DEVBOX_PROJECT_ROOT}/scripts/lint.sh \"$@\"",
-      "setup": "${DEVBOX_PROJECT_ROOT}/scripts/setupAll.sh",
-      "setupBackend": "${DEVBOX_PROJECT_ROOT}/scripts/setupBackend.sh",
-      "setupDatabase": "${DEVBOX_PROJECT_ROOT}/scripts/setupDB.sh \"$@\"",
-      "setupApp": "${DEVBOX_PROJECT_ROOT}/scripts/setupApp.sh",
-      "setupAndroid": "${DEVBOX_PROJECT_ROOT}/scripts/setupAndroid.sh",
-      "setupWeb": "${DEVBOX_PROJECT_ROOT}/scripts/setupWeb.sh",
-      "startBackend": "${DEVBOX_PROJECT_ROOT}/scripts/startBackend.sh",
-      "startWeb": "${DEVBOX_PROJECT_ROOT}/scripts/startWeb.sh",
-      "startDev": "${DEVBOX_PROJECT_ROOT}/scripts/startDev.sh",
-      "startAndroid": "${DEVBOX_PROJECT_ROOT}/scripts/runMobile.sh android debug",
-      "startIOS": "${DEVBOX_PROJECT_ROOT}/scripts/runMobile.sh ios debug",
-      "buildAndroid": "${DEVBOX_PROJECT_ROOT}/scripts/runMobile.sh android release",
-      "buildIOS": "${DEVBOX_PROJECT_ROOT}/scripts/runMobile.sh ios release",
+      "setup": "${DEVBOX_PROJECT_ROOT}/scripts/setup.sh \"$@\"",
+      "startBackend": "${DEVBOX_PROJECT_ROOT}/scripts/server/startBackend.sh",
+      "startWeb": "${DEVBOX_PROJECT_ROOT}/scripts/web/startWeb.sh",
+      "startDev": "${DEVBOX_PROJECT_ROOT}/scripts/web/startDev.sh",
+      "startAndroid": "${DEVBOX_PROJECT_ROOT}/scripts/app/runMobile.sh android debug",
+      "buildAndroid": "${DEVBOX_PROJECT_ROOT}/scripts/app/runMobile.sh android release",
       "clean": "bash ${DEVBOX_PROJECT_ROOT}/scripts/clean.sh \"$@\""
     }
   },
