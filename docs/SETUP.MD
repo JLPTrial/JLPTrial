@@ -151,11 +151,7 @@ Este comando executa o setup completo de App, Backend e Web.
 Setup por parte:
 
 ```bash
-devbox run setupWeb
-devbox run setupApp
-devbox run setupBackend
-devbox run setupDatabase
-devbox run setupAndroid
+devbox run setup [--web|--db|--database|--app|--server]
 ```
 
 Ou faça tudo de uma vez com:
@@ -175,15 +171,19 @@ Mobile (debug/build):
 
 ```bash
 devbox run startAndroid
-devbox run startIOS
 devbox run buildAndroid
-devbox run buildIOS
 ```
 
 Para limpar artefatos gerados (dependências, caches e builds):
 
 ```bash
 devbox run clean
+```
+
+Ou específico por módulo
+
+```bash
+devbox run clean [--app|--database|--devbox|--server|--web]
 ```
 
 ### 4. Fluxo recomendado para desenvolvimento
