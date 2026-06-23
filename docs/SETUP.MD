@@ -136,9 +136,12 @@ devbox shell
 
 ### 2. Instalar dependências
 
-```bash
-devbox run setup
-```
+1. Clone os submódulos do projeto: `git clone --recurse-submodules https://github.com/JLPTrial/JLPTrial.git`
+
+> [!TIP]
+> Você pode também baixar primeiro o repositório principal com `git clone https://github.com/JLPTrial/JLPTrial.git` e em seguida, baixar os seus submódulos com `git submodule update --init --recursive`
+
+2. Execute o setup inicial: `devbox run setup`
 
 Este comando executa o setup completo de App, Backend e Web.
 
