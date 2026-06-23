@@ -40,22 +40,6 @@ Ao contribuir para o JLPTrial, lembre-se:
 > [!TIP]
 > Use a barra de busca antes de abrir uma nova issue. Muitas vezes, alguém já reportou o mesmo problema!
 
-### Ambiente de Desenvolvimento
-
-Antes de começar a contribuir:
-
-1. Clone o repositório com seus submódulos: `git clone --recurse-submodules https://github.com/JLPTrial/JLPTrial.git`
-2. Siga as instruções em [docs/SETUP.MD](SETUP.MD) para configurar o ambiente
-3. Entre no ambiente do projeto com DevBox: `devbox shell`
-4. Execute o setup inicial: `devbox run setup`
-5. Verifique se consegue iniciar os módulos com os comandos do DevBox (ex.: `devbox run startDev`)
-
-> [!TIP]
-> Você pode também baixar primeiro o repositório principal com `git clone https://github.com/JLPTrial/JLPTrial.git` e em seguida, baixar os seus submódulos com `git submodule update --init --recursive`
-
-> [!TIP]
-> Não comece a trabalhar sem ter o ambiente completamente configurado segundo o modelo do DevBox. Isso pode causar inconsistências na execução entre a sua máquina e a da equipe.
-
 ## Parte 2: Trabalhando com Issues
 
 ### Como Abrir uma Issue
