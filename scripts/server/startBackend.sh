@@ -53,5 +53,8 @@ cd "${ROOT_DIR}/server"
 log_info "Sincronizando dados do banco de dados..."
 "${ROOT_DIR}/scripts/database/syncDatabaseAssets.sh" server
 
+log_info "Atualizando questões no banco unificado..."
+"${ROOT_DIR}/scripts/server/importLevelDB.sh"
+
 log_info "Iniciando em ${HOST}:${PORT} (flavor=${FLAVOR})"
 python3 -m uvicorn src.main:app --host "${HOST}" --port "${PORT}" --reload

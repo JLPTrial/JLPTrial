@@ -37,4 +37,7 @@ log_info "Dependencias do SERVIDORinstaladas com sucesso."
 log_info "Sincronizando dados do banco de dados..."
 "${ROOT_DIR}/scripts/database/syncDatabaseAssets.sh" server
 
-log_info "Setup do SERVIDORconcluído com sucesso!"
+log_info "Importando bancos de nível para o banco unificado..."
+"${ROOT_DIR}/scripts/server/importLevelDB.sh"
+
+log_info "Setup do SERVIDOR concluído com sucesso!"
