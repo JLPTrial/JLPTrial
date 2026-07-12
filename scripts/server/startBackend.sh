@@ -16,7 +16,9 @@ log_error() {
   echo -e "${ERRO_BG}[BACKEND ]${RESET} $1"
 }
 
+set -a
 source "${ROOT_DIR}/.env"
+set +a
 
 if [[ -z "${APP_FLAVOR:-}" ]]; then
   log_error "APP_FLAVOR não definido no .env"
@@ -36,12 +38,12 @@ require_var() {
 if [[ "${FLAVOR}" == "prod" ]]; then
   require_var "PROD_BACKEND_HOST"
   require_var "PROD_BACKEND_PORT"
-  HOST="${PROD_BACKEND_HOST}"
+  HOST="${PROD_BACKEND_BIND_HOST:-${PROD_BACKEND_HOST}}"
   PORT="${PROD_BACKEND_PORT}"
 elif [[ "${FLAVOR}" == "dev" ]]; then
   require_var "DEV_BACKEND_HOST"
   require_var "DEV_BACKEND_PORT"
-  HOST="${DEV_BACKEND_HOST}"
+  HOST="${DEV_BACKEND_BIND_HOST:-${DEV_BACKEND_HOST}}"
   PORT="${DEV_BACKEND_PORT}"
 else
   log_error "APP_FLAVOR inválido: ${FLAVOR}. Use dev ou prod."

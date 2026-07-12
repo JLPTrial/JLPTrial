@@ -99,10 +99,12 @@ Variáveis mínimas recomendadas para o flavor `dev`:
 APP_FLAVOR=dev
 DEV_BACKEND_HOST=localhost
 DEV_BACKEND_PORT=8000
+DEV_BACKEND_BIND_HOST=0.0.0.0
 DEV_WEB_HOST=0.0.0.0
 DEV_WEB_PORT=5173
 DEV_MOBILE_API_HOST=127.0.0.1
 DEV_MOBILE_API_PORT=8000
+VITE_DEV_API_PORT=8000
 DEV_BACKEND_CORS_ORIGINS=http://localhost:5173,http://127.0.0.1:5173
 
 # Preencha as variáveis abaixo com as do seu App Firebase
@@ -121,7 +123,7 @@ SECURE_REQUEST=False
 
 Para produção, preencha também as variáveis `PROD_*` no mesmo arquivo.
 
-4. **NUNCA** sob hipótese alguma faça commit do `.env`
+1. **NUNCA** sob hipótese alguma faça commit do `.env`
 
 ## Setup do Projeto
 

@@ -16,7 +16,9 @@ log_error() {
   echo -e "${ERRO_BG}[WEB     ]${RESET} $1"
 }
 
+set -a
 source "${ROOT_DIR}/.env"
+set +a
 
 if [[ -z "${APP_FLAVOR:-}" ]]; then
   log_error "APP_FLAVOR não definido no .env"
@@ -58,8 +60,15 @@ fi
 
 cd "${ROOT_DIR}/web"
 
-export VITE_API_URL="http://${API_HOST}:${API_PORT}/"
-
 log_info "Iniciando em ${WEB_HOST}:${WEB_PORT} (flavor=${FLAVOR})"
-log_info "Consumindo API em ${VITE_API_URL}"
+
+if [[ "${FLAVOR}" == "prod" ]]; then
+  unset VITE_DEV_API_URL
+  export VITE_PROD_API_URL="http://${API_HOST}:${API_PORT}/"
+  log_info "Consumindo API em ${API_URL_INFO}"
+else
+  unset VITE_DEV_API_URL VITE_PROD_API_URL
+  export VITE_DEV_API_PORT="${API_PORT}"
+fi
+
 npm run dev -- --host "${WEB_HOST}" --port "${WEB_PORT}"
